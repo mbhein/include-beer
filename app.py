@@ -1,8 +1,11 @@
 import os
+import subprocess
 from flask import Flask, render_template
 
-with open("files/somefile", "r") as f:
-    content = f.read()
+#with open("files/somefile", "r") as f:
+#    content = f.read()
+
+content = subprocess.call('scripts/get-envTemp.py',shell=True)
 
 app = Flask(__name__)
 

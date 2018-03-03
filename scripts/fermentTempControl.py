@@ -11,7 +11,7 @@ import os, sys
 import Adafruit_DHT
 import glob
 import time as CDT
-
+from subprocess import check_output
 
 argslen = len(sys.argv)
 
@@ -37,12 +37,13 @@ os.system('modprobe w1-gpio')
 os.system('modprobe w1-therm')
 
 # declare and set our variables
-outputfile='/home/pi/scripts/output_FermentTempControl.txt'
+outputfile='/home/pi/include-beer/scripts/pri_chocolate_pecan_porter.txt'
 currentDateTime=CDT.strftime("%Y-%m-%d %H:%M:%S", CDT.localtime())
+control_file='/home/pi/include-beer/files/HeatOn'
 
 probeBaseDir = '/sys/bus/w1/devices/'
-probeDeviceFolder = glob.glob(probeBaseDir + '28*')[0]
-probeDeviceFile = probeDeviceFolder + '/w1_slave'
+probe_found = True
+
 
 
 
@@ -72,22 +73,39 @@ def read_ambient():
     ambient_temp = ambient_temp * 9/5.0 + 32
     return ambient_temp, ambient_humidity
 
-#debug area
-currentTemps = 'Probe: ' + str(read_temp()) + ' F Ambient: ' +  str(read_ambient()[0]) + ' F'
-rawTemps = read_temp(), read_ambient()[0]
-#print currentTemps
-#print rawTemps
+try:
+    probeDeviceFolder = glob.glob(probeBaseDir + '28*')[0]
+except IndexError:
+    probe_found = False
 
-if read_temp() < temp_min:
-    action = "Action: Power on heater"
-elif read_temp > temp_max:
-    action = "Action: Need to cool vessel"
+if probe_found:
+    probeDeviceFile = probeDeviceFolder + '/w1_slave'
+    #debug area
+    currentTemps = 'Probe: ' + str(read_temp()) + ' F Ambient: ' +  str(read_ambient()[0]) + ' F'
+    rawTemps = read_temp(), read_ambient()[0]
+    #print currentTemps
+    #print rawTemps
+
+    if read_temp() < int(temp_min):
+        if os.path.exists(control_file):
+            temp_status = "Action: Heater already on"
+        else:
+            temp_status = "Action: Turning Heater on"
+            call_controlHeater = check_output('/home/pi/include-beer/scripts/controlHeater.py on', shell=True)
+    elif read_temp() > int(temp_max):
+        temp_status = "Action: Need to cool vessel"
+    else:
+        temp_status = "Action: Temperature is perfect"
+        if os.path.exists(control_file):
+            call_controlHeater = check_output('/home/pi/include-beer/scripts/controlHeater.py off', shell=True)
 else:
-    action = "Action: Temperature is perfect"
+    currentTemps = 'ERROR ***PROBE not FOUND*** Ambient: ' +  str(read_ambient()[0]) + ' F'
+    temp_status = 'Action: Turn off Heater'
+    call_controlHeater = check_output('/home/pi/include-beer/scripts/controlHeater.py off', shell=True)
 
 # open output file to append
 fo = open(outputfile, 'a')
-fo.write(currentDateTime + ' ' + ferment_range + ' ' + ' ' + currentTemps + ' ' + action + '\n')
+fo.write(currentDateTime + ' ' + ferment_range + ' ' + ' ' + currentTemps + ' ' + temp_status + '\n')
 fo.close()
 #print action
 #print ferment_range + ' ' + ' ' + currentTemps + ' ' + action

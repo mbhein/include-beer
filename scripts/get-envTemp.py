@@ -12,10 +12,9 @@ import time
 
 os.system('modprobe w1-gpio')
 os.system('modprobe w1-therm')
-
+probe_found = True
 probeBaseDir = '/sys/bus/w1/devices/'
-probeDeviceFolder = glob.glob(probeBaseDir + '28*')[0]
-probeDeviceFile = probeDeviceFolder + '/w1_slave'
+
 
 #Get raw temp from DS18B20
 def read_temp_raw():
@@ -43,12 +42,25 @@ def read_ambient():
     ambient_temp = ambient_temp * 9/5.0 + 32
     return ambient_temp, ambient_humidity
 
-#for i in range(10):
+try:
+    probeDeviceFolder = glob.glob(probeBaseDir + '28*')[0]
+except IndexError:
+    probe_found = False
 
-#humidity, temperature = Adafruit_DHT.read_retry(11, 25)
+if probe_found:
+    probeDeviceFile = probeDeviceFolder + '/w1_slave'
+    try:
+        currentTemps = 'Probe: ' + str(read_temp()) + ' F Ambient: ' +  str(read_ambient()[0]) + ' F '
+    except IOError:
+        currentTemps = 'ISSUE with PROBE'
+    try:
+        rawTemps = read_temp(), read_ambient()[0]
+    except IOError:
+        rawTemps = 'ISSUE with PROBE'
 
-currentTemps = 'Probe: ' + str(read_temp()) + ' F Ambient: ' +  str(read_ambient()[0]) + ' F '
-rawTemps = read_temp(), read_ambient()[0]
+else:
+    currentTemps = 'PROBE not found'
+    rawTemps = 'PROBE not found'
 
 print currentTemps
 print rawTemps

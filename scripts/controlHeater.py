@@ -19,9 +19,14 @@ elif argslen > 2:
     print "too many arguments entered"
     exit()
 
-# declare and set our variables
-outputfile='/home/pi/include-beer/scripts/pri_chocolate_pecan_porter.txt'
+### declare and set our variables
+# - moved to properties file
+# outputFile='/home/pi/include-beer/scripts/pri_chocolate_pecan_porter.txt'
+
+# +/- need to figure out how to set common timestamp across scripts
 currentDateTime=CDT.strftime("%Y-%m-%d %H:%M:%S", CDT.localtime())
+
+# - move to properties file
 control_file='/home/pi/include-beer/files/HeatOn'
 
 #codesend variable

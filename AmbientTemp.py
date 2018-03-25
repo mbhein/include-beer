@@ -22,8 +22,8 @@ def readAmbient(pin):
 def main():
     defaultPin = 25
     ambientTemp, ambientHumidity = readAmbient(defaultPin)
-    print('Ambient Temperature: ' + ambientTemp)
-    print('Ambient Humidity: ' + ambientHumidity)
+    print('Ambient Temperature: ' + str(ambientTemp))
+    print('Ambient Humidity: ' + str(ambientHumidity))
 
 
 if __name__ == '__main__':

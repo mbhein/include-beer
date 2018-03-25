@@ -8,6 +8,8 @@
 
 from subprocess import check_output
 import os, sys
+import configparser
+import time
 
 def turnOutletOn(rfOutletDir,rfOutletOnCode,rfOutletPulse):
     #Turn outlet on
@@ -20,6 +22,7 @@ def turnOutletOn(rfOutletDir,rfOutletOnCode,rfOutletPulse):
 
     except:
         print('exception occurred turning outlet on')
+        codeSendOutput = 'cmd failed ' + cmd
 
     pass #need to implement write log handling for codesendOutput
 
@@ -32,13 +35,15 @@ def turnOutletOff(rfOutletDir,rfOutletOffCode,rfOutletPulse):
 
     #try to turn outlet off and remove controlFile
     #to ensure outlet is turned off, exec the cmd 3 times
+    codeSendOutput = ''
     try:
         for i in range(3):
-            codeSendOutput += check_output(cmd, shell=True)
+            codeSendOutput += str(check_output(cmd, shell=True))
             time.sleep(1)
 
     except:
         print('exception occurred turning outlet off')
+        codeSendOutput = 'cmd failed ' + cmd
 
     pass #need to implement write log handling for codesendOutput
 
@@ -49,44 +54,46 @@ def main():
     argslen = len(sys.argv)
 
     if argslen < 2:
-        print(no arguments entered)
+        print('no arguments entered')
         exit()
     elif argslen == 2:
         action = sys.argv[1]
     elif argslen > 2:
-        print(too many arguments entered)
+        print('too many arguments entered')
         exit()
 
     #runtime objects
     global propsFile
-    global props
+    #global props
     propsFile = './properties/main.properties'
     cp = configparser.ConfigParser()
     cp.read(propsFile)
 
     #set RF Outlet Properties
-    props.rfOutletDir = cp.get('RFOutlet','rfOutletDir')
-    props.rfOutletPulse = cp.get('RFOutlet','rfOutletPulse')
-    props.rfOutletOnCode = cp.get('RFOutlet','rfOutletOnCode')
-    self.rfOutletOffCode = cp.get('RFOutlet','rfOutletOffCode')
+    rfOutletDir = cp.get('RFOutlet','rfOutletDir')
+    rfOutletPulse = cp.get('RFOutlet','rfOutletPulse')
+    rfOutletOnCode = cp.get('RFOutlet','rfOutletOnCode')
+    rfOutletOffCode = cp.get('RFOutlet','rfOutletOffCode')
 
     #print RF Outlet properites
-    print('RFOutlet ' +  props.rfOutletDir)
-    print('RFOutlet Pulse ' +  props.rfOutletPulse)
-    print('RFOutlet On code' +  props.rfOutletOnCode)
-    print('RFOutlet Off code' +  props.rfOutletOffCode)
+    print('RFOutlet ' +  rfOutletDir)
+    print('RFOutlet Pulse ' +  rfOutletPulse)
+    print('RFOutlet On code ' +  rfOutletOnCode)
+    print('RFOutlet Off code ' +  rfOutletOffCode)
 
     #print Actions
     print('Action ' + action)
 
     if action == 'on':
-        turnOutletOn(props.rfOutletDir,props.rfOutletOnCode,props.rfOutletPulse)
+        output = turnOutletOn(rfOutletDir,rfOutletOnCode,rfOutletPulse)
 
     elif action == 'off':
-        turnOutletOff(props.rfOutletDir,props.rfOutletOffCode,props.rfOutletPulse)
+        output = turnOutletOff(rfOutletDir,rfOutletOffCode,rfOutletPulse)
 
     else:
         print('Action isn''t recongized, use: on|off')
+
+    print(output)
 
     return
 

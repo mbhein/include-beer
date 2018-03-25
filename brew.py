@@ -66,8 +66,8 @@ def main():
         printProps(mainProps)
 
     #make it easy on us
-    fermHigh = mainProps.fermHigh
-    fermLow = mainProps.fermLow
+    fermHigh = float(mainProps.fermHigh)
+    fermLow = float(mainProps.fermLow)
 
     #so what are we doing:
     action = mainProps.action

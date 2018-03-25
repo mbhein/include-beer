@@ -61,7 +61,7 @@ def main():
         probeTemp = 'PROBE not found'
 
 
-    print('Probe tempature: ' + str(probeTemp))
+    return probeTemp
 
 if __name__ == '__main__':
     main()

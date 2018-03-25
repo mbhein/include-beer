@@ -74,7 +74,7 @@ def main():
 
         #get current probe tempature
         probeTempature = probeTemp.main()
-        print(probeTempature)
+        print('Probe tempature: ' + str(probeTempature))
 
 
 

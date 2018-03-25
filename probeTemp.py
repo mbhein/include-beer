@@ -65,7 +65,7 @@ def readProbe():
 
 def main():
     probeTemp = readProbe()
-    print('Probe temperature: ' + probeTemp)
+    print('Probe temperature: ' + str(probeTemp))
 
 if __name__ == '__main__':
     main()

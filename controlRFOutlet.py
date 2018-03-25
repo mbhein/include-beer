@@ -18,7 +18,7 @@ def turnOutletOn(rfOutletDir,rfOutletOnCode,rfOutletPulse):
 
     #try to turn outlet on and write to our controlFile
     try:
-        codeSendOutput = check_output(cmd, shell=True)
+        codeSendOutput = str(check_output(cmd, shell=True))
 
     except:
         #print('exception occurred turning outlet on')

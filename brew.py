@@ -10,6 +10,7 @@
 """
 import configparser
 import AmbientTemp
+import probeTemp
 
 class getProps(object):
     def __init__(self):
@@ -70,6 +71,10 @@ def main():
         #what we will do here is read in probe temperature
         #if temperature below fermLow turn heater on
         #if temperature above fermHigh turn cooler on
+
+        #get current probe tempature
+        probeTempature = probeTemp()
+        print(probeTempature)
 
 
 

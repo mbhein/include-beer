@@ -73,7 +73,7 @@ def main():
         #if temperature above fermHigh turn cooler on
 
         #get current probe tempature
-        probeTempature = probeTemp.main()
+        probeTempature = probeTemp.readProbe()
         print('Probe tempature: ' + str(probeTempature))
 
 

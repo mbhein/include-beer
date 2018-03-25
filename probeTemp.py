@@ -43,7 +43,7 @@ def readTemp(probe,fc):
     return probeTemp
 
 
-def main():
+def readProbe():
     probeFound = True
     probeBaseDir = '/sys/bus/w1/devices/'
     try:
@@ -62,6 +62,10 @@ def main():
 
 
     return probeTemp
+
+def main():
+    probeTemp = readProbe()
+    print('Probe temperature: ' + probeTemp)
 
 if __name__ == '__main__':
     main()

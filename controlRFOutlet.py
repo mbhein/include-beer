@@ -49,12 +49,12 @@ def main():
     argslen = len(sys.argv)
 
     if argslen < 2:
-        print "no arguments entered"
+        print(no arguments entered)
         exit()
     elif argslen == 2:
         action = sys.argv[1]
     elif argslen > 2:
-        print "too many arguments entered"
+        print(too many arguments entered)
         exit()
 
     #runtime objects

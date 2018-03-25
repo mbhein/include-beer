@@ -11,8 +11,8 @@
 import os, sys
 import glob
 
-os.system('modprobe w1-gpio')
-os.system('modprobe w1-therm')
+#os.system('modprobe w1-gpio')
+#os.system('modprobe w1-therm')
 
 
 

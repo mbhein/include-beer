@@ -93,25 +93,26 @@ def main():
     logWrite('Ambient Temperature: ' + str(ambientTemp))
     logWrite('Ambient Humidity: ' + str(ambientHumidity))
 
+    #Get current probe temperature
+    probeTemperature = probeTemp.readProbe()
+    logWrite('Probe tempature: ' + str(probeTemperature))
 
     if action == 'pri':
         logWrite('Primary fermentation')
-        #what we will do here is read in probe temperature
-        probeTemperature = probeTemp.readProbe()
-        logWrite('Probe tempature: ' + str(probeTemperature))
-
-        #if temperature below fermLow turn heater on
         if probeTemperature < fermLow:
+            #if temperature below fermLow turn heater on
             logWrite('We need heat things up')
 
-
-        #if temperature above fermHigh turn cooler on
         elif probeTemperature > fermHigh:
+            #if temperature above fermHigh turn cooler on
             logWrite('We need to cool things down')
 
         else:
             logWrite('Temperature is just fine')
 
+    if action == 'sec'
+        logWrite('Secondary fermentation')
+    
 
 
 if __name__ == '__main__':

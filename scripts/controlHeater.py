@@ -1,59 +1,82 @@
-#!/usr/bin/python
+#!/usr/bin/env python3
 
-# controlHeater.py
-# Turn heater on and off
+""" Script to turn heating element on|off
+    Usage:
+        python3 controlHeater.py [on|off]
+
+"""
 
 from subprocess import check_output
 import os, sys
-import time as CDT
+import time
 
-#Process argument
-argslen = len(sys.argv)
+def turnHeatOn():
+    #Turn heater on
+    #Define our heaterAction
+    heaterAction = rfOutletDir + '/codesend ' + rfOutletOnCode + ' -l ' + rfOutletPulse
 
-if argslen < 2:
-    print "no arguments entered"
-    exit()
-elif argslen == 2:
-    action = sys.argv[1]
-elif argslen > 2:
-    print "too many arguments entered"
-    exit()
+    #try to turn heater on and write to our controlFile
+    try:
+        codesendOutput = check_output(heaterAction, shell=True)
+        with open(controlFile, "w") as fw:
+            fw.write(currentDateTime)
+    except:
+        pass #need to figure out error handling
 
-### declare and set our variables
-# - moved to properties file
-# outputFile='/home/pi/include-beer/scripts/pri_chocolate_pecan_porter.txt'
-
-# +/- need to figure out how to set common timestamp across scripts
-currentDateTime=CDT.strftime("%Y-%m-%d %H:%M:%S", CDT.localtime())
-
-# - move to properties file
-control_file='/home/pi/include-beer/files/HeatOn'
-
-#codesend variable
-if action == 'on':
-    heatAction = '~/rfoutlet/codesend 5256451 -l 168'
-    with open(control_file, "w") as fw:
-        fw.write(currentDateTime)
-    codesend_output = check_output(heatAction, shell=True)
-
-elif action == 'off':
-    heatAction = '~/rfoutlet/codesend 5256460 -l 168'
-    if os.path.exists(control_file):
-        os.remove(control_file)
-    else:
-        action = action + ' HeatOn not there'
+    pass #need to implement write log handling for codesendOutput
 
 
-#print codesend_output
-codesend_output_1 = check_output(heatAction, shell=True)
-CDT.sleep(1)
-codesend_output_2 = check_output(heatAction, shell=True)
-CDT.sleep(1)
-codesend_output_3 = check_output(heatAction, shell=True)
-codesend_output = codesend_output_1 + ' ' + codesend_output_2 + ' ' + codesend_output_3
-# open output file to append
-fo = open(outputfile, 'a')
-fo.write(currentDateTime + ' Heater: ' + action + ' ' + codesend_output)
-fo.close()
 
-exit()
+def turnHeatOff():
+    #Turn heater off
+    #Define our heaterAction
+    heaterAction = rfOutletDir + '/codesend ' + rfOutletOffCode + ' -l ' + rfOutletPulse
+
+    #try to turn heater off and remove controlFile
+    #to ensure heater is turned off, exec the heaterAction 3 times
+    try:
+        for i in range(3):
+            codesendOutput += check_output(heaterAction, shell=True)
+            time.sleep(1)
+        if os.path.exists(controlFile):
+            os.remove(controlFile)
+        else:
+            pass #need to define output
+    except:
+        pass #need to figure out error handling
+
+    pass #need to implement write log handling for codesendOutput
+
+
+def main():
+    #Process argument
+    argslen = len(sys.argv)
+
+    if argslen < 2:
+        print "no arguments entered"
+        exit()
+    elif argslen == 2:
+        action = sys.argv[1]
+    elif argslen > 2:
+        print "too many arguments entered"
+        exit()
+
+    # +/- need to figure out how to set common timestamp across scripts
+    currentDateTime=time.strftime("%Y-%m-%d %H:%M:%S", time.localtime())
+
+
+    if action == 'on':
+        turnHeatOn()
+
+    elif action == 'off':
+        turnHeatOff()
+
+    # open output file to append
+    fo = open(outputFile, 'a')
+    fo.write(currentDateTime + ' Heater: ' + action + ' ' + codesend_output)
+    fo.close()
+
+
+
+if __name__ == '__main__':
+    main()

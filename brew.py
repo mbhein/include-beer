@@ -105,14 +105,14 @@ def main():
 
         elif probeTemperature > fermHigh:
             #if temperature above fermHigh turn cooler on
-            logWrite('We need to cool things down')
+            logWrite('We need to cool thingsß down')
 
         else:
             logWrite('Temperature is just fine')
 
-    if action == 'sec'
+    if action == 'sec':
         logWrite('Secondary fermentation')
-    
+
 
 
 if __name__ == '__main__':

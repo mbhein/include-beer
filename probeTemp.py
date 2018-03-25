@@ -17,28 +17,29 @@ os.system('modprobe w1-therm')
 
 
 
-def readTempRaw():
+def readTempRaw(probe):
     #Get raw temp from DS18B20
-    f = open(probeDeviceFile, 'r')
+    f = open(probe, 'r')
     lines = f.readlines()
     f.close()
     return lines
 
 #Process raw temp from DS18B20
-def readTemp(fc):
-    lines = readTempRaw()
+def readTemp(probe,fc):
+    lines = readTempRaw(probe)
     while lines[0].strip()[-3:] != 'YES':
         time.sleep(0.2)
         lines = readTempRaw()
     equals_pos = lines[1].find('t=')
     if equals_pos != -1:
-        probe_temp_string = lines[1][equals_pos+2:]
+        probeTempC = lines[1][equals_pos+2:]
+        probeTempC = round(float(probeTempC) / 1000.0,2)
         if fc == 'F':
-            probeTemp = round(probe_temp_c * 9.0 / 5.0 + 32.0,2)
+            probeTemp = round(probeTempC * 9.0 / 5.0 + 32.0,2)
         elif fc == 'C':
-            probeTemp = round(float(probe_temp_string) / 1000.0,2)
+            probeTemp = probeTempC
         else:
-            probeTemp = round(probe_temp_c * 9.0 / 5.0 + 32.0,2)
+            probeTemp = round(probeTempC * 9.0 / 5.0 + 32.0,2)
     return probeTemp
 
 
@@ -53,7 +54,7 @@ def main():
     if probeFound:
         probeDeviceFile = probeDeviceFolder + '/w1_slave'
         try:
-            probeTemp = readTemp(F)
+            probeTemp = readTemp(probeDeviceFile,'F')
         except IOError:
             probeTemp = 'ISSUE with PROBE'
     else:

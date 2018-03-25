@@ -21,8 +21,8 @@ def turnOutletOn(rfOutletDir,rfOutletOnCode,rfOutletPulse):
         codeSendOutput = check_output(cmd, shell=True)
 
     except:
-        print('exception occurred turning outlet on')
-        codeSendOutput = 'cmd failed ' + cmd
+        #print('exception occurred turning outlet on')
+        codeSendOutput = 'failed ON cmd:' + cmd
 
     pass #need to implement write log handling for codesendOutput
 
@@ -42,8 +42,8 @@ def turnOutletOff(rfOutletDir,rfOutletOffCode,rfOutletPulse):
             time.sleep(1)
 
     except:
-        print('exception occurred turning outlet off')
-        codeSendOutput = 'cmd failed ' + cmd
+        #print('exception occurred turning outlet off')
+        codeSendOutput = 'failed OFF cmd: ' + cmd
 
     pass #need to implement write log handling for codesendOutput
 
@@ -93,6 +93,10 @@ def main():
     else:
         print('Action isn''t recongized, use: on|off')
 
+    if output.startswith('failed'):
+        print('Failure turning outlet ' + action)
+    else:
+        print('Success turning outlet ' + action)
     print(output)
 
     return

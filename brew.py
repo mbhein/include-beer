@@ -12,6 +12,7 @@ import configparser
 import AmbientTemp
 import probeTemp
 import time
+import os, sys
 
 class getProps(object):
     def __init__(self):
@@ -29,16 +30,17 @@ class getProps(object):
         self.brewlog = "{}{}_{}.txt".format(self.brewLogDir,self.action,cp.get('main','beerName'))
         self.fermHigh = cp.get('main','fermHigh')
         self.fermLow = cp.get('main','fermLow')
+        self.heaterControlFile = "{}{}".format(self.baseDir,cp.get('main','controlFile'))
 
         #set Ambient properites
         self.ambientPin = cp.get('ambient','pin')
 
-        #set Heater Properties
-        self.rfOutletDir = cp.get('heater','rfOutletDir')
-        self.rfOutletPulse = cp.get('heater','rfOutletPulse')
-        self.rfOutletOnCode = cp.get('heater','rfOutletOnCode')
-        self.rfOutletOffCode = cp.get('heater','rfOutletOffCode')
-        self.heaterControlFile = "{}{}".format(self.baseDir,cp.get('heater','controlFile'))
+        #set RF Outlet Properties
+        self.rfOutletDir = cp.get('RFOutlet','rfOutletDir')
+        self.rfOutletPulse = cp.get('RFOutlet','rfOutletPulse')
+        self.rfOutletOnCode = cp.get('RFOutlet','rfOutletOnCode')
+        self.rfOutletOffCode = cp.get('RFOutlet','rfOutletOffCode')
+
 
         return
 
@@ -55,6 +57,19 @@ def logWrite(msg):
     msg = str(msg)
     now = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime())
     print(now + ' - ' + msg)
+
+def turnHeatOn():
+    #Turn heat on by turning outlet on and creating heaterControlFile
+    now = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime())
+    with open(mainProps.heaterControlFile, "w") as fw:
+        fw.write(now)
+
+def turnHeatOff():
+    #Turn heat off by turning outlet off and remove heaterControlFile
+    if os.path.exists(mainProps.heaterControlFile):
+        os.remove(mainProps.heaterControlFile)
+    else:
+        pass #need to define output
 
 def main():
     #runtime objects
@@ -77,6 +92,7 @@ def main():
     ambientTemp, ambientHumidity = AmbientTemp.readAmbient(mainProps.ambientPin)
     logWrite('Ambient Temperature: ' + str(ambientTemp))
     logWrite('Ambient Humidity: ' + str(ambientHumidity))
+
 
     if action == 'pri':
         logWrite('Primary fermentation')

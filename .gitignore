@@ -1,3 +1,6 @@
+#Scripts used to mimic PI probes
+Adafruit_DHT.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

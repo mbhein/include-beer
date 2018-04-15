@@ -97,21 +97,24 @@ def main():
     probeTemperature = probeTemp.readProbe()
     logWrite('Probe tempature: ' + str(probeTemperature))
 
-    if action == 'pri':
-        logWrite('Primary fermentation')
-        if probeTemperature < fermLow:
-            #if temperature below fermLow turn heater on
-            logWrite('We need heat things up')
+    if isinstance(probeTemperature,float):
+        if action == 'pri':
+            logWrite('Primary fermentation')
+            if probeTemperature < fermLow:
+                #if temperature below fermLow turn heater on
+                logWrite('We need to heat things up')
 
-        elif probeTemperature > fermHigh:
-            #if temperature above fermHigh turn cooler on
-            logWrite('We need to cool thingsß down')
+            elif probeTemperature > fermHigh:
+                #if temperature above fermHigh turn cooler on
+                logWrite('We need to cool things down')
 
-        else:
-            logWrite('Temperature is just fine')
+            else:
+                logWrite('Temperature is just fine')
 
-    if action == 'sec':
-        logWrite('Secondary fermentation')
+        if action == 'sec':
+            logWrite('Secondary fermentation')
+    else:
+        logWrite('**** probe returned string: ' + probeTemperature)
 
 
 

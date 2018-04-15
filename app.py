@@ -1,21 +1,54 @@
+#!/usr/bin/env python3
+
 import os
 import subprocess
 from flask import Flask, render_template
+import time
+import brewCommon
+import AmbientTemp
+import probeTemp
 
-#with open("files/somefile", "r") as f:
-#    content = f.read()
 
-content = subprocess.call('scripts/get-envTemp.py',shell=True)
+def returnLines(file,numLines):
+    with open(file, "r") as f:
+        contentDict = f.read().splitlines()
+        finishLine = len(contentDict)
+        startLine = finishLine - numLines
+        content = 'Lines returned: ' + str(numLines) + ' <br/> '
+        for i in range(startLine,finishLine):
+            content += contentDict[i] + '<br/>'
+    return content
+
+#content = subprocess.call('scripts/get-envTemp.py',shell=True)
+#content = "beer here!"
 
 app = Flask(__name__)
 
 @app.route('/')
 def index():
-  return render_template('index.html')
+    ambTemp, ambHumidity = AmbientTemp.readAmbient(11)
+    probeTemperature = probeTemp.readProbe()
+    beerName = props.beerName
+    action = props.action
+    now = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime())
+    file = props.brewlog
+    lines = 20
+    content = returnLines(file,lines)
+    return render_template('index.html', timeStamp=now, beerName=beerName, action=action, ambTemp=ambTemp,
+        ambHumidity=ambHumidity, pTemp=probeTemperature, content=content)
 
-@app.route('/beer')
-def beer():
-  return render_template("readfile.html", content=content)
+@app.route('/brewlog')
+def brewlog():
+    file = props.brewlog
+    lines = 120
+    content = returnLines(file,lines)
+    return render_template("readfile.html", content=content)
 
 if __name__ == '__main__':
-  app.run(debug=True, host='0.0.0.0', port=5001)
+    #global propsFile
+    global props
+    propsFile = './properties/main.properties'
+    props = brewCommon.getProps(propsFile)
+
+
+    app.run(debug=True, host='0.0.0.0', port=8080)

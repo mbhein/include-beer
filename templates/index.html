@@ -1,5 +1,16 @@
 <html>
  <body>
-  <h1>Hello from a template!</h1>
+  <h1>Include-Beer!</h1>
+  <p>Current Time: {{ timeStamp }}</p>
+  <p>
+   Current Beer: {{ beerName }}<br/>
+   Fermentation Stage: {{ action }}<br/>
+   Ambient Temperature: {{ ambTemp }}<br/>
+   Ambient Humidity: {{ ambHumidity }}<br/>
+   Probe Temperature: {{ pTemp }}<br/>
+
+  </p>
+  <p>{{ content|safe }}</p>
+  <p><a href="/brewlog">Read Brew Log</a></p>
  </body>
 </html>

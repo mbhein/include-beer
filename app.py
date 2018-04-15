@@ -26,7 +26,7 @@ app = Flask(__name__)
 
 @app.route('/')
 def index():
-    ambTemp, ambHumidity = AmbientTemp.readAmbient(11)
+    ambTemp, ambHumidity = AmbientTemp.readAmbient(props.ambientPin)
     probeTemperature = probeTemp.readProbe()
     beerName = props.beerName
     action = props.action

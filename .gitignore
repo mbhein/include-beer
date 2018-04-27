@@ -1,8 +1,11 @@
 #Scripts used to mimic PI probes
 Adafruit_DHT.py
+w1_slave
 
 #Legacy folders
 scripts/
+
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

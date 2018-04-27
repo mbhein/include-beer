@@ -35,6 +35,10 @@ class getProps(object):
         #set Ambient properites
         self.ambientPin = cp.get('ambient','pin')
 
+        #set vessel propbe properites
+        self.probeBaseDir = cp.get('vesselProbe','probeBaseDir')
+        self.probeDeviceFile = cp.get('vesselProbe','probeDeviceFile')
+
         #set RF Outlet Properties
         self.rfOutletDir = cp.get('RFOutlet','rfOutletDir')
         self.rfOutletPulse = cp.get('RFOutlet','rfOutletPulse')
@@ -94,7 +98,7 @@ def main():
     logWrite('Ambient Humidity: ' + str(ambientHumidity))
 
     #Get current probe temperature
-    probeTemperature = probeTemp.readProbe()
+    probeTemperature = probeTemp.readProbe(mainProps.probeBaseDir,mainProps.probeDeviceFile)
     logWrite('Probe tempature: ' + str(probeTemperature))
 
     if isinstance(probeTemperature,float):

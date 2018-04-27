@@ -43,18 +43,18 @@ def readTemp(probe,fc):
     return probeTemp
 
 
-def readProbe():
+def readProbe(probeBaseDir,probeDeviceFile):
     probeFound = True
-    probeBaseDir = '/sys/bus/w1/devices/'
+    # probeBaseDir =
     try:
-        probeDeviceFolder = glob.glob(probeBaseDir + '28*')[0]
+        probeDeviceFolder = glob.glob(probeBaseDir + '/28*')[0]
     except IndexError:
         probeFound = False
 
     if probeFound:
-        probeDeviceFile = probeDeviceFolder + '/w1_slave'
+        probeDeviceFilePath = probeDeviceFolder + probeDeviceFile
         try:
-            probeTemp = readTemp(probeDeviceFile,'F')
+            probeTemp = readTemp(probeDeviceFilePath,'F')
         except IOError:
             probeTemp = 'ISSUE with PROBE'
     else:
@@ -64,7 +64,11 @@ def readProbe():
     return probeTemp
 
 def main():
-    probeTemp = readProbe()
+    #default values to run probeTemp.py solo
+    probeBaseDir = '.'
+    probeDeviceFile = '/w1_slave'
+    
+    probeTemp = readProbe(probeBaseDir,probeDeviceFile)
     print('Probe temperature: ' + str(probeTemp))
 
 if __name__ == '__main__':

@@ -1,5 +1,6 @@
-#Scripts used to mimic PI probes
+#Scripts and folders used to mimic PI probes
 Adafruit_DHT.py
+282018/
 w1_slave
 
 #Legacy folders

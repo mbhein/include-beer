@@ -13,6 +13,7 @@ import AmbientTemp
 import probeTemp
 import time
 import os, sys
+import logging
 
 class getProps(object):
     def __init__(self):
@@ -55,10 +56,11 @@ class getProps(object):
         return self
 
 def printProps(props):
-    logWrite(props.brewlog)
+    logger.debug(props.brewlog)
 
-def logWrite(msg):
-    msg = str(msg)
+
+def logWriter(msg):
+    #msg = str(msg)
     now = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime())
     print(now + ' - ' + msg)
 
@@ -75,14 +77,44 @@ def turnHeatOff():
     else:
         pass #need to define output
 
+def checkHeatOn():
+    #if Heaton is present checkHeatOn returns True
+    if os.path.exists(mainProps.heaterControlFile):
+        return 1
+    else:
+        return 0
+
 def main():
     #runtime objects
     global mainPropsFile
     global mainProps
+    global logger
+    global logBuffer
     mainPropsFile = './properties/main.properties'
     mainProps = getProps()
-    if mainProps.debug:
-        printProps(mainProps)
+    
+
+    currentDateTime=time.strftime("%Y-%m-%d %H:%M:%S", time.localtime())
+
+    logBuffer = list()
+
+    logger = logging.getLogger(__name__)
+    logger.setLevel(logging.DEBUG)
+    formatter = logging.Formatter(currentDateTime + ' - %(name)s - %(levelname)s - %(message)s')
+
+    if (mainProps.debug == 'True'):
+        chD = logging.StreamHandler()
+    else:
+        chD = logging.NullHandler()
+    chD.setLevel(logging.DEBUG)
+    chD.setFormatter(formatter)
+
+    chI = logging.StreamHandler()
+    chI.setLevel(logging.INFO)
+    chI.setFormatter(formatter)
+
+    logger.addHandler(chD)
+    logger.addHandler(chI)
 
     #make it easy on us
     fermHigh = float(mainProps.fermHigh)
@@ -90,36 +122,55 @@ def main():
 
     #so what are we doing:
     action = mainProps.action
-    logWrite('action = ' + action)
+    logBuffer.append(action)
+    logger.debug('action = ' + action)
 
     #Get current ambient temperature
     ambientTemp, ambientHumidity = AmbientTemp.readAmbient(mainProps.ambientPin)
-    logWrite('Ambient Temperature: ' + str(ambientTemp))
-    logWrite('Ambient Humidity: ' + str(ambientHumidity))
+    logBuffer.append(ambientTemp)
+    logBuffer.append(ambientHumidity)
+    logger.debug('Ambient T/H ' + str(ambientTemp) + '/' + str(ambientHumidity))
+
 
     #Get current probe temperature
     probeTemperature = probeTemp.readProbe(mainProps.probeBaseDir,mainProps.probeDeviceFile)
-    logWrite('Probe tempature: ' + str(probeTemperature))
+    logBuffer.append(probeTemperature)
+    logger.debug('Probe: ' + str(probeTemperature))
 
     if isinstance(probeTemperature,float):
         if action == 'pri':
-            logWrite('Primary fermentation')
+
+            heatsOn = checkHeatOn()
+
             if probeTemperature < fermLow:
-                #if temperature below fermLow turn heater on
-                logWrite('We need to heat things up')
+                if heatsOn:
+                    actionMsg = 'Heats already on'
+
+                else:
+                    actionMsg = 'We need to heat things up'
+                    turnHeatOn()
 
             elif probeTemperature > fermHigh:
                 #if temperature above fermHigh turn cooler on
-                logWrite('We need to cool things down')
+                actionMsg = 'We need to cool things down'
+                turnHeatOff
 
             else:
-                logWrite('Temperature is just fine')
+                actionMsg = 'Temperature is perfect'
+                if heatsOn:
+                    lactionMsg = 'Heats on - turn it off'
+                    turnHeatOff()
 
-        if action == 'sec':
-            logWrite('Secondary fermentation')
+        elif action == 'sec':
+            pass
+
+        logBuffer.append(actionMsg)
+        logger.debug(actionMsg)
+
     else:
-        logWrite('**** probe returned string: ' + probeTemperature)
+        logger.debug('**** probe returned string: ' + probeTemperature)
 
+    logger.info(' | '.join(map(str,logBuffer)))
 
 
 if __name__ == '__main__':

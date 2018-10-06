@@ -29,7 +29,7 @@ class getProps(object):
 
         #brewing Properties
         self.action = cp.get('main','action')
-        self.brewlog = "{}{}_{}.txt".format(self.brewLogDir,self.action,cp.get('main','beerName'))
+        self.brewlog = "{}{}_{}.log".format(self.brewLogDir,self.action,cp.get('main','beerName'))
         self.fermHigh = cp.get('main','fermHigh')
         self.fermLow = cp.get('main','fermLow')
         self.heaterControlFile = "{}{}".format(self.baseDir,cp.get('main','controlFile'))

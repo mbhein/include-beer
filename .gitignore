@@ -1,6 +1,9 @@
 #Include-beer specific
 Heaton
 
+#Exclude build/dev log files
+brewlog/
+
 #Scripts and folders used to mimic PI probes
 Adafruit_DHT.py
 282018/

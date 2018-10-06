@@ -88,6 +88,14 @@ def checkHeatOn():
     else:
         return 0
 
+def flushLogBuffer(error=0):
+    if (mainProps.debug == 'True'):
+        logger.debug(' | '.join(map(str,logBuffer)))
+    elif error:
+        logger.error(' | '.join(map(str,logBuffer)))
+    else:
+        logger.info(' | '.join(map(str,logBuffer)))
+
 def main():
     #runtime objects
     global mainPropsFile

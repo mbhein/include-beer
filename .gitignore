@@ -4,6 +4,7 @@ Heaton
 #Scripts and folders used to mimic PI probes
 Adafruit_DHT.py
 282018/
+28-2018/
 w1_slave
 
 #Legacy folders

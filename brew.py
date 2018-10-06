@@ -104,21 +104,30 @@ def main():
 
     logger = logging.getLogger(__name__)
     logger.setLevel(logging.DEBUG)
-    formatter = logging.Formatter(currentDateTime + ' - %(name)s - %(levelname)s - %(message)s')
+    formatter = logging.Formatter('%(asctime)s | %(name)s | %(levelname)s | %(message)s')
 
     if (mainProps.debug == 'True'):
         chD = logging.StreamHandler()
-    else:
-        chD = logging.NullHandler()
-    chD.setLevel(logging.DEBUG)
-    chD.setFormatter(formatter)
+        chD.setLevel(logging.DEBUG)
+        chD.setFormatter(formatter)
+        logger.addHandler(chD)
+        fhD = logging.FileHandler(mainProps.brewlog)
+        fhD.setLevel(logging.DEBUG)
+        fhD.setFormatter(formatter)
+        logger.addHandler(fhD)
+    # else:
+        # chD = logging.NullHandler()
+
 
     chI = logging.StreamHandler()
     chI.setLevel(logging.INFO)
     chI.setFormatter(formatter)
-
-    logger.addHandler(chD)
     logger.addHandler(chI)
+    fhI = logging.FileHandler(mainProps.brewlog)
+    fhI.setLevel(logging.INFO)
+    fhI.setFormatter(formatter)
+    logger.addHandler(fhI)
+
 
     #make it easy on us
     fermHigh = float(mainProps.fermHigh)
@@ -157,12 +166,15 @@ def main():
             elif probeTemperature > fermHigh:
                 #if temperature above fermHigh turn cooler on
                 actionMsg = 'We need to cool things down'
-                turnHeatOff
+                if heatsOn:
+                    actionMsg += ' - Heats on - turn it off'
+                    turnHeatOff()
+
 
             else:
                 actionMsg = 'Temperature is perfect'
                 if heatsOn:
-                    actionMsg = 'Heats on - turn it off'
+                    actionMsg += ' - Heats on - turn it off'
                     turnHeatOff()
 
         elif action == 'sec':
@@ -174,7 +186,8 @@ def main():
     else:
         logger.debug('**** probe returned string: ' + probeTemperature)
 
-    logger.info(' | '.join(map(str,logBuffer)))
+    flushLogBuffer()
+
 
 
 if __name__ == '__main__':

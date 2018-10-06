@@ -20,10 +20,10 @@ def turnOutletOn(rfOutletDir,rfOutletOnCode,rfOutletPulse):
     try:
         # subprocess.
         codeSendOutput = subprocess.check_output(cmd, stderr=subprocess.STDOUT,shell=True)
-        return 0,codeSendOutput
+        return 0, codeSendOutput
     except subprocess.CalledProcessError as e:
         codeSendOutput = 'failed ON cmd:' + cmd + ' with error: ' + str(e.returncode)
-        return 1,codeSendOutput
+        return 1, codeSendOutput
 
     # return codeSendOutput
 
@@ -39,14 +39,11 @@ def turnOutletOff(rfOutletDir,rfOutletOffCode,rfOutletPulse):
         for i in range(3):
             codeSendOutput += str(check_output(cmd, shell=True))
             time.sleep(1)
-
+        return 0, codeSendOutput
     except:
         #print('exception occurred turning outlet off')
         codeSendOutput = 'failed OFF cmd: ' + cmd
-
-    pass #need to implement write log handling for codesendOutput
-
-    return codeSendOutput
+        return 1, codeSendOutput
 
 def main():
     #Process argument
@@ -92,7 +89,7 @@ def main():
     else:
         print('Action isn''t recongized, use: on|off')
 
-    if output.startswith('failed'):
+    if output[0]:
         print('Failure turning outlet ' + action)
     else:
         print('Success turning outlet ' + action)

@@ -78,10 +78,23 @@ def turnHeatOn():
 
 def turnHeatOff():
     #Turn heat off by turning outlet off and remove heaterControlFile
-    if os.path.exists(mainProps.heaterControlFile):
-        os.remove(mainProps.heaterControlFile)
+    codeSendOutput = ""
+
+    failure, codeSendOutput = controlRFOutlet.turnOutletOff(mainProps.rfOutletDir,mainProps.rfOutletOffCode,mainProps.rfOutletPulse)
+    logBuffer.append(codeSendOutput)
+    logger.debug("turnHeatOff output: " + codeSendOutput)
+    if (failure):
+        error = 1
+        flushLogBuffer(error)
+        exit()
     else:
-        pass #need to define output
+        try:
+            if os.path.exists(mainProps.heaterControlFile):
+                os.remove(mainProps.heaterControlFile)
+            else:
+                logBuffer.append(mainProps.heaterControlFile + " didn't exist")
+        except Exception as e:
+            logger.error("error deleting " + mainProps.heaterControlFile + " - " + e)
 
 def checkHeatOn():
     #if Heaton is present checkHeatOn returns True

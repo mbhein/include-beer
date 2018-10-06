@@ -6,7 +6,7 @@
 
 """
 
-from subprocess import check_output
+import subprocess
 import os, sys
 import configparser
 import time
@@ -18,15 +18,14 @@ def turnOutletOn(rfOutletDir,rfOutletOnCode,rfOutletPulse):
 
     #try to turn outlet on and write to our controlFile
     try:
-        codeSendOutput = str(check_output(cmd, shell=True))
+        # subprocess.
+        codeSendOutput = subprocess.check_output(cmd, stderr=subprocess.STDOUT,shell=True)
+        return 0,codeSendOutput
+    except subprocess.CalledProcessError as e:
+        codeSendOutput = 'failed ON cmd:' + cmd + ' with error: ' + str(e.returncode)
+        return 1,codeSendOutput
 
-    except:
-        #print('exception occurred turning outlet on')
-        codeSendOutput = 'failed ON cmd:' + cmd
-
-    pass #need to implement write log handling for codesendOutput
-
-    return codeSendOutput
+    # return codeSendOutput
 
 def turnOutletOff(rfOutletDir,rfOutletOffCode,rfOutletPulse):
     #Turn outlet off

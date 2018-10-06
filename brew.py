@@ -11,6 +11,7 @@
 import configparser
 import AmbientTemp
 import probeTemp
+import controlRFOutlet
 import time
 import os, sys
 import logging
@@ -55,20 +56,23 @@ class getProps(object):
     def __next__(self):
         return self
 
-def printProps(props):
-    logger.debug(props.brewlog)
-
-
-def logWriter(msg):
-    #msg = str(msg)
-    now = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime())
-    print(now + ' - ' + msg)
 
 def turnHeatOn():
     #Turn heat on by turning outlet on and creating heaterControlFile
     now = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime())
-    with open(mainProps.heaterControlFile, "w") as fw:
-        fw.write(now)
+    codeSendOutput = ""
+
+    failure, codeSendOutput = controlRFOutlet.turnOutletOn(mainProps.rfOutletDir,mainProps.rfOutletOnCode,mainProps.rfOutletPulse)
+    logBuffer.append(codeSendOutput)
+    logger.debug("turnHeatOn output: " + codeSendOutput)
+    if (failure):
+        exit()
+    else:
+        try:
+            with open(mainProps.heaterControlFile, "w") as fw:
+                fw.write(now)
+        except Exception as e:
+            logger.debug("error turning heat on - " + e)
 
 def turnHeatOff():
     #Turn heat off by turning outlet off and remove heaterControlFile
@@ -92,7 +96,7 @@ def main():
     global logBuffer
     mainPropsFile = './properties/main.properties'
     mainProps = getProps()
-    
+
 
     currentDateTime=time.strftime("%Y-%m-%d %H:%M:%S", time.localtime())
 
@@ -158,7 +162,7 @@ def main():
             else:
                 actionMsg = 'Temperature is perfect'
                 if heatsOn:
-                    lactionMsg = 'Heats on - turn it off'
+                    actionMsg = 'Heats on - turn it off'
                     turnHeatOff()
 
         elif action == 'sec':

@@ -66,13 +66,15 @@ def turnHeatOn():
     logBuffer.append(codeSendOutput)
     logger.debug("turnHeatOn output: " + codeSendOutput)
     if (failure):
+        error = 1
+        flushLogBuffer(error)
         exit()
     else:
         try:
             with open(mainProps.heaterControlFile, "w") as fw:
                 fw.write(now)
         except Exception as e:
-            logger.debug("error turning heat on - " + e)
+            logger.error("error creating " + mainProps.heaterControlFile + " - " + e)
 
 def turnHeatOff():
     #Turn heat off by turning outlet off and remove heaterControlFile

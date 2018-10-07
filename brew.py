@@ -71,7 +71,7 @@ def turnHeatOn():
         exit()
     else:
         try:
-            with open(mainProps.heaterControlFile, "w") as fw:
+            with open(mainProps.heaterControlFile, "w+") as fw:
                 fw.write(now)
         except Exception as e:
             logger.error("error creating " + mainProps.heaterControlFile + " - " + str(e))

@@ -71,7 +71,8 @@ def turnHeatOn():
         exit()
     else:
         try:
-            with open(mainProps.heaterControlFile, "w+") as fw:
+            os.makedirs(os.path.dirname(mainProps.heaterControlFile), exist_ok=True)
+            with open(mainProps.heaterControlFile, "w") as fw:
                 fw.write(now)
         except Exception as e:
             logger.error("error creating " + mainProps.heaterControlFile + " - " + str(e))

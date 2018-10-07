@@ -74,7 +74,7 @@ def turnHeatOn():
             with open(mainProps.heaterControlFile, "w") as fw:
                 fw.write(now)
         except Exception as e:
-            logger.error("error creating " + mainProps.heaterControlFile + " - " + e)
+            logger.error("error creating " + mainProps.heaterControlFile + " - " + str(e))
 
 def turnHeatOff():
     #Turn heat off by turning outlet off and remove heaterControlFile
@@ -94,7 +94,7 @@ def turnHeatOff():
             else:
                 logBuffer.append(mainProps.heaterControlFile + " didn't exist")
         except Exception as e:
-            logger.error("error deleting " + mainProps.heaterControlFile + " - " + e)
+            logger.error("error deleting " + mainProps.heaterControlFile + " - " + str(e))
 
 def checkHeatOn():
     #if Heaton is present checkHeatOn returns True

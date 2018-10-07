@@ -19,7 +19,7 @@ def turnOutletOn(rfOutletDir,rfOutletOnCode,rfOutletPulse):
     #try to turn outlet on and write to our controlFile
     try:
         # subprocess.
-        codeSendOutput = subprocess.check_output(cmd, stderr=subprocess.STDOUT,shell=True)
+        codeSendOutput = str(subprocess.check_output(cmd, stderr=subprocess.STDOUT, shell=True))
         return 0, codeSendOutput
     except subprocess.CalledProcessError as e:
         codeSendOutput = 'failed ON cmd:' + cmd + ' with error: ' + str(e.returncode)

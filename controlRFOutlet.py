@@ -37,7 +37,7 @@ def turnOutletOff(rfOutletDir,rfOutletOffCode,rfOutletPulse):
     codeSendOutput = ''
     try:
         for i in range(3):
-            codeSendOutput += str(check_output(cmd, shell=True))
+            codeSendOutput += str(subprocess.check_output(cmd, shell=True))
             time.sleep(1)
         return 0, codeSendOutput
     except:

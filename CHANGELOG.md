@@ -7,6 +7,7 @@
 **Implemented enhancements:**
 
 **Closed issues:**
+- Introduce CHANGELOG.md [\#8](https://github.com/mbhein/include-beer/issues/8)
 
 **Fixed bugs:**
 

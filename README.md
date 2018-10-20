@@ -27,6 +27,7 @@ Include-beer should work with any size fermentation vessel and heating element. 
 
 # Install software packages
 * WiringPI
+      
       cd ~
       git clone git://git.drogon.net/wiringPi
       cd wiringPI
@@ -35,6 +36,7 @@ Include-beer should work with any size fermentation vessel and heating element. 
       gpio -v
 
 * RFOutlet and RFSniffer
+      
       cd ~
       git clone git://github.com/timleland/rfoutlet.git ~/rfoutlet
 
@@ -48,6 +50,7 @@ Include-beer should work with any size fermentation vessel and heating element. 
       codesend <code from above>
 
 * Adafruit DHT11 python library
+      
       cd ~
       git clone https://github.com/adafruit/Adafruit_Python_DHT.git
       cd Adafruit_Python_DHT

@@ -32,7 +32,7 @@ app = Flask(__name__)
 @app.route('/')
 def index():
     ambTemp, ambHumidity = AmbientTemp.readAmbient(props.ambientPin)
-    probeTemperature = probeTemp.readProbe()
+    probeTemperature = probeTemp.readProbe(props.probeBaseDir, props.probeDeviceFile)
     beerName = props.beerName
     action = props.action
     now = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime())

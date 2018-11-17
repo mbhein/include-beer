@@ -13,7 +13,12 @@ def returnLines(file,numLines):
     with open(file, "r") as f:
         contentDict = f.read().splitlines()
         finishLine = len(contentDict)
-        startLine = finishLine - numLines
+        if finishLine < numLines:
+            startLine = 0
+            numLines = finishLine
+        else:
+            startLine = finishLine - numLines
+        print(str(startLine) + " - " + str(finishLine))
         content = 'Lines returned: ' + str(numLines) + ' <br/> '
         for i in range(startLine,finishLine):
             content += contentDict[i] + '<br/>'

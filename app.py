@@ -40,7 +40,7 @@ def index():
     lines = 20
     content = returnLines(file,lines)
     return render_template('index.html', timeStamp=now, beerName=beerName, action=action, ambTemp=ambTemp,
-        ambHumidity=ambHumidity, pTemp=probeTemperature, content=content)
+        ambHumidity=ambHumidity, pTemp=probeTemperature, minFermTemp=props.fermLow, maxFermTemp=props.fermHigh, content=content)
 
 @app.route('/brewlog')
 def brewlog():

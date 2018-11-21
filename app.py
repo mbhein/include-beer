@@ -5,8 +5,8 @@ import subprocess
 from flask import Flask, render_template
 import time
 import brewCommon
-import AmbientTemp
-import probeTemp
+# import AmbientTemp
+# import probeTemp
 
 
 def returnLines(file,numLines):
@@ -31,8 +31,9 @@ app = Flask(__name__)
 
 @app.route('/')
 def index():
-    ambTemp, ambHumidity = AmbientTemp.readAmbient(props.ambientPin)
-    probeTemperature = probeTemp.readProbe(props.probeBaseDir, props.probeDeviceFile)
+    # ambTemp, ambHumidity = AmbientTemp.readAmbient(props.ambientPin)
+    # probeTemperature = probeTemp.readProbe(props.probeBaseDir, props.probeDeviceFile)
+    ambTemp, ambHumidity, probeTemperature = "N/A","N/A","N/A"
     beerName = props.beerName
     action = props.action
     now = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime())

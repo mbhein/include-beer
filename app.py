@@ -20,6 +20,7 @@ def returnLines(file,numLines):
             startLine = finishLine - numLines
         print(str(startLine) + " - " + str(finishLine))
         content = 'Lines returned: ' + str(numLines) + ' <br/> '
+        content += '___Date___ ___Time___ | _Thread_ | Level | Stg | A-T | A-H | P-T | Status Msg <br/>'
         for i in range(startLine,finishLine):
             content += contentDict[i] + '<br/>'
     return content

@@ -5,6 +5,8 @@
 **Merged pull requests:**
 
 **Implemented enhancements:**
+- Flask App that reads current brewlog [\#5](https://github.com/mbhein/include-beer/issues/5)
+- Run Flask app in Docker Container [\#6](https://github.com/mbhein/include-beer/issues/6)
 
 **Closed issues:**
 - Introduce CHANGELOG.md [\#8](https://github.com/mbhein/include-beer/issues/8)
@@ -29,4 +31,3 @@
 **Fixed bugs:**
 
 **Paid down technical debt:**
-

@@ -1,14 +1,29 @@
 <html>
  <body>
   <h1>Include-Beer!</h1>
-  <p>Current Time: {{ timeStamp }}</p>
   <p>
-   Current Beer: {{ beerName }}<br/>
-   Fermentation Stage: {{ action }}<br/>
-   Ambient Temperature: {{ ambTemp }}<br/>
-   Ambient Humidity: {{ ambHumidity }}<br/>
-   Probe Temperature: {{ pTemp }}<br/>
-
+  <table>
+   <tr align=left valign=top>
+    <td width=200>
+     <p>
+      Current Specs:<br/>
+      Time: {{ timeStamp }}<br/>
+      Beer: {{ beerName }}<br/>
+      Stage: {{ action }}<br/>
+      Min Temp: {{ minFermTemp }}<br/>
+      Max Temp: {{ maxFermTemp }}
+     </p>
+    </td>
+    <td width=200>
+     <p>
+      Sensors:<br/>
+      Vessel Probe Temp: {{ pTemp }}<br/>
+      Ambient Temp: {{ ambTemp }}<br/>
+      Ambient Humidity: {{ ambHumidity }}<br/>
+     </p>
+    </td>
+   </tr>
+  </table>
   </p>
   <p>{{ content|safe }}</p>
   <p><a href="/brewlog">Read Brew Log</a></p>

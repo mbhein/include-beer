@@ -1,0 +1,11 @@
+version: '3'
+services:
+  web:
+    image: "mbhein/include-beer-app:1.0"
+    restart: unless-stopped
+    ports:
+     - "8080:8080"
+    volumes:
+     - ../:/app
+    environment:
+     - "TZ=America/Chicago"

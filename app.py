@@ -5,16 +5,22 @@ import subprocess
 from flask import Flask, render_template
 import time
 import brewCommon
-import AmbientTemp
-import probeTemp
+# import AmbientTemp
+# import probeTemp
 
 
 def returnLines(file,numLines):
     with open(file, "r") as f:
         contentDict = f.read().splitlines()
         finishLine = len(contentDict)
-        startLine = finishLine - numLines
+        if finishLine < numLines:
+            startLine = 0
+            numLines = finishLine
+        else:
+            startLine = finishLine - numLines
+        print(str(startLine) + " - " + str(finishLine))
         content = 'Lines returned: ' + str(numLines) + ' <br/> '
+        content += '___Date___ ___Time___ | _Thread_ | Level | Stg | A-T | A-H | P-T | Status Msg <br/>'
         for i in range(startLine,finishLine):
             content += contentDict[i] + '<br/>'
     return content
@@ -26,8 +32,9 @@ app = Flask(__name__)
 
 @app.route('/')
 def index():
-    ambTemp, ambHumidity = AmbientTemp.readAmbient(props.ambientPin)
-    probeTemperature = probeTemp.readProbe()
+    # ambTemp, ambHumidity = AmbientTemp.readAmbient(props.ambientPin)
+    # probeTemperature = probeTemp.readProbe(props.probeBaseDir, props.probeDeviceFile)
+    ambTemp, ambHumidity, probeTemperature = "N/A","N/A","N/A"
     beerName = props.beerName
     action = props.action
     now = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime())
@@ -35,7 +42,7 @@ def index():
     lines = 20
     content = returnLines(file,lines)
     return render_template('index.html', timeStamp=now, beerName=beerName, action=action, ambTemp=ambTemp,
-        ambHumidity=ambHumidity, pTemp=probeTemperature, content=content)
+        ambHumidity=ambHumidity, pTemp=probeTemperature, minFermTemp=props.fermLow, maxFermTemp=props.fermHigh, content=content)
 
 @app.route('/brewlog')
 def brewlog():

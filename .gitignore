@@ -1,5 +1,6 @@
 #Include-beer specific
 Heaton
+.brewersfriend.config
 
 #Exclude build/dev log files
 brewlog/

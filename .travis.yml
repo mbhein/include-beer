@@ -4,3 +4,11 @@ python:
   - "3.6"
 script:
   - pytest -s
+addons:
+  apt:
+    packages:
+    - python3-devel
+before_install:
+ git clone https://github.com/adafruit/Adafruit_Python_DHT.git
+ cd Adafruit_Python_DHT
+ sudo python3 setup.py install

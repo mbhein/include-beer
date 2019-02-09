@@ -3,7 +3,9 @@ python:
   - "3.5"
   - "3.6"
 install:
-  - pip3 install setuptools wheel
-  - pip3 install Adafruit_DHT
+  - ln -s SDK/Adafruit_DHT.py Adafruit_DHT.py
 script:
   - pytest -s
+notifications:
+  # Disable email notifications for now
+  email: false

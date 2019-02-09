@@ -9,6 +9,7 @@ Adafruit_DHT.py
 282018/
 28-2018/
 w1_slave
+!SDK/*
 
 #Legacy folders
 

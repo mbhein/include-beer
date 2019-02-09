@@ -1,8 +1,10 @@
 # Include-beer specific
 Heaton
 
-# Exclude build/dev log files
-brewlog/
+# Exclude build/dev log files but keep brewlog/example.log
+brewlog/*
+!brewlog/example.log
+
 
 # Exclude symlinked stubs
 Adafruit_DHT.py

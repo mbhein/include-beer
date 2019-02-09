@@ -2,8 +2,13 @@
 Heaton
 
 # Exclude build/dev log files but keep brewlog/example.log
+<<<<<<< HEAD
 brewlog/pri_*.log
 brewlog/sec_*.log
+=======
+brewlog/*
+!brewlog/example.log
+>>>>>>> f922a63aae1a7ff96e142d8914d076d654af487a
 
 
 # Exclude symlinked stubs

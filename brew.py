@@ -38,7 +38,10 @@ class getProps(object):
         self.ambientPin = cp.get('ambient','pin')
 
         #set vessel propbe properites
-        self.probeBaseDir = cp.get('vesselProbe','probeBaseDir')
+        if os.getenv('include_beer_probe_device_base',0):
+            self.probeBaseDir = os.environ['include_beer_probe_device_base']
+        else:
+            self.probeBaseDir = cp.get('vesselProbe','probeBaseDir')
         self.probeDeviceFile = cp.get('vesselProbe','probeDeviceFile')
 
         #set RF Outlet Properties

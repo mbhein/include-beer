@@ -4,6 +4,7 @@ python:
   - "3.6"
 install:
   - ln -s SDK/Adafruit_DHT.py Adafruit_DHT.py
+  - export include_beer_probe_device_base=./SDK/
 script:
   - pytest -s
 notifications:

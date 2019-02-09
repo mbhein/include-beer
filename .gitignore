@@ -6,9 +6,6 @@ brewlog/
 
 # Exclude symlinked stubs
 Adafruit_DHT.py
-282018/
-28-2018/
-w1_slave
 
 # Include SDK stubs
 !SDK/*

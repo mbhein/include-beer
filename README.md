@@ -2,6 +2,11 @@
 
 Include-beer is a hobby project to automate portions of home-brewing using a combination of a Raspberry PI, sensors, heating elements, and Python3.
 
+# Project Status
+
+Master: [![Build Status](https://travis-ci.com/mbhein/include-beer.svg?branch=master)](https://travis-ci.com/mbhein/include-beer)
+Dev: [![Build Status](https://travis-ci.com/mbhein/include-beer.svg?branch=devel)](https://travis-ci.com/mbhein/include-beer)
+
 # Overview
 
 Include-beer maintains the desired internal temperature of fermentation vessel by using a probe in a Thermowell in the vessel and a outlet controlled heating element to raise the temperature as needed.

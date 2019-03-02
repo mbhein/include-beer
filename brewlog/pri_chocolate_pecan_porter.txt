@@ -1,0 +1,2009 @@
+2018-02-19 12:05:01 Max: 72 Min: 66  Probe: 68.9 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-19 12:10:02 Max: 72 Min: 66  Probe: 68.9 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-19 12:15:02 Max: 72 Min: 66  Probe: 68.9 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-19 12:20:01 Max: 72 Min: 66  Probe: 68.9 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-19 12:25:01 Max: 72 Min: 66  Probe: 68.9 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-19 12:30:02 Max: 72 Min: 66  Probe: 68.9 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-19 12:35:02 Max: 72 Min: 66  Probe: 68.9 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-19 12:40:01 Max: 72 Min: 66  Probe: 68.9 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-19 12:45:02 Max: 72 Min: 66  Probe: 68.9 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-19 12:50:02 Max: 72 Min: 66  Probe: 68.9 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-19 12:55:02 Max: 72 Min: 66  Probe: 68.79 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-19 13:00:01 Max: 72 Min: 66  Probe: 68.79 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-19 13:05:02 Max: 72 Min: 66  Probe: 68.79 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-19 13:10:02 Max: 72 Min: 66  Probe: 68.68 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-19 13:15:02 Max: 72 Min: 66  Probe: 68.68 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-19 13:20:01 Max: 72 Min: 66  Probe: 68.68 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-19 13:25:01 Max: 72 Min: 66  Probe: 68.68 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-19 13:30:02 Max: 72 Min: 66  Probe: 68.56 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-19 13:35:02 Max: 72 Min: 66  Probe: 68.56 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-19 13:40:02 Max: 72 Min: 66  Probe: 68.56 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-19 13:45:02 Max: 72 Min: 66  Probe: 68.56 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-19 13:50:01 Max: 72 Min: 66  Probe: 68.56 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-19 13:55:01 Max: 72 Min: 66  Probe: 68.45 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-19 14:00:01 Max: 72 Min: 66  Probe: 68.45 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-19 14:05:02 Max: 72 Min: 66  Probe: 68.45 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-19 14:10:01 Max: 72 Min: 66  Probe: 68.34 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-19 14:15:02 Max: 72 Min: 66  Probe: 68.34 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-19 14:20:02 Max: 72 Min: 66  Probe: 68.23 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-19 14:25:01 Max: 72 Min: 66  Probe: 68.11 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-19 14:30:01 Max: 72 Min: 66  Probe: 68.11 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-19 14:35:01 Max: 72 Min: 66  Probe: 68.0 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-19 14:40:01 Max: 72 Min: 66  Probe: 68.11 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-19 14:45:01 Max: 72 Min: 66  Probe: 68.0 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-19 14:50:02 Max: 72 Min: 66  Probe: 68.0 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-19 14:55:02 Max: 72 Min: 66  Probe: 68.0 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-19 15:00:02 Max: 72 Min: 66  Probe: 68.0 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-19 15:05:02 Max: 72 Min: 66  Probe: 67.89 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-19 15:10:01 Max: 72 Min: 66  Probe: 67.89 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-19 15:15:01 Max: 72 Min: 66  Probe: 67.89 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-19 15:20:02 Max: 72 Min: 66  Probe: 67.89 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-19 15:25:02 Max: 72 Min: 66  Probe: 67.78 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-19 15:30:01 Max: 72 Min: 66  Probe: 67.78 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-19 15:35:02 Max: 72 Min: 66  Probe: 67.66 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-19 15:40:02 Max: 72 Min: 66  Probe: 67.66 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-19 15:45:02 Max: 72 Min: 66  Probe: 67.66 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-19 15:50:01 Max: 72 Min: 66  Probe: 67.66 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-19 15:55:01 Max: 72 Min: 66  Probe: 67.66 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-19 16:00:02 Max: 72 Min: 66  Probe: 67.55 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-19 16:05:01 Max: 72 Min: 66  Probe: 67.55 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-19 16:10:01 Max: 72 Min: 66  Probe: 67.55 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-19 16:15:02 Max: 72 Min: 66  Probe: 67.55 F Ambient: 64.4 F Action: Temperature is perfect
+2018-02-19 16:20:02 Max: 72 Min: 66  Probe: 67.55 F Ambient: 64.4 F Action: Temperature is perfect
+2018-02-19 16:25:02 Max: 72 Min: 66  Probe: 67.55 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-19 16:30:02 Max: 72 Min: 66  Probe: 67.55 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-19 16:35:02 Max: 72 Min: 66  Probe: 67.55 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-19 16:40:01 Max: 72 Min: 66  Probe: 67.55 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-19 16:45:02 Max: 72 Min: 66  Probe: 67.55 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-19 16:50:02 Max: 72 Min: 66  Probe: 67.55 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-19 16:55:01 Max: 72 Min: 66  Probe: 67.44 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-19 17:00:02 Max: 72 Min: 66  Probe: 67.44 F Ambient: 64.4 F Action: Temperature is perfect
+2018-02-19 17:05:02 Max: 72 Min: 66  Probe: 67.44 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-19 17:10:01 Max: 72 Min: 66  Probe: 67.44 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-19 17:15:01 Max: 72 Min: 66  Probe: 67.44 F Ambient: 64.4 F Action: Temperature is perfect
+2018-02-19 17:20:01 Max: 72 Min: 66  Probe: 67.44 F Ambient: 64.4 F Action: Temperature is perfect
+2018-02-19 17:25:02 Max: 72 Min: 66  Probe: 67.44 F Ambient: 64.4 F Action: Temperature is perfect
+2018-02-19 17:30:02 Max: 72 Min: 66  Probe: 67.44 F Ambient: 64.4 F Action: Temperature is perfect
+2018-02-19 17:35:02 Max: 72 Min: 66  Probe: 67.44 F Ambient: 64.4 F Action: Temperature is perfect
+2018-02-19 17:40:02 Max: 72 Min: 66  Probe: 67.44 F Ambient: 64.4 F Action: Temperature is perfect
+2018-02-19 17:45:02 Max: 72 Min: 66  Probe: 67.44 F Ambient: 66.2 F Action: Temperature is perfect
+2018-02-19 17:50:02 Max: 72 Min: 66  Probe: 67.44 F Ambient: 68.0 F Action: Temperature is perfect
+2018-02-19 17:55:02 Max: 72 Min: 66  Probe: 67.44 F Ambient: 66.2 F Action: Temperature is perfect
+2018-02-19 18:00:02 Max: 72 Min: 66  Probe: 67.44 F Ambient: 66.2 F Action: Temperature is perfect
+2018-02-19 18:05:02 Max: 72 Min: 66  Probe: 67.44 F Ambient: 64.4 F Action: Temperature is perfect
+2018-02-19 18:10:01 Max: 72 Min: 66  Probe: 67.44 F Ambient: 64.4 F Action: Temperature is perfect
+2018-02-19 18:15:02 Max: 72 Min: 66  Probe: 67.44 F Ambient: 64.4 F Action: Temperature is perfect
+2018-02-19 18:20:02 Max: 72 Min: 66  Probe: 67.44 F Ambient: 66.2 F Action: Temperature is perfect
+2018-02-19 18:25:02 Max: 72 Min: 66  Probe: 67.44 F Ambient: 66.2 F Action: Temperature is perfect
+2018-02-19 18:30:01 Max: 72 Min: 66  Probe: 67.44 F Ambient: 66.2 F Action: Temperature is perfect
+2018-02-19 18:35:01 Max: 72 Min: 66  Probe: 67.44 F Ambient: 64.4 F Action: Temperature is perfect
+2018-02-19 18:40:02 Max: 72 Min: 66  Probe: 67.44 F Ambient: 64.4 F Action: Temperature is perfect
+2018-02-19 18:45:01 Max: 72 Min: 66  Probe: 67.44 F Ambient: 66.2 F Action: Temperature is perfect
+2018-02-19 18:50:02 Max: 72 Min: 66  Probe: 67.44 F Ambient: 64.4 F Action: Temperature is perfect
+2018-02-19 18:55:02 Max: 72 Min: 66  Probe: 67.44 F Ambient: 66.2 F Action: Temperature is perfect
+2018-02-19 19:00:02 Max: 72 Min: 66  Probe: 67.44 F Ambient: 66.2 F Action: Temperature is perfect
+2018-02-19 19:05:01 Max: 72 Min: 66  Probe: 67.44 F Ambient: 66.2 F Action: Temperature is perfect
+2018-02-19 19:10:02 Max: 72 Min: 66  Probe: 67.44 F Ambient: 66.2 F Action: Temperature is perfect
+2018-02-19 19:15:01 Max: 72 Min: 66  Probe: 67.44 F Ambient: 66.2 F Action: Temperature is perfect
+2018-02-19 19:20:01 Max: 72 Min: 66  Probe: 67.44 F Ambient: 66.2 F Action: Temperature is perfect
+2018-02-19 19:25:01 Max: 72 Min: 66  Probe: 67.44 F Ambient: 66.2 F Action: Temperature is perfect
+2018-02-19 19:30:02 Max: 72 Min: 66  Probe: 67.44 F Ambient: 66.2 F Action: Temperature is perfect
+2018-02-19 19:35:02 Max: 72 Min: 66  Probe: 67.44 F Ambient: 66.2 F Action: Temperature is perfect
+2018-02-19 19:40:02 Max: 72 Min: 66  Probe: 67.44 F Ambient: 66.2 F Action: Temperature is perfect
+2018-02-19 19:45:02 Max: 72 Min: 66  Probe: 67.44 F Ambient: 66.2 F Action: Temperature is perfect
+2018-02-19 19:50:01 Max: 72 Min: 66  Probe: 67.44 F Ambient: 66.2 F Action: Temperature is perfect
+2018-02-19 19:55:02 Max: 72 Min: 66  Probe: 67.44 F Ambient: 66.2 F Action: Temperature is perfect
+2018-02-19 20:00:02 Max: 72 Min: 66  Probe: 67.44 F Ambient: 66.2 F Action: Temperature is perfect
+2018-02-19 20:05:01 Max: 72 Min: 66  Probe: 67.44 F Ambient: 66.2 F Action: Temperature is perfect
+2018-02-19 20:10:01 Max: 72 Min: 66  Probe: 67.44 F Ambient: 66.2 F Action: Temperature is perfect
+2018-02-19 20:15:02 Max: 72 Min: 66  Probe: 67.55 F Ambient: 66.2 F Action: Temperature is perfect
+2018-02-19 20:20:02 Max: 72 Min: 66  Probe: 67.55 F Ambient: 66.2 F Action: Temperature is perfect
+2018-02-19 20:25:02 Max: 72 Min: 66  Probe: 67.55 F Ambient: 66.2 F Action: Temperature is perfect
+2018-02-19 20:30:02 Max: 72 Min: 66  Probe: 67.55 F Ambient: 66.2 F Action: Temperature is perfect
+2018-02-19 20:35:02 Max: 72 Min: 66  Probe: 67.55 F Ambient: 66.2 F Action: Temperature is perfect
+2018-02-19 20:40:02 Max: 72 Min: 66  Probe: 67.55 F Ambient: 66.2 F Action: Temperature is perfect
+2018-02-19 20:45:02 Max: 72 Min: 66  Probe: 67.55 F Ambient: 66.2 F Action: Temperature is perfect
+2018-02-19 20:50:02 Max: 72 Min: 66  Probe: 67.55 F Ambient: 66.2 F Action: Temperature is perfect
+2018-02-19 20:55:01 Max: 72 Min: 66  Probe: 67.55 F Ambient: 66.2 F Action: Temperature is perfect
+2018-02-19 21:00:02 Max: 72 Min: 66  Probe: 67.55 F Ambient: 66.2 F Action: Temperature is perfect
+2018-02-19 21:05:01 Max: 72 Min: 66  Probe: 67.55 F Ambient: 66.2 F Action: Temperature is perfect
+2018-02-19 21:10:02 Max: 72 Min: 66  Probe: 67.66 F Ambient: 66.2 F Action: Temperature is perfect
+2018-02-19 21:15:02 Max: 72 Min: 66  Probe: 67.66 F Ambient: 66.2 F Action: Temperature is perfect
+2018-02-19 21:20:02 Max: 72 Min: 66  Probe: 67.66 F Ambient: 66.2 F Action: Temperature is perfect
+2018-02-19 21:25:02 Max: 72 Min: 66  Probe: 67.66 F Ambient: 66.2 F Action: Temperature is perfect
+2018-02-19 21:30:01 Max: 72 Min: 66  Probe: 67.66 F Ambient: 66.2 F Action: Temperature is perfect
+2018-02-19 21:35:01 Max: 72 Min: 66  Probe: 67.66 F Ambient: 66.2 F Action: Temperature is perfect
+2018-02-19 21:40:01 Max: 72 Min: 66  Probe: 67.78 F Ambient: 66.2 F Action: Temperature is perfect
+2018-02-19 21:45:01 Max: 72 Min: 66  Probe: 67.78 F Ambient: 66.2 F Action: Temperature is perfect
+2018-02-19 21:50:02 Max: 72 Min: 66  Probe: 67.78 F Ambient: 66.2 F Action: Temperature is perfect
+2018-02-19 21:55:02 Max: 72 Min: 66  Probe: 67.78 F Ambient: 66.2 F Action: Temperature is perfect
+2018-02-19 22:00:02 Max: 72 Min: 66  Probe: 67.78 F Ambient: 66.2 F Action: Temperature is perfect
+2018-02-19 22:05:02 Max: 72 Min: 66  Probe: 67.78 F Ambient: 66.2 F Action: Temperature is perfect
+2018-02-19 22:10:01 Max: 72 Min: 66  Probe: 67.89 F Ambient: 66.2 F Action: Temperature is perfect
+2018-02-19 22:15:02 Max: 72 Min: 66  Probe: 67.89 F Ambient: 66.2 F Action: Temperature is perfect
+2018-02-19 22:20:02 Max: 72 Min: 66  Probe: 67.89 F Ambient: 66.2 F Action: Temperature is perfect
+2018-02-19 22:25:02 Max: 72 Min: 66  Probe: 67.89 F Ambient: 66.2 F Action: Temperature is perfect
+2018-02-19 22:30:01 Max: 72 Min: 66  Probe: 67.89 F Ambient: 66.2 F Action: Temperature is perfect
+2018-02-19 22:35:02 Max: 72 Min: 66  Probe: 67.89 F Ambient: 66.2 F Action: Temperature is perfect
+2018-02-19 22:40:02 Max: 72 Min: 66  Probe: 68.0 F Ambient: 66.2 F Action: Temperature is perfect
+2018-02-19 22:45:01 Max: 72 Min: 66  Probe: 68.0 F Ambient: 66.2 F Action: Temperature is perfect
+2018-02-19 22:50:02 Max: 72 Min: 66  Probe: 68.0 F Ambient: 66.2 F Action: Temperature is perfect
+2018-02-19 22:55:01 Max: 72 Min: 66  Probe: 68.0 F Ambient: 64.4 F Action: Temperature is perfect
+2018-02-19 23:00:01 Max: 72 Min: 66  Probe: 68.0 F Ambient: 64.4 F Action: Temperature is perfect
+2018-02-19 23:05:01 Max: 72 Min: 66  Probe: 68.0 F Ambient: 64.4 F Action: Temperature is perfect
+2018-02-19 23:10:02 Max: 72 Min: 66  Probe: 68.0 F Ambient: 64.4 F Action: Temperature is perfect
+2018-02-19 23:15:01 Max: 72 Min: 66  Probe: 68.11 F Ambient: 64.4 F Action: Temperature is perfect
+2018-02-19 23:20:02 Max: 72 Min: 66  Probe: 68.11 F Ambient: 64.4 F Action: Temperature is perfect
+2018-02-19 23:25:02 Max: 72 Min: 66  Probe: 68.11 F Ambient: 64.4 F Action: Temperature is perfect
+2018-02-19 23:30:01 Max: 72 Min: 66  Probe: 68.11 F Ambient: 64.4 F Action: Temperature is perfect
+2018-02-19 23:35:01 Max: 72 Min: 66  Probe: 68.11 F Ambient: 64.4 F Action: Temperature is perfect
+2018-02-19 23:40:02 Max: 72 Min: 66  Probe: 68.11 F Ambient: 64.4 F Action: Temperature is perfect
+2018-02-19 23:45:02 Max: 72 Min: 66  Probe: 68.11 F Ambient: 64.4 F Action: Temperature is perfect
+2018-02-19 23:50:02 Max: 72 Min: 66  Probe: 68.23 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-19 23:55:01 Max: 72 Min: 66  Probe: 68.23 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-20 00:00:01 Max: 72 Min: 66  Probe: 68.23 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-20 00:05:01 Max: 72 Min: 66  Probe: 68.23 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-20 00:10:01 Max: 72 Min: 66  Probe: 68.23 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-20 00:15:02 Max: 72 Min: 66  Probe: 68.23 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-20 00:20:02 Max: 72 Min: 66  Probe: 68.34 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-20 00:25:02 Max: 72 Min: 66  Probe: 68.34 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-20 00:30:02 Max: 72 Min: 66  Probe: 68.23 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-20 00:35:01 Max: 72 Min: 66  Probe: 68.34 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-20 00:40:02 Max: 72 Min: 66  Probe: 68.34 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-20 00:45:01 Max: 72 Min: 66  Probe: 68.34 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-20 00:50:01 Max: 72 Min: 66  Probe: 68.34 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-20 00:55:02 Max: 72 Min: 66  Probe: 68.34 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-20 01:00:02 Max: 72 Min: 66  Probe: 68.34 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-20 01:05:01 Max: 72 Min: 66  Probe: 68.45 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-20 01:10:02 Max: 72 Min: 66  Probe: 68.45 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-20 01:15:01 Max: 72 Min: 66  Probe: 68.45 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-20 01:20:02 Max: 72 Min: 66  Probe: 68.45 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-20 01:25:01 Max: 72 Min: 66  Probe: 68.45 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-20 01:30:02 Max: 72 Min: 66  Probe: 68.45 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-20 01:35:02 Max: 72 Min: 66  Probe: 68.45 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-20 01:40:01 Max: 72 Min: 66  Probe: 68.45 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-20 01:45:02 Max: 72 Min: 66  Probe: 68.45 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-20 01:50:02 Max: 72 Min: 66  Probe: 68.56 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-20 01:55:02 Max: 72 Min: 66  Probe: 68.56 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-20 02:00:02 Max: 72 Min: 66  Probe: 68.56 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-20 02:05:02 Max: 72 Min: 66  Probe: 68.56 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-20 02:10:02 Max: 72 Min: 66  Probe: 68.56 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-20 02:15:02 Max: 72 Min: 66  Probe: 68.56 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-20 02:20:02 Max: 72 Min: 66  Probe: 68.56 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-20 02:25:01 Max: 72 Min: 66  Probe: 68.56 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-20 02:30:02 Max: 72 Min: 66  Probe: 68.68 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-20 02:35:01 Max: 72 Min: 66  Probe: 68.68 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-20 02:40:02 Max: 72 Min: 66  Probe: 68.68 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-20 02:45:02 Max: 72 Min: 66  Probe: 68.68 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-20 02:50:02 Max: 72 Min: 66  Probe: 68.68 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-20 02:55:02 Max: 72 Min: 66  Probe: 68.79 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-20 03:00:02 Max: 72 Min: 66  Probe: 68.79 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-20 03:05:01 Max: 72 Min: 66  Probe: 68.79 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-20 03:10:01 Max: 72 Min: 66  Probe: 68.79 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-20 03:15:01 Max: 72 Min: 66  Probe: 68.79 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-20 03:20:02 Max: 72 Min: 66  Probe: 68.79 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-20 03:25:02 Max: 72 Min: 66  Probe: 68.79 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-20 03:30:01 Max: 72 Min: 66  Probe: 68.9 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-20 03:35:02 Max: 72 Min: 66  Probe: 68.9 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-20 03:40:02 Max: 72 Min: 66  Probe: 68.9 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-20 03:45:02 Max: 72 Min: 66  Probe: 68.9 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 03:50:02 Max: 72 Min: 66  Probe: 68.9 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-20 03:55:01 Max: 72 Min: 66  Probe: 69.01 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-20 04:00:01 Max: 72 Min: 66  Probe: 69.01 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 04:05:02 Max: 72 Min: 66  Probe: 69.01 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 04:10:02 Max: 72 Min: 66  Probe: 69.01 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 04:15:01 Max: 72 Min: 66  Probe: 69.01 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 04:20:02 Max: 72 Min: 66  Probe: 69.01 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 04:25:02 Max: 72 Min: 66  Probe: 69.01 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 04:30:02 Max: 72 Min: 66  Probe: 69.13 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 04:35:02 Max: 72 Min: 66  Probe: 69.13 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 04:40:02 Max: 72 Min: 66  Probe: 69.13 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 04:45:01 Max: 72 Min: 66  Probe: 69.13 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 04:50:01 Max: 72 Min: 66  Probe: 69.24 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 04:55:02 Max: 72 Min: 66  Probe: 69.24 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 05:00:02 Max: 72 Min: 66  Probe: 69.24 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 05:05:02 Max: 72 Min: 66  Probe: 69.24 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 05:10:02 Max: 72 Min: 66  Probe: 69.24 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 05:15:01 Max: 72 Min: 66  Probe: 69.24 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 05:20:01 Max: 72 Min: 66  Probe: 69.35 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 05:25:02 Max: 72 Min: 66  Probe: 69.35 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 05:30:02 Max: 72 Min: 66  Probe: 69.35 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 05:35:02 Max: 72 Min: 66  Probe: 69.35 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 05:40:01 Max: 72 Min: 66  Probe: 69.35 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 05:45:02 Max: 72 Min: 66  Probe: 69.35 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 05:50:02 Max: 72 Min: 66  Probe: 69.46 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 05:55:02 Max: 72 Min: 66  Probe: 69.46 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 06:00:02 Max: 72 Min: 66  Probe: 69.46 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 06:05:02 Max: 72 Min: 66  Probe: 69.46 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 06:10:02 Max: 72 Min: 66  Probe: 69.46 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 06:15:01 Max: 72 Min: 66  Probe: 69.58 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 06:20:02 Max: 72 Min: 66  Probe: 69.58 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 06:25:02 Max: 72 Min: 66  Probe: 69.58 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 06:30:02 Max: 72 Min: 66  Probe: 69.58 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-20 06:35:02 Max: 72 Min: 66  Probe: 69.58 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-20 06:40:01 Max: 72 Min: 66  Probe: 69.69 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-20 06:45:02 Max: 72 Min: 66  Probe: 69.69 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 06:50:02 Max: 72 Min: 66  Probe: 69.69 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 06:55:01 Max: 72 Min: 66  Probe: 69.69 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-20 07:00:02 Max: 72 Min: 66  Probe: 69.69 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-20 07:05:02 Max: 72 Min: 66  Probe: 69.8 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-20 07:10:01 Max: 72 Min: 66  Probe: 69.8 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-20 07:15:02 Max: 72 Min: 66  Probe: 69.8 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-20 07:20:02 Max: 72 Min: 66  Probe: 69.8 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 07:25:02 Max: 72 Min: 66  Probe: 69.91 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-20 07:30:02 Max: 72 Min: 66  Probe: 69.91 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 07:35:02 Max: 72 Min: 66  Probe: 69.91 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 07:40:02 Max: 72 Min: 66  Probe: 69.91 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 07:45:01 Max: 72 Min: 66  Probe: 69.91 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 07:50:02 Max: 72 Min: 66  Probe: 70.03 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 07:55:02 Max: 72 Min: 66  Probe: 70.03 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 08:00:02 Max: 72 Min: 66  Probe: 70.03 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 08:05:02 Max: 72 Min: 66  Probe: 70.03 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 08:10:02 Max: 72 Min: 66  Probe: 70.03 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 08:15:02 Max: 72 Min: 66  Probe: 70.03 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 08:20:01 Max: 72 Min: 66  Probe: 70.14 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 08:25:02 Max: 72 Min: 66  Probe: 70.14 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 08:30:02 Max: 72 Min: 66  Probe: 70.14 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 08:35:02 Max: 72 Min: 66  Probe: 70.14 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 08:40:01 Max: 72 Min: 66  Probe: 70.14 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 08:45:02 Max: 72 Min: 66  Probe: 70.14 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 08:50:02 Max: 72 Min: 66  Probe: 70.14 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 08:55:01 Max: 72 Min: 66  Probe: 70.14 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 09:00:02 Max: 72 Min: 66  Probe: 70.14 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 09:05:02 Max: 72 Min: 66  Probe: 70.14 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 09:10:02 Max: 72 Min: 66  Probe: 70.25 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 09:15:02 Max: 72 Min: 66  Probe: 70.25 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 09:20:02 Max: 72 Min: 66  Probe: 70.25 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 09:25:02 Max: 72 Min: 66  Probe: 70.25 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 09:30:02 Max: 72 Min: 66  Probe: 70.25 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 09:35:01 Max: 72 Min: 66  Probe: 70.25 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 09:40:02 Max: 72 Min: 66  Probe: 70.25 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 09:45:02 Max: 72 Min: 66  Probe: 70.25 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 09:50:02 Max: 72 Min: 66  Probe: 70.25 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 09:55:01 Max: 72 Min: 66  Probe: 70.25 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 10:00:02 Max: 72 Min: 66  Probe: 70.25 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 10:05:02 Max: 72 Min: 66  Probe: 70.25 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 10:10:02 Max: 72 Min: 66  Probe: 70.25 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 10:15:02 Max: 72 Min: 66  Probe: 70.25 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 10:20:02 Max: 72 Min: 66  Probe: 70.25 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 10:25:02 Max: 72 Min: 66  Probe: 70.25 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 10:30:02 Max: 72 Min: 66  Probe: 70.25 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 10:35:01 Max: 72 Min: 66  Probe: 70.25 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 10:40:02 Max: 72 Min: 66  Probe: 70.25 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 10:45:02 Max: 72 Min: 66  Probe: 70.25 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 10:50:02 Max: 72 Min: 66  Probe: 70.25 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 10:55:02 Max: 72 Min: 66  Probe: 70.25 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 11:00:01 Max: 72 Min: 66  Probe: 70.25 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 11:05:02 Max: 72 Min: 66  Probe: 70.25 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 11:10:02 Max: 72 Min: 66  Probe: 70.14 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 11:15:02 Max: 72 Min: 66  Probe: 70.14 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 11:20:01 Max: 72 Min: 66  Probe: 70.14 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 11:25:02 Max: 72 Min: 66  Probe: 70.14 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 11:30:02 Max: 72 Min: 66  Probe: 70.14 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 11:35:02 Max: 72 Min: 66  Probe: 70.14 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 11:40:01 Max: 72 Min: 66  Probe: 70.03 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 11:45:02 Max: 72 Min: 66  Probe: 70.03 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 11:50:01 Max: 72 Min: 66  Probe: 70.03 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 11:55:01 Max: 72 Min: 66  Probe: 70.03 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 12:00:01 Max: 72 Min: 66  Probe: 70.03 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 12:05:02 Max: 72 Min: 66  Probe: 70.03 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 12:10:02 Max: 72 Min: 66  Probe: 69.91 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 12:15:02 Max: 72 Min: 66  Probe: 69.91 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 12:20:01 Max: 72 Min: 66  Probe: 69.91 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 12:25:01 Max: 72 Min: 66  Probe: 69.91 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 12:30:02 Max: 72 Min: 66  Probe: 69.91 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 12:35:01 Max: 72 Min: 66  Probe: 69.8 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 12:40:02 Max: 72 Min: 66  Probe: 69.8 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 12:45:02 Max: 72 Min: 66  Probe: 69.8 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 12:50:02 Max: 72 Min: 66  Probe: 69.8 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 12:55:02 Max: 72 Min: 66  Probe: 69.8 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 13:00:02 Max: 72 Min: 66  Probe: 69.69 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 13:05:01 Max: 72 Min: 66  Probe: 69.69 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 13:10:01 Max: 72 Min: 66  Probe: 69.69 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 13:15:02 Max: 72 Min: 66  Probe: 69.69 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 13:20:02 Max: 72 Min: 66  Probe: 69.69 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 13:25:02 Max: 72 Min: 66  Probe: 69.58 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 13:30:02 Max: 72 Min: 66  Probe: 69.58 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 13:35:02 Max: 72 Min: 66  Probe: 69.58 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 13:40:01 Max: 72 Min: 66  Probe: 69.58 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 13:45:02 Max: 72 Min: 66  Probe: 69.46 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 13:50:02 Max: 72 Min: 66  Probe: 69.46 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 13:55:02 Max: 72 Min: 66  Probe: 69.46 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 14:00:02 Max: 72 Min: 66  Probe: 69.46 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 14:05:01 Max: 72 Min: 66  Probe: 69.35 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 14:10:02 Max: 72 Min: 66  Probe: 69.35 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 14:15:01 Max: 72 Min: 66  Probe: 69.35 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 14:20:02 Max: 72 Min: 66  Probe: 69.35 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 14:25:01 Max: 72 Min: 66  Probe: 69.24 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 14:30:02 Max: 72 Min: 66  Probe: 69.24 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 14:35:02 Max: 72 Min: 66  Probe: 69.24 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 14:40:02 Max: 72 Min: 66  Probe: 69.13 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-20 14:45:02 Max: 72 Min: 66  Probe: 69.13 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 14:50:02 Max: 72 Min: 66  Probe: 69.13 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 14:55:01 Max: 72 Min: 66  Probe: 69.01 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 15:00:02 Max: 72 Min: 66  Probe: 69.01 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 15:05:01 Max: 72 Min: 66  Probe: 69.01 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 15:10:02 Max: 72 Min: 66  Probe: 69.01 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 15:15:01 Max: 72 Min: 66  Probe: 68.9 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 15:20:02 Max: 72 Min: 66  Probe: 68.9 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 15:25:02 Max: 72 Min: 66  Probe: 68.9 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 15:30:02 Max: 72 Min: 66  Probe: 68.79 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 15:35:01 Max: 72 Min: 66  Probe: 68.79 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 15:40:02 Max: 72 Min: 66  Probe: 68.79 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 15:45:01 Max: 72 Min: 66  Probe: 68.68 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 15:50:01 Max: 72 Min: 66  Probe: 68.68 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 15:55:01 Max: 72 Min: 66  Probe: 68.56 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 16:00:02 Max: 72 Min: 66  Probe: 68.56 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 16:05:01 Max: 72 Min: 66  Probe: 68.56 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 16:10:02 Max: 72 Min: 66  Probe: 68.45 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 16:15:01 Max: 72 Min: 66  Probe: 68.45 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 16:20:02 Max: 72 Min: 66  Probe: 68.34 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 16:25:02 Max: 72 Min: 66  Probe: 68.34 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 16:30:02 Max: 72 Min: 66  Probe: 68.34 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 16:35:02 Max: 72 Min: 66  Probe: 68.23 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 16:40:01 Max: 72 Min: 66  Probe: 68.23 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 16:45:02 Max: 72 Min: 66  Probe: 68.11 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 16:50:02 Max: 72 Min: 66  Probe: 68.11 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 16:55:02 Max: 72 Min: 66  Probe: 68.11 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 17:00:01 Max: 72 Min: 66  Probe: 68.0 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 17:05:02 Max: 72 Min: 66  Probe: 68.0 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 17:10:01 Max: 72 Min: 66  Probe: 67.89 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 17:15:02 Max: 72 Min: 66  Probe: 67.89 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 17:20:02 Max: 72 Min: 66  Probe: 67.78 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 17:25:02 Max: 72 Min: 66  Probe: 67.78 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 17:30:02 Max: 72 Min: 66  Probe: 67.78 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 17:35:02 Max: 72 Min: 66  Probe: 67.78 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-20 17:40:01 Max: 72 Min: 66  Probe: 67.66 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 17:45:01 Max: 72 Min: 66  Probe: 67.66 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 17:50:02 Max: 72 Min: 66  Probe: 67.55 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 17:55:01 Max: 72 Min: 66  Probe: 67.55 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 18:00:02 Max: 72 Min: 66  Probe: 67.55 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 18:05:01 Max: 72 Min: 66  Probe: 67.55 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 18:10:01 Max: 72 Min: 66  Probe: 67.44 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 18:15:01 Max: 72 Min: 66  Probe: 67.44 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 18:20:01 Max: 72 Min: 66  Probe: 67.33 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 18:25:02 Max: 72 Min: 66  Probe: 67.33 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 18:30:01 Max: 72 Min: 66  Probe: 67.33 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 18:35:01 Max: 72 Min: 66  Probe: 67.21 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 18:40:02 Max: 72 Min: 66  Probe: 67.21 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 18:45:02 Max: 72 Min: 66  Probe: 67.1 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 18:50:01 Max: 72 Min: 66  Probe: 67.1 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 18:55:01 Max: 72 Min: 66  Probe: 67.1 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 19:00:02 Max: 72 Min: 66  Probe: 66.99 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 19:05:02 Max: 72 Min: 66  Probe: 66.99 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 19:10:02 Max: 72 Min: 66  Probe: 66.99 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 19:15:02 Max: 72 Min: 66  Probe: 66.99 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 19:20:01 Max: 72 Min: 66  Probe: 66.88 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-20 19:25:02 Max: 72 Min: 66  Probe: 66.88 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-20 19:30:02 Max: 72 Min: 66  Probe: 66.76 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-20 19:35:01 Max: 72 Min: 66  Probe: 66.76 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-20 19:40:02 Max: 72 Min: 66  Probe: 66.76 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-20 19:45:02 Max: 72 Min: 66  Probe: 66.76 F Ambient: 64.4 F Action: Temperature is perfect
+2018-02-20 19:50:02 Max: 72 Min: 66  Probe: 66.65 F Ambient: 64.4 F Action: Temperature is perfect
+2018-02-20 19:55:02 Max: 72 Min: 66  Probe: 66.65 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-20 20:00:02 Max: 72 Min: 66  Probe: 66.65 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-20 20:05:02 Max: 72 Min: 66  Probe: 66.65 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-20 20:10:02 Max: 72 Min: 66  Probe: 66.65 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-20 20:15:01 Max: 72 Min: 66  Probe: 66.54 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-20 20:20:02 Max: 72 Min: 66  Probe: 66.54 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-20 20:25:02 Max: 72 Min: 66  Probe: 66.54 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-20 20:30:02 Max: 72 Min: 66  Probe: 66.54 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-20 20:35:01 Max: 72 Min: 66  Probe: 66.54 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-20 20:40:02 Max: 72 Min: 66  Probe: 66.43 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-20 20:45:02 Max: 72 Min: 66  Probe: 66.43 F Ambient: 64.4 F Action: Temperature is perfect
+2018-02-20 20:50:02 Max: 72 Min: 66  Probe: 66.43 F Ambient: 64.4 F Action: Temperature is perfect
+2018-02-20 20:55:02 Max: 72 Min: 66  Probe: 66.43 F Ambient: 64.4 F Action: Temperature is perfect
+2018-02-20 21:00:02 Max: 72 Min: 66  Probe: 66.43 F Ambient: 64.4 F Action: Temperature is perfect
+2018-02-20 21:05:02 Max: 72 Min: 66  Probe: 66.43 F Ambient: 64.4 F Action: Temperature is perfect
+2018-02-20 21:10:01 Max: 72 Min: 66  Probe: 66.31 F Ambient: 64.4 F Action: Temperature is perfect
+2018-02-20 21:15:01 Max: 72 Min: 66  Probe: 66.31 F Ambient: 64.4 F Action: Temperature is perfect
+2018-02-20 21:20:02 Max: 72 Min: 66  Probe: 66.31 F Ambient: 64.4 F Action: Temperature is perfect
+2018-02-20 21:25:02 Max: 72 Min: 66  Probe: 66.31 F Ambient: 64.4 F Action: Temperature is perfect
+2018-02-20 21:30:02 Max: 72 Min: 66  Probe: 66.31 F Ambient: 64.4 F Action: Temperature is perfect
+2018-02-20 21:35:02 Max: 72 Min: 66  Probe: 66.31 F Ambient: 66.2 F Action: Temperature is perfect
+2018-02-20 21:40:02 Max: 72 Min: 66  Probe: 66.2 F Ambient: 68.0 F Action: Temperature is perfect
+2018-02-20 21:45:02 Max: 72 Min: 66  Probe: 66.2 F Ambient: 68.0 F Action: Temperature is perfect
+2018-02-20 21:50:01 Max: 72 Min: 66  Probe: 66.2 F Ambient: 66.2 F Action: Temperature is perfect
+2018-02-20 21:55:02 Max: 72 Min: 66  Probe: 66.2 F Ambient: 66.2 F Action: Temperature is perfect
+2018-02-20 22:00:01 Max: 72 Min: 66  Probe: 66.2 F Ambient: 66.2 F Action: Temperature is perfect
+2018-02-20 22:05:01 Max: 72 Min: 66  Probe: 66.2 F Ambient: 66.2 F Action: Temperature is perfect
+2018-02-20 22:10:01 Max: 72 Min: 66  Probe: 66.2 F Ambient: 66.2 F Action: Temperature is perfect
+2018-02-20 22:15:02 Max: 72 Min: 66  Probe: 66.2 F Ambient: 66.2 F Action: Temperature is perfect
+2018-02-20 22:20:02 Max: 72 Min: 66  Probe: 66.2 F Ambient: 66.2 F Action: Temperature is perfect
+2018-02-20 22:25:02 Max: 72 Min: 66  Probe: 66.09 F Ambient: 64.4 F Action: Temperature is perfect
+2018-02-20 22:30:02 Max: 72 Min: 66  Probe: 66.09 F Ambient: 64.4 F Action: Temperature is perfect
+2018-02-20 22:35:01 Max: 72 Min: 66  Probe: 66.09 F Ambient: 64.4 F Action: Temperature is perfect
+2018-02-20 22:40:02 Max: 72 Min: 66  Probe: 66.09 F Ambient: 64.4 F Action: Temperature is perfect
+2018-02-20 22:45:02 Max: 72 Min: 66  Probe: 66.09 F Ambient: 64.4 F Action: Temperature is perfect
+2018-02-20 22:50:02 Max: 72 Min: 66  Probe: 66.09 F Ambient: 64.4 F Action: Temperature is perfect
+2018-02-20 22:55:02 Max: 72 Min: 66  Probe: 65.98 F Ambient: 64.4 F Action: Temperature is perfect
+2018-02-20 23:00:09 Heater: on Sending Code: 5256451. PIN: 0. Pulse Length: 168
+ Sending Code: 5256451. PIN: 0. Pulse Length: 168
+ Sending Code: 5256451. PIN: 0. Pulse Length: 168
+2018-02-20 23:00:02 Max: 72 Min: 66  Probe: 65.98 F Ambient: 62.6 F Action: Turning Heater on
+2018-02-20 23:05:01 Max: 72 Min: 66  Probe: 65.98 F Ambient: 62.6 F Action: Heater already on
+2018-02-20 23:10:10 Heater: off Sending Code: 5256460. PIN: 0. Pulse Length: 168
+ Sending Code: 5256460. PIN: 0. Pulse Length: 168
+ Sending Code: 5256460. PIN: 0. Pulse Length: 168
+2018-02-20 23:10:02 Max: 72 Min: 66  Probe: 66.2 F Ambient: 66.2 F Action: Temperature is perfect
+2018-02-20 23:15:02 Max: 72 Min: 66  Probe: 66.43 F Ambient: 66.2 F Action: Temperature is perfect
+2018-02-20 23:20:02 Max: 72 Min: 66  Probe: 66.54 F Ambient: 64.4 F Action: Temperature is perfect
+2018-02-20 23:25:02 Max: 72 Min: 66  Probe: 66.54 F Ambient: 64.4 F Action: Temperature is perfect
+2018-02-20 23:30:02 Max: 72 Min: 66  Probe: 66.54 F Ambient: 64.4 F Action: Temperature is perfect
+2018-02-20 23:35:02 Max: 72 Min: 66  Probe: 66.54 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-20 23:40:02 Max: 72 Min: 66  Probe: 66.54 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-20 23:45:01 Max: 72 Min: 66  Probe: 66.54 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-20 23:50:02 Max: 72 Min: 66  Probe: 66.54 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-20 23:55:02 Max: 72 Min: 66  Probe: 66.43 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-21 00:00:02 Max: 72 Min: 66  Probe: 66.43 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-21 00:05:02 Max: 72 Min: 66  Probe: 66.43 F Ambient: 64.4 F Action: Temperature is perfect
+2018-02-21 00:10:02 Max: 72 Min: 66  Probe: 66.43 F Ambient: 64.4 F Action: Temperature is perfect
+2018-02-21 00:15:02 Max: 72 Min: 66  Probe: 66.43 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-21 00:20:02 Max: 72 Min: 66  Probe: 66.31 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-21 00:25:02 Max: 72 Min: 66  Probe: 66.31 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-21 00:30:02 Max: 72 Min: 66  Probe: 66.31 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-21 00:35:02 Max: 72 Min: 66  Probe: 66.31 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-21 00:40:01 Max: 72 Min: 66  Probe: 66.31 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-21 00:45:02 Max: 72 Min: 66  Probe: 66.2 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-21 00:50:01 Max: 72 Min: 66  Probe: 66.2 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-21 00:55:01 Max: 72 Min: 66  Probe: 66.2 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-21 01:00:02 Max: 72 Min: 66  Probe: 66.2 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-21 01:05:01 Max: 72 Min: 66  Probe: 66.09 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-21 01:10:02 Max: 72 Min: 66  Probe: 66.09 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-21 01:15:02 Max: 72 Min: 66  Probe: 66.09 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-21 01:20:02 Max: 72 Min: 66  Probe: 66.09 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-21 01:25:02 Max: 72 Min: 66  Probe: 65.98 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-21 01:30:08 Heater: on Sending Code: 5256451. PIN: 0. Pulse Length: 168
+ Sending Code: 5256451. PIN: 0. Pulse Length: 168
+ Sending Code: 5256451. PIN: 0. Pulse Length: 168
+2018-02-21 01:30:01 Max: 72 Min: 66  Probe: 65.98 F Ambient: 62.6 F Action: Turning Heater on
+2018-02-21 01:35:02 Max: 72 Min: 66  Probe: 65.98 F Ambient: 62.6 F Action: Heater already on
+2018-02-21 01:40:12 Heater: off Sending Code: 5256460. PIN: 0. Pulse Length: 168
+ Sending Code: 5256460. PIN: 0. Pulse Length: 168
+ Sending Code: 5256460. PIN: 0. Pulse Length: 168
+2018-02-21 01:40:01 Max: 72 Min: 66  Probe: 66.2 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-21 01:45:02 Max: 72 Min: 66  Probe: 66.54 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-21 01:50:02 Max: 72 Min: 66  Probe: 66.43 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-21 01:55:02 Max: 72 Min: 66  Probe: 66.54 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-21 02:00:01 Max: 72 Min: 66  Probe: 66.54 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-21 02:05:01 Max: 72 Min: 66  Probe: 66.54 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-21 02:10:01 Max: 72 Min: 66  Probe: 66.43 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-21 02:15:02 Max: 72 Min: 66  Probe: 66.43 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-21 02:20:02 Max: 72 Min: 66  Probe: 66.43 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-21 02:25:01 Max: 72 Min: 66  Probe: 66.43 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-21 02:30:01 Max: 72 Min: 66  Probe: 66.31 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-21 02:35:01 Max: 72 Min: 66  Probe: 66.31 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-21 02:40:02 Max: 72 Min: 66  Probe: 66.31 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-21 02:45:02 Max: 72 Min: 66  Probe: 66.31 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-21 02:50:02 Max: 72 Min: 66  Probe: 66.2 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-21 02:55:01 Max: 72 Min: 66  Probe: 66.2 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-21 03:00:02 Max: 72 Min: 66  Probe: 66.2 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-21 03:05:01 Max: 72 Min: 66  Probe: 66.2 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-21 03:10:02 Max: 72 Min: 66  Probe: 66.09 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-21 03:15:02 Max: 72 Min: 66  Probe: 66.2 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-21 03:20:02 Max: 72 Min: 66  Probe: 66.09 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-21 03:25:01 Max: 72 Min: 66  Probe: 66.09 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-21 03:30:06 Heater: on Sending Code: 5256451. PIN: 0. Pulse Length: 168
+ Sending Code: 5256451. PIN: 0. Pulse Length: 168
+ Sending Code: 5256451. PIN: 0. Pulse Length: 168
+2018-02-21 03:30:01 Max: 72 Min: 66  Probe: 65.98 F Ambient: 62.6 F Action: Turning Heater on
+2018-02-21 03:35:02 Max: 72 Min: 66  Probe: 65.98 F Ambient: 60.8 F Action: Heater already on
+2018-02-21 03:40:09 Heater: off Sending Code: 5256460. PIN: 0. Pulse Length: 168
+ Sending Code: 5256460. PIN: 0. Pulse Length: 168
+ Sending Code: 5256460. PIN: 0. Pulse Length: 168
+2018-02-21 03:40:01 Max: 72 Min: 66  Probe: 66.31 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-21 03:45:02 Max: 72 Min: 66  Probe: 66.54 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-21 03:50:02 Max: 72 Min: 66  Probe: 66.54 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-21 03:55:02 Max: 72 Min: 66  Probe: 66.54 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-21 04:00:02 Max: 72 Min: 66  Probe: 66.54 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-21 04:05:02 Max: 72 Min: 66  Probe: 66.43 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-21 04:10:02 Max: 72 Min: 66  Probe: 66.43 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-21 04:15:02 Max: 72 Min: 66  Probe: 66.43 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-21 04:20:01 Max: 72 Min: 66  Probe: 66.43 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-21 04:25:02 Max: 72 Min: 66  Probe: 66.43 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-21 04:30:01 Max: 72 Min: 66  Probe: 66.31 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-21 04:35:02 Max: 72 Min: 66  Probe: 66.31 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-21 04:40:01 Max: 72 Min: 66  Probe: 66.31 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-21 04:45:02 Max: 72 Min: 66  Probe: 66.31 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-21 04:50:02 Max: 72 Min: 66  Probe: 66.2 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-21 04:55:02 Max: 72 Min: 66  Probe: 66.2 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-21 05:00:01 Max: 72 Min: 66  Probe: 66.2 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-21 05:05:02 Max: 72 Min: 66  Probe: 66.09 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-21 05:10:01 Max: 72 Min: 66  Probe: 66.09 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-21 05:15:02 Max: 72 Min: 66  Probe: 66.09 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-21 05:20:02 Max: 72 Min: 66  Probe: 66.09 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-21 05:25:10 Heater: on Sending Code: 5256451. PIN: 0. Pulse Length: 168
+ Sending Code: 5256451. PIN: 0. Pulse Length: 168
+ Sending Code: 5256451. PIN: 0. Pulse Length: 168
+2018-02-21 05:25:01 Max: 72 Min: 66  Probe: 65.98 F Ambient: 60.8 F Action: Turning Heater on
+2018-02-21 05:30:02 Max: 72 Min: 66  Probe: 65.98 F Ambient: 60.8 F Action: Heater already on
+2018-02-21 05:35:09 Heater: off Sending Code: 5256460. PIN: 0. Pulse Length: 168
+ Sending Code: 5256460. PIN: 0. Pulse Length: 168
+ Sending Code: 5256460. PIN: 0. Pulse Length: 168
+2018-02-21 05:35:01 Max: 72 Min: 66  Probe: 66.2 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-21 05:40:01 Max: 72 Min: 66  Probe: 66.54 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-21 05:45:01 Max: 72 Min: 66  Probe: 66.54 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-21 05:50:02 Max: 72 Min: 66  Probe: 66.43 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-21 05:55:01 Max: 72 Min: 66  Probe: 66.43 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-21 06:00:02 Max: 72 Min: 66  Probe: 66.43 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-21 06:05:01 Max: 72 Min: 66  Probe: 66.43 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-21 06:10:02 Max: 72 Min: 66  Probe: 66.43 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-21 06:15:02 Max: 72 Min: 66  Probe: 66.31 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-21 06:20:02 Max: 72 Min: 66  Probe: 66.31 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-21 06:25:03 Max: 72 Min: 66  Probe: 66.31 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-21 06:30:02 Max: 72 Min: 66  Probe: 66.2 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-21 06:35:02 Max: 72 Min: 66  Probe: 66.2 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-21 06:40:02 Max: 72 Min: 66  Probe: 66.09 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-21 06:45:01 Max: 72 Min: 66  Probe: 66.2 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-21 06:50:02 Max: 72 Min: 66  Probe: 66.09 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-21 06:55:02 Max: 72 Min: 66  Probe: 66.09 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-21 07:00:02 Max: 72 Min: 66  Probe: 65.98 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-21 07:05:09 Heater: on Sending Code: 5256451. PIN: 0. Pulse Length: 168
+ Sending Code: 5256451. PIN: 0. Pulse Length: 168
+ Sending Code: 5256451. PIN: 0. Pulse Length: 168
+2018-02-21 07:05:02 Max: 72 Min: 66  Probe: 65.98 F Ambient: 60.8 F Action: Turning Heater on
+2018-02-21 07:10:02 Max: 72 Min: 66  Probe: 65.98 F Ambient: 60.8 F Action: Heater already on
+2018-02-21 07:15:10 Heater: off Sending Code: 5256460. PIN: 0. Pulse Length: 168
+ Sending Code: 5256460. PIN: 0. Pulse Length: 168
+ Sending Code: 5256460. PIN: 0. Pulse Length: 168
+2018-02-21 07:15:02 Max: 72 Min: 66  Probe: 66.2 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-21 07:20:02 Max: 72 Min: 66  Probe: 66.54 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-21 07:25:01 Max: 72 Min: 66  Probe: 66.54 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-21 07:30:02 Max: 72 Min: 66  Probe: 66.54 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-21 07:35:01 Max: 72 Min: 66  Probe: 66.43 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-21 07:40:02 Max: 72 Min: 66  Probe: 66.43 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-21 07:45:01 Max: 72 Min: 66  Probe: 66.43 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-21 07:50:01 Max: 72 Min: 66  Probe: 66.31 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-21 07:55:01 Max: 72 Min: 66  Probe: 66.31 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-21 08:00:02 Max: 72 Min: 66  Probe: 66.31 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-21 08:05:02 Max: 72 Min: 66  Probe: 66.31 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-21 08:10:02 Max: 72 Min: 66  Probe: 66.2 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-21 08:15:02 Max: 72 Min: 66  Probe: 66.2 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-21 08:20:02 Max: 72 Min: 66  Probe: 66.09 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-21 08:25:01 Max: 72 Min: 66  Probe: 66.09 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-21 08:30:02 Max: 72 Min: 66  Probe: 66.09 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-21 08:35:14 Heater: on Sending Code: 5256451. PIN: 0. Pulse Length: 168
+ Sending Code: 5256451. PIN: 0. Pulse Length: 168
+ Sending Code: 5256451. PIN: 0. Pulse Length: 168
+2018-02-21 08:35:02 Max: 72 Min: 66  Probe: 66.09 F Ambient: 60.8 F Action: Turning Heater on
+2018-02-21 08:40:01 Max: 72 Min: 66  Probe: 65.98 F Ambient: 60.8 F Action: Heater already on
+2018-02-21 08:45:07 Heater: off Sending Code: 5256460. PIN: 0. Pulse Length: 168
+ Sending Code: 5256460. PIN: 0. Pulse Length: 168
+ Sending Code: 5256460. PIN: 0. Pulse Length: 168
+2018-02-21 08:45:01 Max: 72 Min: 66  Probe: 66.2 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-21 08:50:02 Max: 72 Min: 66  Probe: 66.54 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-21 08:55:01 Max: 72 Min: 66  Probe: 66.54 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-21 09:00:02 Max: 72 Min: 66  Probe: 66.54 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-21 09:05:01 Max: 72 Min: 66  Probe: 66.54 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-21 09:10:02 Max: 72 Min: 66  Probe: 66.43 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-21 09:15:02 Max: 72 Min: 66  Probe: 66.43 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-21 09:20:01 Max: 72 Min: 66  Probe: 66.31 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-21 09:25:01 Max: 72 Min: 66  Probe: 66.31 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-21 09:30:01 Max: 72 Min: 66  Probe: 66.31 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-21 09:35:02 Max: 72 Min: 66  Probe: 66.2 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-21 09:40:02 Max: 72 Min: 66  Probe: 66.2 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-21 09:45:01 Max: 72 Min: 66  Probe: 66.2 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-21 09:50:02 Max: 72 Min: 66  Probe: 66.09 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-21 09:55:02 Max: 72 Min: 66  Probe: 66.09 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-21 10:00:01 Max: 72 Min: 66  Probe: 66.09 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-21 10:05:02 Max: 72 Min: 66  Probe: 65.98 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-21 10:10:09 Heater: on Sending Code: 5256451. PIN: 0. Pulse Length: 168
+ Sending Code: 5256451. PIN: 0. Pulse Length: 168
+ Sending Code: 5256451. PIN: 0. Pulse Length: 168
+2018-02-21 10:10:02 Max: 72 Min: 66  Probe: 65.98 F Ambient: 60.8 F Action: Turning Heater on
+2018-02-21 10:15:02 Max: 72 Min: 66  Probe: 65.98 F Ambient: 60.8 F Action: Heater already on
+2018-02-21 10:20:17 Heater: off Sending Code: 5256460. PIN: 0. Pulse Length: 168
+ Sending Code: 5256460. PIN: 0. Pulse Length: 168
+ Sending Code: 5256460. PIN: 0. Pulse Length: 168
+2018-02-21 10:20:02 Max: 72 Min: 66  Probe: 66.2 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-21 10:25:01 Max: 72 Min: 66  Probe: 66.31 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-21 10:30:01 Max: 72 Min: 66  Probe: 66.54 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-21 10:35:02 Max: 72 Min: 66  Probe: 66.54 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-21 10:40:02 Max: 72 Min: 66  Probe: 66.43 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-21 10:45:01 Max: 72 Min: 66  Probe: 66.43 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-21 10:50:02 Max: 72 Min: 66  Probe: 66.31 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-21 10:55:02 Max: 72 Min: 66  Probe: 66.31 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-21 11:00:02 Max: 72 Min: 66  Probe: 66.31 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-21 11:05:02 Max: 72 Min: 66  Probe: 66.2 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-21 11:10:01 Max: 72 Min: 66  Probe: 66.2 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-21 11:15:01 Max: 72 Min: 66  Probe: 66.2 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-21 11:20:02 Max: 72 Min: 66  Probe: 66.2 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-21 11:25:02 Max: 72 Min: 66  Probe: 66.09 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-21 11:30:02 Max: 72 Min: 66  Probe: 66.09 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-21 11:35:09 Heater: on Sending Code: 5256451. PIN: 0. Pulse Length: 168
+ Sending Code: 5256451. PIN: 0. Pulse Length: 168
+ Sending Code: 5256451. PIN: 0. Pulse Length: 168
+2018-02-21 11:35:02 Max: 72 Min: 66  Probe: 65.98 F Ambient: 60.8 F Action: Turning Heater on
+2018-02-21 11:40:02 Max: 72 Min: 66  Probe: 65.98 F Ambient: 60.8 F Action: Heater already on
+2018-02-21 11:45:07 Heater: off Sending Code: 5256460. PIN: 0. Pulse Length: 168
+ Sending Code: 5256460. PIN: 0. Pulse Length: 168
+ Sending Code: 5256460. PIN: 0. Pulse Length: 168
+2018-02-21 11:45:01 Max: 72 Min: 66  Probe: 66.31 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-21 11:50:02 Max: 72 Min: 66  Probe: 66.54 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-21 11:55:02 Max: 72 Min: 66  Probe: 66.54 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-21 12:00:01 Max: 72 Min: 66  Probe: 66.54 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-21 12:05:02 Max: 72 Min: 66  Probe: 66.43 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-21 12:10:02 Max: 72 Min: 66  Probe: 66.43 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-21 12:15:02 Max: 72 Min: 66  Probe: 66.43 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-21 12:20:02 Max: 72 Min: 66  Probe: 66.31 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-21 12:25:02 Max: 72 Min: 66  Probe: 66.31 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-21 12:30:01 Max: 72 Min: 66  Probe: 66.31 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-21 12:35:02 Max: 72 Min: 66  Probe: 66.2 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-21 12:40:01 Max: 72 Min: 66  Probe: 66.2 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-21 12:45:02 Max: 72 Min: 66  Probe: 66.2 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-21 12:50:02 Max: 72 Min: 66  Probe: 66.09 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-21 12:55:02 Max: 72 Min: 66  Probe: 66.09 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-21 13:00:06 Heater: on Sending Code: 5256451. PIN: 0. Pulse Length: 168
+ Sending Code: 5256451. PIN: 0. Pulse Length: 168
+ Sending Code: 5256451. PIN: 0. Pulse Length: 168
+2018-02-21 13:00:01 Max: 72 Min: 66  Probe: 66.09 F Ambient: 59.0 F Action: Turning Heater on
+2018-02-21 13:05:18 Heater: off Sending Code: 5256460. PIN: 0. Pulse Length: 168
+ Sending Code: 5256460. PIN: 0. Pulse Length: 168
+ Sending Code: 5256460. PIN: 0. Pulse Length: 168
+2018-02-21 13:05:01 Max: 72 Min: 66  Probe: 65.98 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-21 13:10:02 Max: 72 Min: 66  Probe: 66.2 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-21 13:15:02 Max: 72 Min: 66  Probe: 66.2 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-21 13:20:02 Max: 72 Min: 66  Probe: 66.2 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-21 13:25:02 Max: 72 Min: 66  Probe: 66.2 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-21 13:30:01 Max: 72 Min: 66  Probe: 66.09 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-21 13:35:01 Max: 72 Min: 66  Probe: 66.09 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-21 13:40:02 Max: 72 Min: 66  Probe: 66.09 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-21 13:45:02 Max: 72 Min: 66  Probe: 65.98 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-21 13:50:11 Heater: on Sending Code: 5256451. PIN: 0. Pulse Length: 168
+ Sending Code: 5256451. PIN: 0. Pulse Length: 168
+ Sending Code: 5256451. PIN: 0. Pulse Length: 168
+2018-02-21 13:50:02 Max: 72 Min: 66  Probe: 65.98 F Ambient: 60.8 F Action: Turning Heater on
+2018-02-21 13:55:01 Max: 72 Min: 66  Probe: 65.98 F Ambient: 59.0 F Action: Heater already on
+2018-02-21 14:00:14 Heater: off Sending Code: 5256460. PIN: 0. Pulse Length: 168
+ Sending Code: 5256460. PIN: 0. Pulse Length: 168
+ Sending Code: 5256460. PIN: 0. Pulse Length: 168
+2018-02-21 14:00:02 Max: 72 Min: 66  Probe: 66.2 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-21 14:05:01 Max: 72 Min: 66  Probe: 66.54 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-21 14:10:01 Max: 72 Min: 66  Probe: 66.54 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-21 14:15:02 Max: 72 Min: 66  Probe: 66.54 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-21 14:20:02 Max: 72 Min: 66  Probe: 66.43 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-21 14:25:02 Max: 72 Min: 66  Probe: 66.43 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-21 14:30:01 Max: 72 Min: 66  Probe: 66.31 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-21 14:35:01 Max: 72 Min: 66  Probe: 66.31 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-21 14:40:02 Max: 72 Min: 66  Probe: 66.31 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-21 14:45:02 Max: 72 Min: 66  Probe: 66.2 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-21 14:50:02 Max: 72 Min: 66  Probe: 66.2 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-21 14:55:02 Max: 72 Min: 66  Probe: 66.2 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-21 15:00:02 Max: 72 Min: 66  Probe: 66.09 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-21 15:05:02 Max: 72 Min: 66  Probe: 66.09 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-21 15:10:02 Max: 72 Min: 66  Probe: 66.09 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-21 15:15:07 Heater: on Sending Code: 5256451. PIN: 0. Pulse Length: 168
+ Sending Code: 5256451. PIN: 0. Pulse Length: 168
+ Sending Code: 5256451. PIN: 0. Pulse Length: 168
+2018-02-21 15:15:02 Max: 72 Min: 66  Probe: 66.09 F Ambient: 59.0 F Action: Turning Heater on
+2018-02-21 15:20:02 Max: 72 Min: 66  Probe: 65.98 F Ambient: 60.8 F Action: Heater already on
+2018-02-21 15:25:08 Heater: off Sending Code: 5256460. PIN: 0. Pulse Length: 168
+ Sending Code: 5256460. PIN: 0. Pulse Length: 168
+ Sending Code: 5256460. PIN: 0. Pulse Length: 168
+2018-02-21 15:25:02 Max: 72 Min: 66  Probe: 66.2 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-21 15:30:02 Max: 72 Min: 66  Probe: 66.65 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-21 15:35:01 Max: 72 Min: 66  Probe: 66.65 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-21 15:40:02 Max: 72 Min: 66  Probe: 66.54 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-21 15:45:02 Max: 72 Min: 66  Probe: 66.54 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-21 15:50:02 Max: 72 Min: 66  Probe: 66.43 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-21 15:55:02 Max: 72 Min: 66  Probe: 66.43 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-21 16:00:02 Max: 72 Min: 66  Probe: 66.31 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-21 16:05:02 Max: 72 Min: 66  Probe: 66.31 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-21 16:10:02 Max: 72 Min: 66  Probe: 66.31 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-21 16:15:02 Max: 72 Min: 66  Probe: 66.2 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-21 16:20:01 Max: 72 Min: 66  Probe: 66.2 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-21 16:25:02 Max: 72 Min: 66  Probe: 66.09 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-21 16:30:02 Max: 72 Min: 66  Probe: 66.09 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-21 16:35:02 Max: 72 Min: 66  Probe: 66.09 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-21 16:40:06 Heater: on Sending Code: 5256451. PIN: 0. Pulse Length: 168
+ Sending Code: 5256451. PIN: 0. Pulse Length: 168
+ Sending Code: 5256451. PIN: 0. Pulse Length: 168
+2018-02-21 16:40:02 Max: 72 Min: 66  Probe: 65.98 F Ambient: 60.8 F Action: Turning Heater on
+2018-02-21 16:45:02 Max: 72 Min: 66  Probe: 65.98 F Ambient: 60.8 F Action: Heater already on
+2018-02-21 16:50:07 Heater: off Sending Code: 5256460. PIN: 0. Pulse Length: 168
+ Sending Code: 5256460. PIN: 0. Pulse Length: 168
+ Sending Code: 5256460. PIN: 0. Pulse Length: 168
+2018-02-21 16:50:01 Max: 72 Min: 66  Probe: 66.31 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-21 16:55:02 Max: 72 Min: 66  Probe: 66.65 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-21 17:00:01 Max: 72 Min: 66  Probe: 66.65 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-21 17:05:02 Max: 72 Min: 66  Probe: 66.65 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-21 17:10:02 Max: 72 Min: 66  Probe: 66.54 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-21 17:15:01 Max: 72 Min: 66  Probe: 66.43 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-21 17:20:02 Max: 72 Min: 66  Probe: 66.43 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-21 17:25:02 Max: 72 Min: 66  Probe: 66.43 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-21 17:30:02 Max: 72 Min: 66  Probe: 66.31 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-21 17:35:02 Max: 72 Min: 66  Probe: 66.31 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-21 17:40:01 Max: 72 Min: 66  Probe: 66.2 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-21 17:45:02 Max: 72 Min: 66  Probe: 66.2 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-21 17:50:01 Max: 72 Min: 66  Probe: 66.2 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-21 17:55:02 Max: 72 Min: 66  Probe: 66.09 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-21 18:00:02 Max: 72 Min: 66  Probe: 66.09 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-21 18:05:01 Max: 72 Min: 66  Probe: 65.98 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-21 18:10:09 Heater: on Sending Code: 5256451. PIN: 0. Pulse Length: 168
+ Sending Code: 5256451. PIN: 0. Pulse Length: 168
+ Sending Code: 5256451. PIN: 0. Pulse Length: 168
+2018-02-21 18:10:02 Max: 72 Min: 66  Probe: 66.09 F Ambient: 60.8 F Action: Turning Heater on
+2018-02-21 18:15:02 Max: 72 Min: 66  Probe: 65.98 F Ambient: 60.8 F Action: Heater already on
+2018-02-21 18:20:08 Heater: off Sending Code: 5256460. PIN: 0. Pulse Length: 168
+ Sending Code: 5256460. PIN: 0. Pulse Length: 168
+ Sending Code: 5256460. PIN: 0. Pulse Length: 168
+2018-02-21 18:20:02 Max: 72 Min: 66  Probe: 66.31 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-21 18:25:02 Max: 72 Min: 66  Probe: 66.65 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-21 18:30:01 Max: 72 Min: 66  Probe: 66.76 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-21 18:35:02 Max: 72 Min: 66  Probe: 66.65 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-21 18:40:01 Max: 72 Min: 66  Probe: 66.54 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-21 18:45:02 Max: 72 Min: 66  Probe: 66.43 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-21 18:50:02 Max: 72 Min: 66  Probe: 66.43 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-21 18:55:01 Max: 72 Min: 66  Probe: 66.31 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-21 19:00:02 Max: 72 Min: 66  Probe: 66.31 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-21 19:05:01 Max: 72 Min: 66  Probe: 66.31 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-21 19:10:02 Max: 72 Min: 66  Probe: 66.2 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-21 19:15:01 Max: 72 Min: 66  Probe: 66.2 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-21 19:20:01 Max: 72 Min: 66  Probe: 66.09 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-21 19:25:02 Max: 72 Min: 66  Probe: 66.09 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-21 19:30:01 Max: 72 Min: 66  Probe: 66.09 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-21 19:35:02 Max: 72 Min: 66  Probe: 66.09 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-21 19:40:08 Heater: on Sending Code: 5256451. PIN: 0. Pulse Length: 168
+ Sending Code: 5256451. PIN: 0. Pulse Length: 168
+ Sending Code: 5256451. PIN: 0. Pulse Length: 168
+2018-02-21 19:40:01 Max: 72 Min: 66  Probe: 65.98 F Ambient: 60.8 F Action: Turning Heater on
+2018-02-21 19:45:02 Max: 72 Min: 66  Probe: 65.98 F Ambient: 60.8 F Action: Heater already on
+2018-02-21 19:50:10 Heater: off Sending Code: 5256460. PIN: 0. Pulse Length: 168
+ Sending Code: 5256460. PIN: 0. Pulse Length: 168
+ Sending Code: 5256460. PIN: 0. Pulse Length: 168
+2018-02-21 19:50:01 Max: 72 Min: 66  Probe: 66.31 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-21 19:55:01 Max: 72 Min: 66  Probe: 66.65 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-21 20:00:02 Max: 72 Min: 66  Probe: 66.65 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-21 20:05:01 Max: 72 Min: 66  Probe: 66.54 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-21 20:10:02 Max: 72 Min: 66  Probe: 66.54 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-21 20:15:02 Max: 72 Min: 66  Probe: 66.43 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-21 20:20:02 Max: 72 Min: 66  Probe: 66.43 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-21 20:25:02 Max: 72 Min: 66  Probe: 66.31 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-21 20:30:01 Max: 72 Min: 66  Probe: 66.31 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-21 20:35:02 Max: 72 Min: 66  Probe: 66.2 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-21 20:40:01 Max: 72 Min: 66  Probe: 66.2 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-21 20:45:02 Max: 72 Min: 66  Probe: 66.2 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-21 20:50:02 Max: 72 Min: 66  Probe: 66.09 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-21 20:55:02 Max: 72 Min: 66  Probe: 66.09 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-21 21:00:02 Max: 72 Min: 66  Probe: 65.98 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-21 21:05:12 Heater: on Sending Code: 5256451. PIN: 0. Pulse Length: 168
+ Sending Code: 5256451. PIN: 0. Pulse Length: 168
+ Sending Code: 5256451. PIN: 0. Pulse Length: 168
+2018-02-21 21:05:02 Max: 72 Min: 66  Probe: 65.98 F Ambient: 59.0 F Action: Turning Heater on
+2018-02-21 21:10:02 Max: 72 Min: 66  Probe: 65.98 F Ambient: 59.0 F Action: Heater already on
+2018-02-21 21:15:08 Heater: off Sending Code: 5256460. PIN: 0. Pulse Length: 168
+ Sending Code: 5256460. PIN: 0. Pulse Length: 168
+ Sending Code: 5256460. PIN: 0. Pulse Length: 168
+2018-02-21 21:15:02 Max: 72 Min: 66  Probe: 66.31 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-21 21:20:02 Max: 72 Min: 66  Probe: 66.65 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-21 21:25:02 Max: 72 Min: 66  Probe: 66.65 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-21 21:30:01 Max: 72 Min: 66  Probe: 66.54 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-21 21:35:01 Max: 72 Min: 66  Probe: 66.54 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-21 21:40:01 Max: 72 Min: 66  Probe: 66.43 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-21 21:45:02 Max: 72 Min: 66  Probe: 66.43 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-21 21:50:01 Max: 72 Min: 66  Probe: 66.31 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-21 21:55:02 Max: 72 Min: 66  Probe: 66.31 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-21 22:00:01 Max: 72 Min: 66  Probe: 66.2 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-21 22:05:02 Max: 72 Min: 66  Probe: 66.2 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-21 22:10:01 Max: 72 Min: 66  Probe: 66.09 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-21 22:15:01 Max: 72 Min: 66  Probe: 66.09 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-21 22:20:02 Max: 72 Min: 66  Probe: 66.09 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-21 22:25:02 Max: 72 Min: 66  Probe: 65.98 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-21 22:30:09 Heater: on Sending Code: 5256451. PIN: 0. Pulse Length: 168
+ Sending Code: 5256451. PIN: 0. Pulse Length: 168
+ Sending Code: 5256451. PIN: 0. Pulse Length: 168
+2018-02-21 22:30:02 Max: 72 Min: 66  Probe: 65.98 F Ambient: 59.0 F Action: Turning Heater on
+2018-02-21 22:35:02 Max: 72 Min: 66  Probe: 65.98 F Ambient: 60.8 F Action: Heater already on
+2018-02-21 22:40:10 Heater: off Sending Code: 5256460. PIN: 0. Pulse Length: 168
+ Sending Code: 5256460. PIN: 0. Pulse Length: 168
+ Sending Code: 5256460. PIN: 0. Pulse Length: 168
+2018-02-21 22:40:02 Max: 72 Min: 66  Probe: 66.31 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-21 22:45:01 Max: 72 Min: 66  Probe: 66.65 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-21 22:50:02 Max: 72 Min: 66  Probe: 66.76 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-21 22:55:01 Max: 72 Min: 66  Probe: 66.65 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-21 23:00:02 Max: 72 Min: 66  Probe: 66.54 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-21 23:05:02 Max: 72 Min: 66  Probe: 66.54 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-21 23:10:02 Max: 72 Min: 66  Probe: 66.43 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-21 23:15:02 Max: 72 Min: 66  Probe: 66.31 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-21 23:20:01 Max: 72 Min: 66  Probe: 66.31 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-21 23:25:02 Max: 72 Min: 66  Probe: 66.2 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-21 23:30:01 Max: 72 Min: 66  Probe: 66.2 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-21 23:35:02 Max: 72 Min: 66  Probe: 66.09 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-21 23:40:01 Max: 72 Min: 66  Probe: 66.09 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-21 23:45:01 Max: 72 Min: 66  Probe: 66.09 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-21 23:50:09 Heater: on Sending Code: 5256451. PIN: 0. Pulse Length: 168
+ Sending Code: 5256451. PIN: 0. Pulse Length: 168
+ Sending Code: 5256451. PIN: 0. Pulse Length: 168
+2018-02-21 23:50:01 Max: 72 Min: 66  Probe: 65.98 F Ambient: 59.0 F Action: Turning Heater on
+2018-02-21 23:55:02 Max: 72 Min: 66  Probe: 65.98 F Ambient: 59.0 F Action: Heater already on
+2018-02-22 00:00:13 Heater: off Sending Code: 5256460. PIN: 0. Pulse Length: 168
+ Sending Code: 5256460. PIN: 0. Pulse Length: 168
+ Sending Code: 5256460. PIN: 0. Pulse Length: 168
+2018-02-22 00:00:02 Max: 72 Min: 66  Probe: 66.31 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-22 00:05:01 Max: 72 Min: 66  Probe: 66.54 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-22 00:10:02 Max: 72 Min: 66  Probe: 66.54 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-22 00:15:02 Max: 72 Min: 66  Probe: 66.65 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-22 00:20:02 Max: 72 Min: 66  Probe: 66.54 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-22 00:25:01 Max: 72 Min: 66  Probe: 66.43 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-22 00:30:02 Max: 72 Min: 66  Probe: 66.31 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-22 00:35:02 Max: 72 Min: 66  Probe: 66.31 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-22 00:40:02 Max: 72 Min: 66  Probe: 66.31 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-22 00:45:02 Max: 72 Min: 66  Probe: 66.31 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-22 00:50:02 Max: 72 Min: 66  Probe: 66.2 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-22 00:55:02 Max: 72 Min: 66  Probe: 66.09 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-22 01:00:02 Max: 72 Min: 66  Probe: 66.2 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-22 01:05:11 Heater: on Sending Code: 5256451. PIN: 0. Pulse Length: 168
+ Sending Code: 5256451. PIN: 0. Pulse Length: 168
+ Sending Code: 5256451. PIN: 0. Pulse Length: 168
+2018-02-22 01:05:02 Max: 72 Min: 66  Probe: 65.98 F Ambient: 59.0 F Action: Turning Heater on
+2018-02-22 01:10:01 Max: 72 Min: 66  Probe: 65.98 F Ambient: 59.0 F Action: Heater already on
+2018-02-22 01:15:07 Heater: off Sending Code: 5256460. PIN: 0. Pulse Length: 168
+ Sending Code: 5256460. PIN: 0. Pulse Length: 168
+ Sending Code: 5256460. PIN: 0. Pulse Length: 168
+2018-02-22 01:15:02 Max: 72 Min: 66  Probe: 66.31 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-22 01:20:02 Max: 72 Min: 66  Probe: 66.54 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-22 01:25:01 Max: 72 Min: 66  Probe: 66.76 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-22 01:30:02 Max: 72 Min: 66  Probe: 66.65 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-22 01:35:02 Max: 72 Min: 66  Probe: 66.54 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-22 01:40:02 Max: 72 Min: 66  Probe: 66.43 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-22 01:45:02 Max: 72 Min: 66  Probe: 66.43 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-22 01:50:01 Max: 72 Min: 66  Probe: 66.31 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-22 01:55:02 Max: 72 Min: 66  Probe: 66.31 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-22 02:00:02 Max: 72 Min: 66  Probe: 66.2 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-22 02:05:01 Max: 72 Min: 66  Probe: 66.2 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-22 02:10:01 Max: 72 Min: 66  Probe: 66.09 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-22 02:15:02 Max: 72 Min: 66  Probe: 66.09 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-22 02:20:02 Max: 72 Min: 66  Probe: 66.09 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-22 02:25:01 Max: 72 Min: 66  Probe: 65.98 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-22 02:30:12 Heater: on Sending Code: 5256451. PIN: 0. Pulse Length: 168
+ Sending Code: 5256451. PIN: 0. Pulse Length: 168
+ Sending Code: 5256451. PIN: 0. Pulse Length: 168
+2018-02-22 02:30:02 Max: 72 Min: 66  Probe: 65.98 F Ambient: 59.0 F Action: Turning Heater on
+2018-02-22 02:35:02 Max: 72 Min: 66  Probe: 65.98 F Ambient: 59.0 F Action: Heater already on
+2018-02-22 02:40:07 Heater: off Sending Code: 5256460. PIN: 0. Pulse Length: 168
+ Sending Code: 5256460. PIN: 0. Pulse Length: 168
+ Sending Code: 5256460. PIN: 0. Pulse Length: 168
+2018-02-22 02:40:02 Max: 72 Min: 66  Probe: 66.31 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-22 02:45:02 Max: 72 Min: 66  Probe: 66.31 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-22 02:50:01 Max: 72 Min: 66  Probe: 66.65 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-22 02:55:02 Max: 72 Min: 66  Probe: 66.65 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-22 03:00:01 Max: 72 Min: 66  Probe: 66.54 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-22 03:05:02 Max: 72 Min: 66  Probe: 66.54 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-22 03:10:02 Max: 72 Min: 66  Probe: 66.43 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-22 03:15:02 Max: 72 Min: 66  Probe: 66.31 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-22 03:20:02 Max: 72 Min: 66  Probe: 66.2 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-22 03:25:02 Max: 72 Min: 66  Probe: 66.2 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-22 03:30:02 Max: 72 Min: 66  Probe: 66.2 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-22 03:35:01 Max: 72 Min: 66  Probe: 66.09 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-22 03:40:01 Max: 72 Min: 66  Probe: 66.09 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-22 03:45:06 Heater: on Sending Code: 5256451. PIN: 0. Pulse Length: 168
+ Sending Code: 5256451. PIN: 0. Pulse Length: 168
+ Sending Code: 5256451. PIN: 0. Pulse Length: 168
+2018-02-22 03:45:01 Max: 72 Min: 66  Probe: 65.98 F Ambient: 60.8 F Action: Turning Heater on
+2018-02-22 03:50:02 Max: 72 Min: 66  Probe: 65.98 F Ambient: 60.8 F Action: Heater already on
+2018-02-22 03:55:07 Heater: off Sending Code: 5256460. PIN: 0. Pulse Length: 168
+ Sending Code: 5256460. PIN: 0. Pulse Length: 168
+ Sending Code: 5256460. PIN: 0. Pulse Length: 168
+2018-02-22 03:55:01 Max: 72 Min: 66  Probe: 66.43 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-22 04:00:02 Max: 72 Min: 66  Probe: 66.76 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-22 04:05:02 Max: 72 Min: 66  Probe: 66.76 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-22 04:10:01 Max: 72 Min: 66  Probe: 66.76 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-22 04:15:01 Max: 72 Min: 66  Probe: 66.76 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-22 04:20:02 Max: 72 Min: 66  Probe: 66.54 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-22 04:25:01 Max: 72 Min: 66  Probe: 66.43 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-22 04:30:01 Max: 72 Min: 66  Probe: 66.43 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-22 04:35:02 Max: 72 Min: 66  Probe: 66.31 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-22 04:40:01 Max: 72 Min: 66  Probe: 66.31 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-22 04:45:02 Max: 72 Min: 66  Probe: 66.2 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-22 04:50:01 Max: 72 Min: 66  Probe: 66.2 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-22 04:55:01 Max: 72 Min: 66  Probe: 66.09 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-22 05:00:01 Max: 72 Min: 66  Probe: 66.09 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-22 05:05:02 Max: 72 Min: 66  Probe: 66.09 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-22 05:10:06 Heater: on Sending Code: 5256451. PIN: 0. Pulse Length: 168
+ Sending Code: 5256451. PIN: 0. Pulse Length: 168
+ Sending Code: 5256451. PIN: 0. Pulse Length: 168
+2018-02-22 05:10:01 Max: 72 Min: 66  Probe: 65.98 F Ambient: 59.0 F Action: Turning Heater on
+2018-02-22 05:15:02 Max: 72 Min: 66  Probe: 65.98 F Ambient: 59.0 F Action: Heater already on
+2018-02-22 05:20:07 Heater: off Sending Code: 5256460. PIN: 0. Pulse Length: 168
+ Sending Code: 5256460. PIN: 0. Pulse Length: 168
+ Sending Code: 5256460. PIN: 0. Pulse Length: 168
+2018-02-22 05:20:02 Max: 72 Min: 66  Probe: 66.31 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-22 05:25:02 Max: 72 Min: 66  Probe: 66.65 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-22 05:30:02 Max: 72 Min: 66  Probe: 66.65 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-22 05:35:02 Max: 72 Min: 66  Probe: 66.54 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-22 05:40:02 Max: 72 Min: 66  Probe: 66.54 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-22 05:45:02 Max: 72 Min: 66  Probe: 66.43 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-22 05:50:02 Max: 72 Min: 66  Probe: 66.43 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-22 05:55:01 Max: 72 Min: 66  Probe: 66.31 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-22 06:00:01 Max: 72 Min: 66  Probe: 66.31 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-22 06:05:02 Max: 72 Min: 66  Probe: 66.2 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-22 06:10:02 Max: 72 Min: 66  Probe: 66.2 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-22 06:15:02 Max: 72 Min: 66  Probe: 66.09 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-22 06:20:02 Max: 72 Min: 66  Probe: 66.09 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-22 06:25:03 Max: 72 Min: 66  Probe: 66.09 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-22 06:30:14 Heater: on Sending Code: 5256451. PIN: 0. Pulse Length: 168
+ Sending Code: 5256451. PIN: 0. Pulse Length: 168
+ Sending Code: 5256451. PIN: 0. Pulse Length: 168
+2018-02-22 06:30:02 Max: 72 Min: 66  Probe: 65.98 F Ambient: 60.8 F Action: Turning Heater on
+2018-02-22 06:35:01 Max: 72 Min: 66  Probe: 65.98 F Ambient: 60.8 F Action: Heater already on
+2018-02-22 06:40:10 Heater: off Sending Code: 5256460. PIN: 0. Pulse Length: 168
+ Sending Code: 5256460. PIN: 0. Pulse Length: 168
+ Sending Code: 5256460. PIN: 0. Pulse Length: 168
+2018-02-22 06:40:02 Max: 72 Min: 66  Probe: 66.31 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-22 06:45:02 Max: 72 Min: 66  Probe: 66.65 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-22 06:50:02 Max: 72 Min: 66  Probe: 66.65 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-22 06:55:02 Max: 72 Min: 66  Probe: 66.65 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-22 07:00:02 Max: 72 Min: 66  Probe: 66.54 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-22 07:05:01 Max: 72 Min: 66  Probe: 66.54 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-22 07:10:02 Max: 72 Min: 66  Probe: 66.43 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-22 07:15:02 Max: 72 Min: 66  Probe: 66.43 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-22 07:20:01 Max: 72 Min: 66  Probe: 66.31 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-22 07:25:02 Max: 72 Min: 66  Probe: 66.31 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-22 07:30:02 Max: 72 Min: 66  Probe: 66.2 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-22 07:35:01 Max: 72 Min: 66  Probe: 66.2 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-22 07:40:02 Max: 72 Min: 66  Probe: 66.2 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-22 07:45:01 Max: 72 Min: 66  Probe: 66.09 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-22 07:50:02 Max: 72 Min: 66  Probe: 66.09 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-22 07:55:01 Max: 72 Min: 66  Probe: 66.09 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-22 08:00:17 Heater: on Sending Code: 5256451. PIN: 0. Pulse Length: 168
+ Sending Code: 5256451. PIN: 0. Pulse Length: 168
+ Sending Code: 5256451. PIN: 0. Pulse Length: 168
+2018-02-22 08:00:02 Max: 72 Min: 66  Probe: 65.98 F Ambient: 60.8 F Action: Turning Heater on
+2018-02-22 08:05:02 Max: 72 Min: 66  Probe: 65.98 F Ambient: 60.8 F Action: Heater already on
+2018-02-22 08:10:10 Heater: off Sending Code: 5256460. PIN: 0. Pulse Length: 168
+ Sending Code: 5256460. PIN: 0. Pulse Length: 168
+ Sending Code: 5256460. PIN: 0. Pulse Length: 168
+2018-02-22 08:10:02 Max: 72 Min: 66  Probe: 66.43 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-22 08:15:02 Max: 72 Min: 66  Probe: 66.65 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-22 08:20:02 Max: 72 Min: 66  Probe: 66.76 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-22 08:25:02 Max: 72 Min: 66  Probe: 66.65 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-22 08:30:02 Max: 72 Min: 66  Probe: 66.65 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-22 08:35:01 Max: 72 Min: 66  Probe: 66.54 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-22 08:40:02 Max: 72 Min: 66  Probe: 66.54 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-22 08:45:02 Max: 72 Min: 66  Probe: 66.43 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-22 08:50:02 Max: 72 Min: 66  Probe: 66.31 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-22 08:55:02 Max: 72 Min: 66  Probe: 66.31 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-22 09:00:02 Max: 72 Min: 66  Probe: 66.31 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-22 09:05:02 Max: 72 Min: 66  Probe: 66.2 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-22 09:10:02 Max: 72 Min: 66  Probe: 66.2 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-22 09:15:02 Max: 72 Min: 66  Probe: 66.09 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-22 09:20:02 Max: 72 Min: 66  Probe: 66.09 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-22 09:25:02 Max: 72 Min: 66  Probe: 66.09 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-22 09:30:02 Max: 72 Min: 66  Probe: 65.98 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-22 09:35:14 Heater: on Sending Code: 5256451. PIN: 0. Pulse Length: 168
+ Sending Code: 5256451. PIN: 0. Pulse Length: 168
+ Sending Code: 5256451. PIN: 0. Pulse Length: 168
+2018-02-22 09:35:02 Max: 72 Min: 66  Probe: 65.98 F Ambient: 60.8 F Action: Turning Heater on
+2018-02-22 09:40:02 Max: 72 Min: 66  Probe: 65.98 F Ambient: 60.8 F Action: Heater already on
+2018-02-22 09:45:07 Heater: off Sending Code: 5256460. PIN: 0. Pulse Length: 168
+ Sending Code: 5256460. PIN: 0. Pulse Length: 168
+ Sending Code: 5256460. PIN: 0. Pulse Length: 168
+2018-02-22 09:45:01 Max: 72 Min: 66  Probe: 66.31 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-22 09:50:02 Max: 72 Min: 66  Probe: 66.65 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-22 09:55:02 Max: 72 Min: 66  Probe: 66.65 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-22 10:00:02 Max: 72 Min: 66  Probe: 66.65 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-22 10:05:01 Max: 72 Min: 66  Probe: 66.54 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-22 10:10:02 Max: 72 Min: 66  Probe: 66.54 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-22 10:15:01 Max: 72 Min: 66  Probe: 66.43 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-22 10:20:02 Max: 72 Min: 66  Probe: 66.43 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-22 10:25:02 Max: 72 Min: 66  Probe: 66.31 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-22 10:30:02 Max: 72 Min: 66  Probe: 66.31 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-22 10:35:01 Max: 72 Min: 66  Probe: 66.2 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-22 10:40:02 Max: 72 Min: 66  Probe: 66.2 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-22 10:45:02 Max: 72 Min: 66  Probe: 66.2 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-22 10:50:02 Max: 72 Min: 66  Probe: 66.09 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-22 10:55:02 Max: 72 Min: 66  Probe: 66.09 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-22 11:00:02 Max: 72 Min: 66  Probe: 65.98 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-22 11:05:07 Heater: on Sending Code: 5256451. PIN: 0. Pulse Length: 168
+ Sending Code: 5256451. PIN: 0. Pulse Length: 168
+ Sending Code: 5256451. PIN: 0. Pulse Length: 168
+2018-02-22 11:05:02 Max: 72 Min: 66  Probe: 65.98 F Ambient: 60.8 F Action: Turning Heater on
+2018-02-22 11:10:02 Max: 72 Min: 66  Probe: 65.98 F Ambient: 60.8 F Action: Heater already on
+2018-02-22 11:15:10 Heater: off Sending Code: 5256460. PIN: 0. Pulse Length: 168
+ Sending Code: 5256460. PIN: 0. Pulse Length: 168
+ Sending Code: 5256460. PIN: 0. Pulse Length: 168
+2018-02-22 11:15:02 Max: 72 Min: 66  Probe: 65.98 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-22 11:20:01 Max: 72 Min: 66  Probe: 66.65 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-22 11:25:01 Max: 72 Min: 66  Probe: 66.65 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-22 11:30:02 Max: 72 Min: 66  Probe: 66.65 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-22 11:35:02 Max: 72 Min: 66  Probe: 66.54 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-22 11:40:01 Max: 72 Min: 66  Probe: 66.43 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-22 11:45:02 Max: 72 Min: 66  Probe: 66.43 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-22 11:50:02 Max: 72 Min: 66  Probe: 66.31 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-22 11:55:01 Max: 72 Min: 66  Probe: 66.31 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-22 12:00:02 Max: 72 Min: 66  Probe: 66.2 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-22 12:05:02 Max: 72 Min: 66  Probe: 66.2 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-22 12:10:02 Max: 72 Min: 66  Probe: 66.2 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-22 12:15:01 Max: 72 Min: 66  Probe: 66.2 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-22 12:20:02 Max: 72 Min: 66  Probe: 66.09 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-22 12:25:02 Max: 72 Min: 66  Probe: 65.98 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-22 12:30:07 Heater: on Sending Code: 5256451. PIN: 0. Pulse Length: 168
+ Sending Code: 5256451. PIN: 0. Pulse Length: 168
+ Sending Code: 5256451. PIN: 0. Pulse Length: 168
+2018-02-22 12:30:02 Max: 72 Min: 66  Probe: 65.98 F Ambient: 60.8 F Action: Turning Heater on
+2018-02-22 12:35:02 Max: 72 Min: 66  Probe: 65.98 F Ambient: 60.8 F Action: Heater already on
+2018-02-22 12:40:12 Heater: off Sending Code: 5256460. PIN: 0. Pulse Length: 168
+ Sending Code: 5256460. PIN: 0. Pulse Length: 168
+ Sending Code: 5256460. PIN: 0. Pulse Length: 168
+2018-02-22 12:40:02 Max: 72 Min: 66  Probe: 66.31 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-22 12:45:02 Max: 72 Min: 66  Probe: 66.65 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-22 12:50:01 Max: 72 Min: 66  Probe: 66.65 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-22 12:55:02 Max: 72 Min: 66  Probe: 66.65 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-22 13:00:02 Max: 72 Min: 66  Probe: 66.54 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-22 13:05:02 Max: 72 Min: 66  Probe: 66.54 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-22 13:10:02 Max: 72 Min: 66  Probe: 66.43 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-22 13:15:01 Max: 72 Min: 66  Probe: 66.31 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-22 13:20:02 Max: 72 Min: 66  Probe: 66.2 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-22 13:25:01 Max: 72 Min: 66  Probe: 66.2 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-22 13:30:01 Max: 72 Min: 66  Probe: 66.09 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-22 13:35:01 Max: 72 Min: 66  Probe: 66.09 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-22 13:40:02 Max: 72 Min: 66  Probe: 66.09 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-22 13:45:14 Heater: on Sending Code: 5256451. PIN: 0. Pulse Length: 168
+ Sending Code: 5256451. PIN: 0. Pulse Length: 168
+ Sending Code: 5256451. PIN: 0. Pulse Length: 168
+2018-02-22 13:45:02 Max: 72 Min: 66  Probe: 65.98 F Ambient: 59.0 F Action: Turning Heater on
+2018-02-22 13:50:02 Max: 72 Min: 66  Probe: 65.98 F Ambient: 60.8 F Action: Heater already on
+2018-02-22 13:55:10 Heater: off Sending Code: 5256460. PIN: 0. Pulse Length: 168
+ Sending Code: 5256460. PIN: 0. Pulse Length: 168
+ Sending Code: 5256460. PIN: 0. Pulse Length: 168
+2018-02-22 13:55:02 Max: 72 Min: 66  Probe: 66.31 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-22 14:00:02 Max: 72 Min: 66  Probe: 66.65 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-22 14:05:01 Max: 72 Min: 66  Probe: 66.76 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-22 14:10:01 Max: 72 Min: 66  Probe: 66.65 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-22 14:15:02 Max: 72 Min: 66  Probe: 66.65 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-22 14:20:02 Max: 72 Min: 66  Probe: 66.54 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-22 14:25:02 Max: 72 Min: 66  Probe: 66.43 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-22 14:30:02 Max: 72 Min: 66  Probe: 66.31 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-22 14:35:02 Max: 72 Min: 66  Probe: 66.31 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-22 14:40:01 Max: 72 Min: 66  Probe: 66.31 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-22 14:45:02 Max: 72 Min: 66  Probe: 66.2 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-22 14:50:02 Max: 72 Min: 66  Probe: 66.2 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-22 14:55:02 Max: 72 Min: 66  Probe: 66.09 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-22 15:00:01 Max: 72 Min: 66  Probe: 66.09 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-22 15:05:09 Heater: on Sending Code: 5256451. PIN: 0. Pulse Length: 168
+ Sending Code: 5256451. PIN: 0. Pulse Length: 168
+ Sending Code: 5256451. PIN: 0. Pulse Length: 168
+2018-02-22 15:05:02 Max: 72 Min: 66  Probe: 65.98 F Ambient: 59.0 F Action: Turning Heater on
+2018-02-22 15:10:02 Max: 72 Min: 66  Probe: 65.98 F Ambient: 60.8 F Action: Heater already on
+2018-02-22 15:15:07 Heater: off Sending Code: 5256460. PIN: 0. Pulse Length: 168
+ Sending Code: 5256460. PIN: 0. Pulse Length: 168
+ Sending Code: 5256460. PIN: 0. Pulse Length: 168
+2018-02-22 15:15:01 Max: 72 Min: 66  Probe: 66.43 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-22 15:20:02 Max: 72 Min: 66  Probe: 66.76 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-22 15:25:02 Max: 72 Min: 66  Probe: 66.76 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-22 15:30:01 Max: 72 Min: 66  Probe: 66.65 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-22 15:35:02 Max: 72 Min: 66  Probe: 66.65 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-22 15:40:01 Max: 72 Min: 66  Probe: 66.54 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-22 15:45:02 Max: 72 Min: 66  Probe: 66.43 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-22 15:50:01 Max: 72 Min: 66  Probe: 66.31 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-22 15:55:02 Max: 72 Min: 66  Probe: 66.31 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-22 16:00:01 Max: 72 Min: 66  Probe: 66.31 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-22 16:05:01 Max: 72 Min: 66  Probe: 66.2 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-22 16:10:02 Max: 72 Min: 66  Probe: 66.2 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-22 16:15:02 Max: 72 Min: 66  Probe: 66.09 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-22 16:20:01 Max: 72 Min: 66  Probe: 66.09 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-22 16:25:02 Max: 72 Min: 66  Probe: 66.09 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-22 16:30:02 Max: 72 Min: 66  Probe: 65.98 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-22 16:35:08 Heater: on Sending Code: 5256451. PIN: 0. Pulse Length: 168
+ Sending Code: 5256451. PIN: 0. Pulse Length: 168
+ Sending Code: 5256451. PIN: 0. Pulse Length: 168
+2018-02-22 16:35:01 Max: 72 Min: 66  Probe: 65.98 F Ambient: 60.8 F Action: Turning Heater on
+2018-02-22 16:40:01 Max: 72 Min: 66  Probe: 65.98 F Ambient: 60.8 F Action: Heater already on
+2018-02-22 16:45:10 Heater: off Sending Code: 5256460. PIN: 0. Pulse Length: 168
+ Sending Code: 5256460. PIN: 0. Pulse Length: 168
+ Sending Code: 5256460. PIN: 0. Pulse Length: 168
+2018-02-22 16:45:02 Max: 72 Min: 66  Probe: 66.31 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-22 16:50:01 Max: 72 Min: 66  Probe: 66.65 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-22 16:55:01 Max: 72 Min: 66  Probe: 66.76 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-22 17:00:02 Max: 72 Min: 66  Probe: 66.65 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-22 17:05:01 Max: 72 Min: 66  Probe: 66.65 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-22 17:10:02 Max: 72 Min: 66  Probe: 66.54 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-22 17:15:01 Max: 72 Min: 66  Probe: 66.43 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-22 17:20:01 Max: 72 Min: 66  Probe: 66.31 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-22 17:25:02 Max: 72 Min: 66  Probe: 66.31 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-22 17:30:02 Max: 72 Min: 66  Probe: 66.31 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-22 17:35:02 Max: 72 Min: 66  Probe: 66.2 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-22 17:40:01 Max: 72 Min: 66  Probe: 66.2 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-22 17:45:02 Max: 72 Min: 66  Probe: 66.09 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-22 17:50:01 Max: 72 Min: 66  Probe: 66.09 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-22 17:55:02 Max: 72 Min: 66  Probe: 65.98 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-22 18:00:09 Heater: on Sending Code: 5256451. PIN: 0. Pulse Length: 168
+ Sending Code: 5256451. PIN: 0. Pulse Length: 168
+ Sending Code: 5256451. PIN: 0. Pulse Length: 168
+2018-02-22 18:00:02 Max: 72 Min: 66  Probe: 65.98 F Ambient: 60.8 F Action: Turning Heater on
+2018-02-22 18:05:02 Max: 72 Min: 66  Probe: 65.98 F Ambient: 59.0 F Action: Heater already on
+2018-02-22 18:10:07 Heater: off Sending Code: 5256460. PIN: 0. Pulse Length: 168
+ Sending Code: 5256460. PIN: 0. Pulse Length: 168
+ Sending Code: 5256460. PIN: 0. Pulse Length: 168
+2018-02-22 18:10:02 Max: 72 Min: 66  Probe: 66.31 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-22 18:15:01 Max: 72 Min: 66  Probe: 66.76 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-22 18:20:02 Max: 72 Min: 66  Probe: 66.76 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-22 18:25:02 Max: 72 Min: 66  Probe: 66.65 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-22 18:30:02 Max: 72 Min: 66  Probe: 66.54 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-22 18:35:02 Max: 72 Min: 66  Probe: 66.54 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-22 18:40:01 Max: 72 Min: 66  Probe: 66.43 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-22 18:45:02 Max: 72 Min: 66  Probe: 66.31 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-22 18:50:01 Max: 72 Min: 66  Probe: 66.31 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-22 18:55:02 Max: 72 Min: 66  Probe: 66.2 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-22 19:00:01 Max: 72 Min: 66  Probe: 66.2 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-22 19:05:01 Max: 72 Min: 66  Probe: 66.2 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-22 19:10:02 Max: 72 Min: 66  Probe: 66.09 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-22 19:15:02 Max: 72 Min: 66  Probe: 66.09 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-22 19:20:02 Max: 72 Min: 66  Probe: 65.98 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-22 19:25:09 Heater: on Sending Code: 5256451. PIN: 0. Pulse Length: 168
+ Sending Code: 5256451. PIN: 0. Pulse Length: 168
+ Sending Code: 5256451. PIN: 0. Pulse Length: 168
+2018-02-22 19:25:02 Max: 72 Min: 66  Probe: 65.98 F Ambient: 60.8 F Action: Turning Heater on
+2018-02-22 19:30:01 Max: 72 Min: 66  Probe: 65.98 F Ambient: 60.8 F Action: Heater already on
+2018-02-22 19:35:14 Heater: off Sending Code: 5256460. PIN: 0. Pulse Length: 168
+ Sending Code: 5256460. PIN: 0. Pulse Length: 168
+ Sending Code: 5256460. PIN: 0. Pulse Length: 168
+2018-02-22 19:35:02 Max: 72 Min: 66  Probe: 66.31 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-22 19:40:02 Max: 72 Min: 66  Probe: 66.43 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-22 19:45:02 Max: 72 Min: 66  Probe: 66.76 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-22 19:50:02 Max: 72 Min: 66  Probe: 66.76 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-22 19:55:02 Max: 72 Min: 66  Probe: 66.65 F Ambient: 64.4 F Action: Temperature is perfect
+2018-02-22 20:00:01 Max: 72 Min: 66  Probe: 66.65 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-22 20:05:02 Max: 72 Min: 66  Probe: 66.54 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-22 20:10:01 Max: 72 Min: 66  Probe: 66.54 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-22 20:15:01 Max: 72 Min: 66  Probe: 66.43 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-22 20:20:02 Max: 72 Min: 66  Probe: 66.43 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-22 20:25:01 Max: 72 Min: 66  Probe: 66.31 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-22 20:30:01 Max: 72 Min: 66  Probe: 66.31 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-22 20:35:02 Max: 72 Min: 66  Probe: 66.31 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-22 20:40:01 Max: 72 Min: 66  Probe: 66.2 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-22 20:45:02 Max: 72 Min: 66  Probe: 66.2 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-22 20:50:02 Max: 72 Min: 66  Probe: 66.2 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-22 20:55:01 Max: 72 Min: 66  Probe: 66.2 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-22 21:00:02 Max: 72 Min: 66  Probe: 66.2 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-22 21:05:02 Max: 72 Min: 66  Probe: 66.09 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-22 21:10:02 Max: 72 Min: 66  Probe: 66.09 F Ambient: 64.4 F Action: Temperature is perfect
+2018-02-22 21:15:01 Max: 72 Min: 66  Probe: 66.09 F Ambient: 64.4 F Action: Temperature is perfect
+2018-02-22 21:20:01 Max: 72 Min: 66  Probe: 66.09 F Ambient: 64.4 F Action: Temperature is perfect
+2018-02-22 21:25:01 Max: 72 Min: 66  Probe: 66.09 F Ambient: 66.2 F Action: Temperature is perfect
+2018-02-22 21:30:09 Heater: on Sending Code: 5256451. PIN: 0. Pulse Length: 168
+ Sending Code: 5256451. PIN: 0. Pulse Length: 168
+ Sending Code: 5256451. PIN: 0. Pulse Length: 168
+2018-02-22 21:30:02 Max: 72 Min: 66  Probe: 65.98 F Ambient: 64.4 F Action: Turning Heater on
+2018-02-22 21:35:02 Max: 72 Min: 66  Probe: 65.98 F Ambient: 64.4 F Action: Heater already on
+2018-02-22 21:40:10 Heater: off Sending Code: 5256460. PIN: 0. Pulse Length: 168
+ Sending Code: 5256460. PIN: 0. Pulse Length: 168
+ Sending Code: 5256460. PIN: 0. Pulse Length: 168
+2018-02-22 21:40:01 Max: 72 Min: 66  Probe: 66.54 F Ambient: 64.4 F Action: Temperature is perfect
+2018-02-22 21:45:02 Max: 72 Min: 66  Probe: 66.76 F Ambient: 64.4 F Action: Temperature is perfect
+2018-02-22 21:50:01 Max: 72 Min: 66  Probe: 66.88 F Ambient: 64.4 F Action: Temperature is perfect
+2018-02-22 21:55:02 Max: 72 Min: 66  Probe: 66.88 F Ambient: 64.4 F Action: Temperature is perfect
+2018-02-22 22:00:01 Max: 72 Min: 66  Probe: 66.88 F Ambient: 64.4 F Action: Temperature is perfect
+2018-02-22 22:05:02 Max: 72 Min: 66  Probe: 66.76 F Ambient: 64.4 F Action: Temperature is perfect
+2018-02-22 22:10:01 Max: 72 Min: 66  Probe: 66.76 F Ambient: 64.4 F Action: Temperature is perfect
+2018-02-22 22:15:02 Max: 72 Min: 66  Probe: 66.76 F Ambient: 64.4 F Action: Temperature is perfect
+2018-02-22 22:20:01 Max: 72 Min: 66  Probe: 66.65 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-22 22:25:02 Max: 72 Min: 66  Probe: 66.54 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-22 22:30:02 Max: 72 Min: 66  Probe: 66.43 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-22 22:35:01 Max: 72 Min: 66  Probe: 66.43 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-22 22:40:02 Max: 72 Min: 66  Probe: 66.43 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-22 22:45:02 Max: 72 Min: 66  Probe: 66.43 F Ambient: 64.4 F Action: Temperature is perfect
+2018-02-22 22:50:01 Max: 72 Min: 66  Probe: 66.43 F Ambient: 64.4 F Action: Temperature is perfect
+2018-02-22 22:55:02 Max: 72 Min: 66  Probe: 66.31 F Ambient: 64.4 F Action: Temperature is perfect
+2018-02-22 23:00:01 Max: 72 Min: 66  Probe: 66.31 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-22 23:05:02 Max: 72 Min: 66  Probe: 66.31 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-22 23:10:01 Max: 72 Min: 66  Probe: 66.31 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-22 23:15:01 Max: 72 Min: 66  Probe: 66.31 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-22 23:20:02 Max: 72 Min: 66  Probe: 66.2 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-22 23:25:01 Max: 72 Min: 66  Probe: 66.2 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-22 23:30:02 Max: 72 Min: 66  Probe: 66.09 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-22 23:35:02 Max: 72 Min: 66  Probe: 66.09 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-22 23:40:01 Max: 72 Min: 66  Probe: 66.09 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-22 23:45:02 Max: 72 Min: 66  Probe: 66.09 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-22 23:50:01 Max: 72 Min: 66  Probe: 66.09 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-22 23:55:06 Heater: on Sending Code: 5256451. PIN: 0. Pulse Length: 168
+ Sending Code: 5256451. PIN: 0. Pulse Length: 168
+ Sending Code: 5256451. PIN: 0. Pulse Length: 168
+2018-02-22 23:55:02 Max: 72 Min: 66  Probe: 65.98 F Ambient: 62.6 F Action: Turning Heater on
+2018-02-23 00:00:02 Max: 72 Min: 66  Probe: 65.98 F Ambient: 62.6 F Action: Heater already on
+2018-02-23 00:05:10 Heater: off Sending Code: 5256460. PIN: 0. Pulse Length: 168
+ Sending Code: 5256460. PIN: 0. Pulse Length: 168
+ Sending Code: 5256460. PIN: 0. Pulse Length: 168
+2018-02-23 00:05:02 Max: 72 Min: 66  Probe: 66.43 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-23 00:10:02 Max: 72 Min: 66  Probe: 66.76 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-23 00:15:02 Max: 72 Min: 66  Probe: 66.88 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-23 00:20:01 Max: 72 Min: 66  Probe: 66.76 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-23 00:25:02 Max: 72 Min: 66  Probe: 66.65 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-23 00:30:02 Max: 72 Min: 66  Probe: 66.65 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-23 00:35:02 Max: 72 Min: 66  Probe: 66.54 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-23 00:40:01 Max: 72 Min: 66  Probe: 66.54 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-23 00:45:02 Max: 72 Min: 66  Probe: 66.54 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-23 00:50:01 Max: 72 Min: 66  Probe: 66.31 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-23 00:55:02 Max: 72 Min: 66  Probe: 66.31 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-23 01:00:02 Max: 72 Min: 66  Probe: 66.31 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-23 01:05:02 Max: 72 Min: 66  Probe: 66.2 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-23 01:10:01 Max: 72 Min: 66  Probe: 66.2 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-23 01:15:01 Max: 72 Min: 66  Probe: 66.2 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-23 01:20:02 Max: 72 Min: 66  Probe: 66.2 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-23 01:25:02 Max: 72 Min: 66  Probe: 66.09 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-23 01:30:02 Max: 72 Min: 66  Probe: 66.09 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-23 01:35:02 Max: 72 Min: 66  Probe: 66.09 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-23 01:40:01 Max: 72 Min: 66  Probe: 65.98 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-23 01:45:09 Heater: on Sending Code: 5256451. PIN: 0. Pulse Length: 168
+ Sending Code: 5256451. PIN: 0. Pulse Length: 168
+ Sending Code: 5256451. PIN: 0. Pulse Length: 168
+2018-02-23 01:45:01 Max: 72 Min: 66  Probe: 65.98 F Ambient: 60.8 F Action: Turning Heater on
+2018-02-23 01:50:02 Max: 72 Min: 66  Probe: 65.98 F Ambient: 60.8 F Action: Heater already on
+2018-02-23 01:55:10 Heater: off Sending Code: 5256460. PIN: 0. Pulse Length: 168
+ Sending Code: 5256460. PIN: 0. Pulse Length: 168
+ Sending Code: 5256460. PIN: 0. Pulse Length: 168
+2018-02-23 01:55:01 Max: 72 Min: 66  Probe: 66.43 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-23 02:00:01 Max: 72 Min: 66  Probe: 66.76 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-23 02:05:01 Max: 72 Min: 66  Probe: 66.76 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-23 02:10:02 Max: 72 Min: 66  Probe: 66.76 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-23 02:15:01 Max: 72 Min: 66  Probe: 66.76 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-23 02:20:01 Max: 72 Min: 66  Probe: 66.54 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-23 02:25:01 Max: 72 Min: 66  Probe: 66.54 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-23 02:30:02 Max: 72 Min: 66  Probe: 66.54 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-23 02:35:01 Max: 72 Min: 66  Probe: 66.43 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-23 02:40:02 Max: 72 Min: 66  Probe: 66.31 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-23 02:45:01 Max: 72 Min: 66  Probe: 66.31 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-23 02:50:01 Max: 72 Min: 66  Probe: 66.31 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-23 02:55:02 Max: 72 Min: 66  Probe: 66.2 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-23 03:00:02 Max: 72 Min: 66  Probe: 66.2 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-23 03:05:01 Max: 72 Min: 66  Probe: 66.2 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-23 03:10:02 Max: 72 Min: 66  Probe: 66.09 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-23 03:15:02 Max: 72 Min: 66  Probe: 66.09 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-23 03:20:01 Max: 72 Min: 66  Probe: 65.98 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-23 03:25:09 Heater: on Sending Code: 5256451. PIN: 0. Pulse Length: 168
+ Sending Code: 5256451. PIN: 0. Pulse Length: 168
+ Sending Code: 5256451. PIN: 0. Pulse Length: 168
+2018-02-23 03:25:02 Max: 72 Min: 66  Probe: 65.98 F Ambient: 60.8 F Action: Turning Heater on
+2018-02-23 03:30:02 Max: 72 Min: 66  Probe: 65.98 F Ambient: 60.8 F Action: Heater already on
+2018-02-23 03:35:12 Heater: off Sending Code: 5256460. PIN: 0. Pulse Length: 168
+ Sending Code: 5256460. PIN: 0. Pulse Length: 168
+ Sending Code: 5256460. PIN: 0. Pulse Length: 168
+2018-02-23 03:35:02 Max: 72 Min: 66  Probe: 66.31 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-23 03:40:02 Max: 72 Min: 66  Probe: 66.76 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-23 03:45:02 Max: 72 Min: 66  Probe: 66.76 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-23 03:50:02 Max: 72 Min: 66  Probe: 66.76 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-23 03:55:01 Max: 72 Min: 66  Probe: 66.65 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-23 04:00:02 Max: 72 Min: 66  Probe: 66.65 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-23 04:05:02 Max: 72 Min: 66  Probe: 66.54 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-23 04:10:01 Max: 72 Min: 66  Probe: 66.43 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-23 04:15:01 Max: 72 Min: 66  Probe: 66.43 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-23 04:20:02 Max: 72 Min: 66  Probe: 66.43 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-23 04:25:01 Max: 72 Min: 66  Probe: 66.31 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-23 04:30:02 Max: 72 Min: 66  Probe: 66.31 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-23 04:35:02 Max: 72 Min: 66  Probe: 66.2 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-23 04:40:01 Max: 72 Min: 66  Probe: 66.2 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-23 04:45:01 Max: 72 Min: 66  Probe: 66.09 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-23 04:50:02 Max: 72 Min: 66  Probe: 66.09 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-23 04:55:02 Max: 72 Min: 66  Probe: 66.09 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-23 05:00:09 Heater: on Sending Code: 5256451. PIN: 0. Pulse Length: 168
+ Sending Code: 5256451. PIN: 0. Pulse Length: 168
+ Sending Code: 5256451. PIN: 0. Pulse Length: 168
+2018-02-23 05:00:02 Max: 72 Min: 66  Probe: 65.98 F Ambient: 60.8 F Action: Turning Heater on
+2018-02-23 05:05:07 Heater: off Sending Code: 5256460. PIN: 0. Pulse Length: 168
+ Sending Code: 5256460. PIN: 0. Pulse Length: 168
+ Sending Code: 5256460. PIN: 0. Pulse Length: 168
+2018-02-23 05:05:01 Max: 72 Min: 66  Probe: 65.98 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-23 05:10:02 Max: 72 Min: 66  Probe: 66.31 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-23 05:15:02 Max: 72 Min: 66  Probe: 66.31 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-23 05:20:02 Max: 72 Min: 66  Probe: 66.31 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-23 05:25:01 Max: 72 Min: 66  Probe: 66.2 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-23 05:30:02 Max: 72 Min: 66  Probe: 66.2 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-23 05:35:02 Max: 72 Min: 66  Probe: 66.09 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-23 05:40:02 Max: 72 Min: 66  Probe: 66.09 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-23 05:45:02 Max: 72 Min: 66  Probe: 66.09 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-23 05:50:06 Heater: on Sending Code: 5256451. PIN: 0. Pulse Length: 168
+ Sending Code: 5256451. PIN: 0. Pulse Length: 168
+ Sending Code: 5256451. PIN: 0. Pulse Length: 168
+2018-02-23 05:50:02 Max: 72 Min: 66  Probe: 65.98 F Ambient: 60.8 F Action: Turning Heater on
+2018-02-23 05:55:02 Max: 72 Min: 66  Probe: 65.98 F Ambient: 60.8 F Action: Heater already on
+2018-02-23 06:00:10 Heater: off Sending Code: 5256460. PIN: 0. Pulse Length: 168
+ Sending Code: 5256460. PIN: 0. Pulse Length: 168
+ Sending Code: 5256460. PIN: 0. Pulse Length: 168
+2018-02-23 06:00:02 Max: 72 Min: 66  Probe: 66.43 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-23 06:05:02 Max: 72 Min: 66  Probe: 66.65 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-23 06:10:02 Max: 72 Min: 66  Probe: 66.76 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-23 06:15:02 Max: 72 Min: 66  Probe: 66.76 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-23 06:20:01 Max: 72 Min: 66  Probe: 66.65 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-23 06:25:03 Max: 72 Min: 66  Probe: 66.54 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-23 06:30:02 Max: 72 Min: 66  Probe: 66.54 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-23 06:35:02 Max: 72 Min: 66  Probe: 66.43 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-23 06:40:02 Max: 72 Min: 66  Probe: 66.31 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-23 06:45:02 Max: 72 Min: 66  Probe: 66.31 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-23 06:50:01 Max: 72 Min: 66  Probe: 66.2 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-23 06:55:02 Max: 72 Min: 66  Probe: 66.2 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-23 07:00:02 Max: 72 Min: 66  Probe: 66.2 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-23 07:05:02 Max: 72 Min: 66  Probe: 66.09 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-23 07:10:02 Max: 72 Min: 66  Probe: 66.09 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-23 07:15:01 Max: 72 Min: 66  Probe: 66.09 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-23 07:20:02 Max: 72 Min: 66  Probe: 65.98 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-23 07:25:06 Heater: on Sending Code: 5256451. PIN: 0. Pulse Length: 168
+ Sending Code: 5256451. PIN: 0. Pulse Length: 168
+ Sending Code: 5256451. PIN: 0. Pulse Length: 168
+2018-02-23 07:25:01 Max: 72 Min: 66  Probe: 65.98 F Ambient: 60.8 F Action: Turning Heater on
+2018-02-23 07:30:02 Max: 72 Min: 66  Probe: 65.98 F Ambient: 60.8 F Action: Heater already on
+2018-02-23 07:35:09 Heater: off Sending Code: 5256460. PIN: 0. Pulse Length: 168
+ Sending Code: 5256460. PIN: 0. Pulse Length: 168
+ Sending Code: 5256460. PIN: 0. Pulse Length: 168
+2018-02-23 07:35:01 Max: 72 Min: 66  Probe: 66.31 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-23 07:40:01 Max: 72 Min: 66  Probe: 66.76 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-23 07:45:01 Max: 72 Min: 66  Probe: 66.76 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-23 07:50:02 Max: 72 Min: 66  Probe: 66.76 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-23 07:55:01 Max: 72 Min: 66  Probe: 66.76 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-23 08:00:02 Max: 72 Min: 66  Probe: 66.65 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-23 08:05:02 Max: 72 Min: 66  Probe: 66.54 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-23 08:10:02 Max: 72 Min: 66  Probe: 66.43 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-23 08:15:02 Max: 72 Min: 66  Probe: 66.43 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-23 08:20:02 Max: 72 Min: 66  Probe: 66.31 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-23 08:25:02 Max: 72 Min: 66  Probe: 66.31 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-23 08:30:01 Max: 72 Min: 66  Probe: 66.31 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-23 08:35:02 Max: 72 Min: 66  Probe: 66.2 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-23 08:40:02 Max: 72 Min: 66  Probe: 66.2 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-23 08:45:01 Max: 72 Min: 66  Probe: 66.2 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-23 08:50:02 Max: 72 Min: 66  Probe: 66.09 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-23 08:55:01 Max: 72 Min: 66  Probe: 66.09 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-23 09:00:01 Max: 72 Min: 66  Probe: 66.09 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-23 09:05:01 Max: 72 Min: 66  Probe: 65.98 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-23 09:10:09 Heater: on Sending Code: 5256451. PIN: 0. Pulse Length: 168
+ Sending Code: 5256451. PIN: 0. Pulse Length: 168
+ Sending Code: 5256451. PIN: 0. Pulse Length: 168
+2018-02-23 09:10:02 Max: 72 Min: 66  Probe: 65.98 F Ambient: 60.8 F Action: Turning Heater on
+2018-02-23 09:15:02 Max: 72 Min: 66  Probe: 65.98 F Ambient: 60.8 F Action: Heater already on
+2018-02-23 09:20:12 Heater: off Sending Code: 5256460. PIN: 0. Pulse Length: 168
+ Sending Code: 5256460. PIN: 0. Pulse Length: 168
+ Sending Code: 5256460. PIN: 0. Pulse Length: 168
+2018-02-23 09:20:01 Max: 72 Min: 66  Probe: 66.43 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-23 09:25:02 Max: 72 Min: 66  Probe: 66.76 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-23 09:30:02 Max: 72 Min: 66  Probe: 66.76 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-23 09:35:02 Max: 72 Min: 66  Probe: 66.65 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-23 09:40:01 Max: 72 Min: 66  Probe: 66.65 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-23 09:45:02 Max: 72 Min: 66  Probe: 66.65 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-23 09:50:02 Max: 72 Min: 66  Probe: 66.54 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-23 09:55:01 Max: 72 Min: 66  Probe: 66.54 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-23 10:00:02 Max: 72 Min: 66  Probe: 66.43 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-23 10:05:02 Max: 72 Min: 66  Probe: 66.43 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-23 10:10:02 Max: 72 Min: 66  Probe: 66.43 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-23 10:15:01 Max: 72 Min: 66  Probe: 66.31 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-23 10:20:02 Max: 72 Min: 66  Probe: 66.2 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-23 10:25:02 Max: 72 Min: 66  Probe: 66.2 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-23 10:30:02 Max: 72 Min: 66  Probe: 66.2 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-23 10:35:01 Max: 72 Min: 66  Probe: 66.09 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-23 10:40:02 Max: 72 Min: 66  Probe: 66.09 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-23 10:45:01 Max: 72 Min: 66  Probe: 66.09 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-23 10:50:02 Max: 72 Min: 66  Probe: 66.09 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-23 10:55:17 Heater: on Sending Code: 5256451. PIN: 0. Pulse Length: 168
+ Sending Code: 5256451. PIN: 0. Pulse Length: 168
+ Sending Code: 5256451. PIN: 0. Pulse Length: 168
+2018-02-23 10:55:02 Max: 72 Min: 66  Probe: 66.09 F Ambient: 62.6 F Action: Turning Heater on
+2018-02-23 11:00:02 Max: 72 Min: 66  Probe: 65.98 F Ambient: 62.6 F Action: Heater already on
+2018-02-23 11:05:12 Heater: off Sending Code: 5256460. PIN: 0. Pulse Length: 168
+ Sending Code: 5256460. PIN: 0. Pulse Length: 168
+ Sending Code: 5256460. PIN: 0. Pulse Length: 168
+2018-02-23 11:05:01 Max: 72 Min: 66  Probe: 66.31 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-23 11:10:02 Max: 72 Min: 66  Probe: 66.76 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-23 11:15:02 Max: 72 Min: 66  Probe: 66.76 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-23 11:20:02 Max: 72 Min: 66  Probe: 66.76 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-23 11:25:02 Max: 72 Min: 66  Probe: 66.76 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-23 11:30:02 Max: 72 Min: 66  Probe: 66.54 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-23 11:35:02 Max: 72 Min: 66  Probe: 66.54 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-23 11:40:02 Max: 72 Min: 66  Probe: 66.54 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-23 11:45:01 Max: 72 Min: 66  Probe: 66.43 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-23 11:50:01 Max: 72 Min: 66  Probe: 66.31 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-23 11:55:02 Max: 72 Min: 66  Probe: 66.31 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-23 12:00:02 Max: 72 Min: 66  Probe: 66.31 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-23 12:05:02 Max: 72 Min: 66  Probe: 66.2 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-23 12:10:01 Max: 72 Min: 66  Probe: 66.2 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-23 12:15:02 Max: 72 Min: 66  Probe: 66.2 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-23 12:20:02 Max: 72 Min: 66  Probe: 66.09 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-23 12:25:01 Max: 72 Min: 66  Probe: 66.09 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-23 12:30:02 Max: 72 Min: 66  Probe: 66.09 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-23 12:35:01 Max: 72 Min: 66  Probe: 65.98 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-23 12:40:09 Heater: on Sending Code: 5256451. PIN: 0. Pulse Length: 168
+ Sending Code: 5256451. PIN: 0. Pulse Length: 168
+ Sending Code: 5256451. PIN: 0. Pulse Length: 168
+2018-02-23 12:40:02 Max: 72 Min: 66  Probe: 65.98 F Ambient: 62.6 F Action: Turning Heater on
+2018-02-23 12:45:08 Heater: off Sending Code: 5256460. PIN: 0. Pulse Length: 168
+ Sending Code: 5256460. PIN: 0. Pulse Length: 168
+ Sending Code: 5256460. PIN: 0. Pulse Length: 168
+2018-02-23 12:45:02 Max: 72 Min: 66  Probe: 65.98 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-23 12:50:01 Max: 72 Min: 66  Probe: 66.31 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-23 12:55:01 Max: 72 Min: 66  Probe: 66.31 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-23 13:00:01 Max: 72 Min: 66  Probe: 66.31 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-23 13:05:02 Max: 72 Min: 66  Probe: 66.2 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-23 13:10:01 Max: 72 Min: 66  Probe: 66.2 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-23 13:15:01 Max: 72 Min: 66  Probe: 66.09 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-23 13:20:01 Max: 72 Min: 66  Probe: 66.2 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-23 13:25:02 Max: 72 Min: 66  Probe: 65.98 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-23 13:30:06 Heater: on Sending Code: 5256451. PIN: 0. Pulse Length: 168
+ Sending Code: 5256451. PIN: 0. Pulse Length: 168
+ Sending Code: 5256451. PIN: 0. Pulse Length: 168
+2018-02-23 13:30:02 Max: 72 Min: 66  Probe: 65.98 F Ambient: 60.8 F Action: Turning Heater on
+2018-02-23 13:35:02 Max: 72 Min: 66  Probe: 65.98 F Ambient: 60.8 F Action: Heater already on
+2018-02-23 13:40:11 Heater: off Sending Code: 5256460. PIN: 0. Pulse Length: 168
+ Sending Code: 5256460. PIN: 0. Pulse Length: 168
+ Sending Code: 5256460. PIN: 0. Pulse Length: 168
+2018-02-23 13:40:02 Max: 72 Min: 66  Probe: 66.43 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-23 13:45:01 Max: 72 Min: 66  Probe: 66.76 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-23 13:50:02 Max: 72 Min: 66  Probe: 66.76 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-23 13:55:02 Max: 72 Min: 66  Probe: 66.76 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-23 14:00:02 Max: 72 Min: 66  Probe: 66.65 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-23 14:05:02 Max: 72 Min: 66  Probe: 66.65 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-23 14:10:01 Max: 72 Min: 66  Probe: 66.54 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-23 14:15:02 Max: 72 Min: 66  Probe: 66.54 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-23 14:20:01 Max: 72 Min: 66  Probe: 66.43 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-23 14:25:01 Max: 72 Min: 66  Probe: 66.43 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-23 14:30:02 Max: 72 Min: 66  Probe: 66.43 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-23 14:35:01 Max: 72 Min: 66  Probe: 66.31 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-23 14:40:02 Max: 72 Min: 66  Probe: 66.31 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-23 14:45:02 Max: 72 Min: 66  Probe: 66.2 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-23 14:50:02 Max: 72 Min: 66  Probe: 66.2 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-23 14:55:02 Max: 72 Min: 66  Probe: 66.09 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-23 15:00:01 Max: 72 Min: 66  Probe: 66.09 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-23 15:05:02 Max: 72 Min: 66  Probe: 66.09 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-23 15:10:02 Max: 72 Min: 66  Probe: 65.98 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-23 15:15:09 Heater: on Sending Code: 5256451. PIN: 0. Pulse Length: 168
+ Sending Code: 5256451. PIN: 0. Pulse Length: 168
+ Sending Code: 5256451. PIN: 0. Pulse Length: 168
+2018-02-23 15:15:02 Max: 72 Min: 66  Probe: 65.98 F Ambient: 60.8 F Action: Turning Heater on
+2018-02-23 15:20:02 Max: 72 Min: 66  Probe: 65.98 F Ambient: 60.8 F Action: Heater already on
+2018-02-23 15:25:12 Heater: off Sending Code: 5256460. PIN: 0. Pulse Length: 168
+ Sending Code: 5256460. PIN: 0. Pulse Length: 168
+ Sending Code: 5256460. PIN: 0. Pulse Length: 168
+2018-02-23 15:25:01 Max: 72 Min: 66  Probe: 66.43 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-23 15:30:02 Max: 72 Min: 66  Probe: 66.76 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-23 15:35:01 Max: 72 Min: 66  Probe: 66.76 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-23 15:40:02 Max: 72 Min: 66  Probe: 66.65 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-23 15:45:01 Max: 72 Min: 66  Probe: 66.65 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-23 15:50:02 Max: 72 Min: 66  Probe: 66.54 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-23 15:55:02 Max: 72 Min: 66  Probe: 66.54 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-23 16:00:02 Max: 72 Min: 66  Probe: 66.54 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-23 16:05:02 Max: 72 Min: 66  Probe: 66.43 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-23 16:10:01 Max: 72 Min: 66  Probe: 66.43 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-23 16:15:01 Max: 72 Min: 66  Probe: 66.31 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-23 16:20:02 Max: 72 Min: 66  Probe: 66.2 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-23 16:25:02 Max: 72 Min: 66  Probe: 66.2 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-23 16:30:02 Max: 72 Min: 66  Probe: 66.2 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-23 16:35:01 Max: 72 Min: 66  Probe: 66.09 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-23 16:40:02 Max: 72 Min: 66  Probe: 66.09 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-23 16:45:02 Max: 72 Min: 66  Probe: 66.09 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-23 16:50:02 Max: 72 Min: 66  Probe: 66.09 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-23 16:55:09 Heater: on Sending Code: 5256451. PIN: 0. Pulse Length: 168
+ Sending Code: 5256451. PIN: 0. Pulse Length: 168
+ Sending Code: 5256451. PIN: 0. Pulse Length: 168
+2018-02-23 16:55:02 Max: 72 Min: 66  Probe: 65.98 F Ambient: 60.8 F Action: Turning Heater on
+2018-02-23 17:00:01 Max: 72 Min: 66  Probe: 65.98 F Ambient: 60.8 F Action: Heater already on
+2018-02-23 17:05:22 Heater: off Sending Code: 5256460. PIN: 0. Pulse Length: 168
+ Sending Code: 5256460. PIN: 0. Pulse Length: 168
+ Sending Code: 5256460. PIN: 0. Pulse Length: 168
+2018-02-23 17:05:02 Max: 72 Min: 66  Probe: 66.31 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-23 17:10:02 Max: 72 Min: 66  Probe: 66.76 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-23 17:15:02 Max: 72 Min: 66  Probe: 66.76 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-23 17:20:02 Max: 72 Min: 66  Probe: 66.76 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-23 17:25:02 Max: 72 Min: 66  Probe: 66.76 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-23 17:30:02 Max: 72 Min: 66  Probe: 66.65 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-23 17:35:01 Max: 72 Min: 66  Probe: 66.65 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-23 17:40:02 Max: 72 Min: 66  Probe: 66.54 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-23 17:45:02 Max: 72 Min: 66  Probe: 66.43 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-23 17:50:01 Max: 72 Min: 66  Probe: 66.43 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-23 17:55:02 Max: 72 Min: 66  Probe: 66.31 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-23 18:00:01 Max: 72 Min: 66  Probe: 66.31 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-23 18:05:02 Max: 72 Min: 66  Probe: 66.2 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-23 18:10:02 Max: 72 Min: 66  Probe: 66.2 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-23 18:15:01 Max: 72 Min: 66  Probe: 66.09 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-23 18:20:01 Max: 72 Min: 66  Probe: 66.09 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-23 18:25:02 Max: 72 Min: 66  Probe: 66.09 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-23 18:30:02 Max: 72 Min: 66  Probe: 65.98 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-23 18:35:14 Heater: on Sending Code: 5256451. PIN: 0. Pulse Length: 168
+ Sending Code: 5256451. PIN: 0. Pulse Length: 168
+ Sending Code: 5256451. PIN: 0. Pulse Length: 168
+2018-02-23 18:35:02 Max: 72 Min: 66  Probe: 65.98 F Ambient: 60.8 F Action: Turning Heater on
+2018-02-23 18:40:02 Max: 72 Min: 66  Probe: 65.98 F Ambient: 60.8 F Action: Heater already on
+2018-02-23 18:45:10 Heater: off Sending Code: 5256460. PIN: 0. Pulse Length: 168
+ Sending Code: 5256460. PIN: 0. Pulse Length: 168
+ Sending Code: 5256460. PIN: 0. Pulse Length: 168
+2018-02-23 18:45:02 Max: 72 Min: 66  Probe: 66.43 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-23 18:50:02 Max: 72 Min: 66  Probe: 66.76 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-23 18:55:01 Max: 72 Min: 66  Probe: 66.65 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-23 19:00:02 Max: 72 Min: 66  Probe: 66.88 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-23 19:05:01 Max: 72 Min: 66  Probe: 66.65 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-23 19:10:02 Max: 72 Min: 66  Probe: 66.65 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-23 19:15:01 Max: 72 Min: 66  Probe: 66.54 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-23 19:20:02 Max: 72 Min: 66  Probe: 66.54 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-23 19:25:02 Max: 72 Min: 66  Probe: 66.43 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-23 19:30:02 Max: 72 Min: 66  Probe: 66.43 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-23 19:35:02 Max: 72 Min: 66  Probe: 66.31 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-23 19:40:01 Max: 72 Min: 66  Probe: 66.31 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-23 19:45:01 Max: 72 Min: 66  Probe: 66.31 F Ambient: 64.4 F Action: Temperature is perfect
+2018-02-23 19:50:02 Max: 72 Min: 66  Probe: 66.2 F Ambient: 64.4 F Action: Temperature is perfect
+2018-02-23 19:55:01 Max: 72 Min: 66  Probe: 66.2 F Ambient: 64.4 F Action: Temperature is perfect
+2018-02-23 20:00:02 Max: 72 Min: 66  Probe: 66.2 F Ambient: 64.4 F Action: Temperature is perfect
+2018-02-23 20:05:02 Max: 72 Min: 66  Probe: 66.2 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-23 20:10:02 Max: 72 Min: 66  Probe: 66.09 F Ambient: 64.4 F Action: Temperature is perfect
+2018-02-23 20:15:02 Max: 72 Min: 66  Probe: 66.09 F Ambient: 64.4 F Action: Temperature is perfect
+2018-02-23 20:20:02 Max: 72 Min: 66  Probe: 66.09 F Ambient: 64.4 F Action: Temperature is perfect
+2018-02-23 20:25:01 Max: 72 Min: 66  Probe: 66.09 F Ambient: 64.4 F Action: Temperature is perfect
+2018-02-23 20:30:01 Max: 72 Min: 66  Probe: 66.09 F Ambient: 64.4 F Action: Temperature is perfect
+2018-02-23 20:35:01 Max: 72 Min: 66  Probe: 65.98 F Ambient: 64.4 F Action: Temperature is perfect
+2018-02-23 20:40:02 Max: 72 Min: 66  Probe: 65.98 F Ambient: 64.4 F Action: Temperature is perfect
+2018-02-23 20:45:02 Max: 72 Min: 55  Probe: 65.98 F Ambient: 64.4 F Action: Temperature is perfect
+2018-02-23 20:50:01 Max: 72 Min: 55  Probe: 65.98 F Ambient: 64.4 F Action: Temperature is perfect
+2018-02-23 20:55:02 Max: 72 Min: 55  Probe: 65.98 F Ambient: 64.4 F Action: Temperature is perfect
+2018-02-23 21:00:01 Max: 72 Min: 55  Probe: 65.98 F Ambient: 66.2 F Action: Temperature is perfect
+2018-02-23 21:05:02 Max: 72 Min: 55  Probe: 65.98 F Ambient: 66.2 F Action: Temperature is perfect
+2018-02-23 21:10:01 Max: 72 Min: 55  Probe: 65.86 F Ambient: 66.2 F Action: Temperature is perfect
+2018-02-23 21:15:01 Max: 72 Min: 55  Probe: 65.86 F Ambient: 66.2 F Action: Temperature is perfect
+2018-02-23 21:20:02 Max: 72 Min: 55  Probe: 65.86 F Ambient: 66.2 F Action: Temperature is perfect
+2018-02-23 21:25:02 Max: 72 Min: 55  Probe: 65.86 F Ambient: 66.2 F Action: Temperature is perfect
+2018-02-23 21:30:01 Max: 72 Min: 55  Probe: 65.86 F Ambient: 66.2 F Action: Temperature is perfect
+2018-02-23 21:35:02 Max: 72 Min: 55  Probe: 65.86 F Ambient: 66.2 F Action: Temperature is perfect
+2018-02-23 21:40:02 Max: 72 Min: 55  Probe: 65.86 F Ambient: 66.2 F Action: Temperature is perfect
+2018-02-23 21:45:02 Max: 72 Min: 55  Probe: 65.86 F Ambient: 66.2 F Action: Temperature is perfect
+2018-02-23 21:50:02 Max: 72 Min: 55  Probe: 65.86 F Ambient: 66.2 F Action: Temperature is perfect
+2018-02-23 21:55:01 Max: 72 Min: 55  Probe: 65.86 F Ambient: 66.2 F Action: Temperature is perfect
+2018-02-23 22:00:02 Max: 72 Min: 55  Probe: 65.86 F Ambient: 66.2 F Action: Temperature is perfect
+2018-02-23 22:05:01 Max: 72 Min: 55  Probe: 65.75 F Ambient: 68.0 F Action: Temperature is perfect
+2018-02-23 22:10:02 Max: 72 Min: 55  Probe: 65.75 F Ambient: 68.0 F Action: Temperature is perfect
+2018-02-23 22:15:01 Max: 72 Min: 55  Probe: 65.75 F Ambient: 68.0 F Action: Temperature is perfect
+2018-02-23 22:20:02 Max: 72 Min: 55  Probe: 65.75 F Ambient: 66.2 F Action: Temperature is perfect
+2018-02-23 22:25:02 Max: 72 Min: 55  Probe: 65.75 F Ambient: 66.2 F Action: Temperature is perfect
+2018-02-23 22:30:02 Max: 72 Min: 55  Probe: 65.75 F Ambient: 66.2 F Action: Temperature is perfect
+2018-02-23 22:35:01 Max: 72 Min: 55  Probe: 65.75 F Ambient: 66.2 F Action: Temperature is perfect
+2018-02-23 22:40:02 Max: 72 Min: 55  Probe: 65.75 F Ambient: 66.2 F Action: Temperature is perfect
+2018-02-23 22:45:01 Max: 72 Min: 55  Probe: 65.75 F Ambient: 64.4 F Action: Temperature is perfect
+2018-02-23 22:50:02 Max: 72 Min: 55  Probe: 65.75 F Ambient: 64.4 F Action: Temperature is perfect
+2018-02-23 22:55:01 Max: 72 Min: 55  Probe: 65.64 F Ambient: 64.4 F Action: Temperature is perfect
+2018-02-23 23:00:02 Max: 72 Min: 55  Probe: 65.64 F Ambient: 64.4 F Action: Temperature is perfect
+2018-02-23 23:05:02 Max: 72 Min: 55  Probe: 65.64 F Ambient: 64.4 F Action: Temperature is perfect
+2018-02-23 23:10:01 Max: 72 Min: 55  Probe: 65.64 F Ambient: 64.4 F Action: Temperature is perfect
+2018-02-23 23:15:01 Max: 72 Min: 55  Probe: 65.64 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-23 23:20:02 Max: 72 Min: 55  Probe: 65.53 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-23 23:25:01 Max: 72 Min: 55  Probe: 65.53 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-23 23:30:01 Max: 72 Min: 55  Probe: 65.53 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-23 23:35:02 Max: 72 Min: 55  Probe: 65.53 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-23 23:40:02 Max: 72 Min: 55  Probe: 65.41 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-23 23:45:02 Max: 72 Min: 55  Probe: 65.53 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-23 23:50:02 Max: 72 Min: 55  Probe: 65.41 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-23 23:55:02 Max: 72 Min: 55  Probe: 65.41 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-24 00:00:02 Max: 72 Min: 55  Probe: 65.3 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-24 00:05:01 Max: 72 Min: 55  Probe: 65.3 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-24 00:10:02 Max: 72 Min: 55  Probe: 65.3 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-24 00:15:02 Max: 72 Min: 55  Probe: 65.3 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-24 00:20:02 Max: 72 Min: 55  Probe: 65.3 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-24 00:25:02 Max: 72 Min: 55  Probe: 65.19 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-24 00:30:02 Max: 72 Min: 55  Probe: 65.19 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-24 00:35:01 Max: 72 Min: 55  Probe: 65.19 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-24 00:40:02 Max: 72 Min: 55  Probe: 65.08 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-24 00:45:02 Max: 72 Min: 55  Probe: 65.08 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-24 00:50:01 Max: 72 Min: 55  Probe: 65.08 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-24 00:55:01 Max: 72 Min: 55  Probe: 65.08 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-24 01:00:01 Max: 72 Min: 55  Probe: 64.96 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 01:05:02 Max: 72 Min: 55  Probe: 64.96 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 01:10:02 Max: 72 Min: 55  Probe: 64.96 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 01:15:02 Max: 72 Min: 55  Probe: 64.96 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 01:20:02 Max: 72 Min: 55  Probe: 64.85 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 01:25:01 Max: 72 Min: 55  Probe: 64.85 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 01:30:02 Max: 72 Min: 55  Probe: 64.85 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 01:35:02 Max: 72 Min: 55  Probe: 64.85 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 01:40:02 Max: 72 Min: 55  Probe: 64.74 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 01:45:02 Max: 72 Min: 55  Probe: 64.74 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 01:50:02 Max: 72 Min: 55  Probe: 64.74 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 01:55:02 Max: 72 Min: 55  Probe: 64.74 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-24 02:00:01 Max: 72 Min: 55  Probe: 64.74 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-24 02:05:01 Max: 72 Min: 55  Probe: 64.63 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-24 02:10:01 Max: 72 Min: 55  Probe: 64.63 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-24 02:15:02 Max: 72 Min: 55  Probe: 64.63 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 02:20:01 Max: 72 Min: 55  Probe: 64.63 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 02:25:01 Max: 72 Min: 55  Probe: 64.51 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 02:30:01 Max: 72 Min: 55  Probe: 64.51 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 02:35:02 Max: 72 Min: 55  Probe: 64.51 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 02:40:02 Max: 72 Min: 55  Probe: 64.51 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 02:45:01 Max: 72 Min: 55  Probe: 64.4 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 02:50:02 Max: 72 Min: 55  Probe: 64.4 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 02:55:01 Max: 72 Min: 55  Probe: 64.4 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 03:00:02 Max: 72 Min: 55  Probe: 64.4 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 03:05:02 Max: 72 Min: 55  Probe: 64.29 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 03:10:02 Max: 72 Min: 55  Probe: 64.29 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-24 03:15:02 Max: 72 Min: 55  Probe: 64.29 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-24 03:20:02 Max: 72 Min: 55  Probe: 64.29 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-24 03:25:01 Max: 72 Min: 55  Probe: 64.18 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-24 03:30:01 Max: 72 Min: 55  Probe: 64.18 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 03:35:02 Max: 72 Min: 55  Probe: 64.18 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 03:40:02 Max: 72 Min: 55  Probe: 64.18 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 03:45:02 Max: 72 Min: 55  Probe: 64.06 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 03:50:01 Max: 72 Min: 55  Probe: 64.06 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 03:55:01 Max: 72 Min: 55  Probe: 64.06 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 04:00:02 Max: 72 Min: 55  Probe: 64.06 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 04:05:01 Max: 72 Min: 55  Probe: 64.06 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 04:10:02 Max: 72 Min: 55  Probe: 63.95 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 04:15:02 Max: 72 Min: 55  Probe: 63.95 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 04:20:02 Max: 72 Min: 55  Probe: 63.95 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 04:25:02 Max: 72 Min: 55  Probe: 63.84 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 04:30:02 Max: 72 Min: 55  Probe: 63.84 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-24 04:35:02 Max: 72 Min: 55  Probe: 63.84 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 04:40:02 Max: 72 Min: 55  Probe: 63.84 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 04:45:02 Max: 72 Min: 55  Probe: 63.84 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 04:50:02 Max: 72 Min: 55  Probe: 63.73 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 04:55:02 Max: 72 Min: 55  Probe: 63.73 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 05:00:01 Max: 72 Min: 55  Probe: 63.73 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 05:05:02 Max: 72 Min: 55  Probe: 63.73 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 05:10:02 Max: 72 Min: 55  Probe: 63.61 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 05:15:02 Max: 72 Min: 55  Probe: 63.61 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 05:20:02 Max: 72 Min: 55  Probe: 63.73 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 05:25:01 Max: 72 Min: 55  Probe: 63.61 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 05:30:01 Max: 72 Min: 55  Probe: 63.61 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 05:35:02 Max: 72 Min: 55  Probe: 63.5 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 05:40:01 Max: 72 Min: 55  Probe: 63.5 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 05:45:02 Max: 72 Min: 55  Probe: 63.5 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 05:50:02 Max: 72 Min: 55  Probe: 63.5 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 05:55:01 Max: 72 Min: 55  Probe: 63.5 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 06:00:02 Max: 72 Min: 55  Probe: 63.39 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 06:05:01 Max: 72 Min: 55  Probe: 63.39 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 06:10:02 Max: 72 Min: 55  Probe: 63.39 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 06:15:02 Max: 72 Min: 55  Probe: 63.39 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 06:20:02 Max: 72 Min: 55  Probe: 63.28 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 06:25:03 Max: 72 Min: 55  Probe: 63.28 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 06:30:02 Max: 72 Min: 55  Probe: 63.28 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 06:35:01 Max: 72 Min: 55  Probe: 63.28 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 06:40:02 Max: 72 Min: 55  Probe: 63.16 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 06:45:01 Max: 72 Min: 55  Probe: 63.16 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 06:50:02 Max: 72 Min: 55  Probe: 63.16 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 06:55:01 Max: 72 Min: 55  Probe: 63.16 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-24 07:00:03 Max: 72 Min: 55  Probe: 63.16 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 07:05:02 Max: 72 Min: 55  Probe: 63.16 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 07:10:01 Max: 72 Min: 55  Probe: 63.05 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 07:15:02 Max: 72 Min: 55  Probe: 63.05 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 07:20:01 Max: 72 Min: 55  Probe: 63.05 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 07:25:02 Max: 72 Min: 55  Probe: 63.05 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 07:30:02 Max: 72 Min: 55  Probe: 62.94 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 07:35:01 Max: 72 Min: 55  Probe: 62.94 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 07:40:01 Max: 72 Min: 55  Probe: 62.94 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 07:45:02 Max: 72 Min: 55  Probe: 62.94 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 07:50:02 Max: 72 Min: 55  Probe: 62.83 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 07:55:02 Max: 72 Min: 55  Probe: 62.83 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 08:00:02 Max: 72 Min: 55  Probe: 62.83 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 08:05:01 Max: 72 Min: 55  Probe: 62.83 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 08:10:02 Max: 72 Min: 55  Probe: 62.83 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-24 08:15:02 Max: 72 Min: 55  Probe: 62.83 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-24 08:20:02 Max: 72 Min: 55  Probe: 62.83 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-24 08:25:02 Max: 72 Min: 55  Probe: 62.71 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 08:30:01 Max: 72 Min: 55  Probe: 62.71 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 08:35:02 Max: 72 Min: 55  Probe: 62.71 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 08:40:02 Max: 72 Min: 55  Probe: 62.71 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-24 08:45:01 Max: 72 Min: 55  Probe: 62.71 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-24 08:50:02 Max: 72 Min: 55  Probe: 62.71 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-24 08:55:02 Max: 72 Min: 55  Probe: 62.71 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-24 09:00:02 Max: 72 Min: 55  Probe: 62.71 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-24 09:05:01 Max: 72 Min: 55  Probe: 62.6 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-24 09:10:02 Max: 72 Min: 55  Probe: 62.6 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 09:15:01 Max: 72 Min: 55  Probe: 62.6 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 09:20:02 Max: 72 Min: 55  Probe: 62.6 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 09:25:01 Max: 72 Min: 55  Probe: 62.49 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 09:30:01 Max: 72 Min: 55  Probe: 62.49 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 09:35:01 Max: 72 Min: 55  Probe: 62.49 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 09:40:02 Max: 72 Min: 55  Probe: 62.49 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 09:45:01 Max: 72 Min: 55  Probe: 62.49 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 09:50:01 Max: 72 Min: 55  Probe: 62.49 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 09:55:01 Max: 72 Min: 55  Probe: 62.38 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 10:00:02 Max: 72 Min: 55  Probe: 62.38 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 10:05:02 Max: 72 Min: 55  Probe: 62.38 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 10:10:02 Max: 72 Min: 55  Probe: 62.38 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 10:15:01 Max: 72 Min: 55  Probe: 62.38 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 10:20:02 Max: 72 Min: 55  Probe: 62.26 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 10:25:02 Max: 72 Min: 55  Probe: 62.26 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 10:30:02 Max: 72 Min: 55  Probe: 62.26 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 10:35:01 Max: 72 Min: 55  Probe: 62.26 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 10:40:02 Max: 72 Min: 55  Probe: 62.15 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-24 10:45:01 Max: 72 Min: 55  Probe: 62.15 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 10:50:02 Max: 72 Min: 55  Probe: 62.15 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-24 10:55:01 Max: 72 Min: 55  Probe: 62.15 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 11:00:02 Max: 72 Min: 55  Probe: 62.15 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 11:05:02 Max: 72 Min: 55  Probe: 62.15 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 11:10:01 Max: 72 Min: 55  Probe: 62.15 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 11:15:02 Max: 72 Min: 55  Probe: 62.04 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 11:20:01 Max: 72 Min: 55  Probe: 62.04 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 11:25:02 Max: 72 Min: 55  Probe: 62.04 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 11:30:02 Max: 72 Min: 55  Probe: 62.04 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 11:35:01 Max: 72 Min: 55  Probe: 62.04 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 11:40:01 Max: 72 Min: 55  Probe: 62.04 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 11:45:02 Max: 72 Min: 55  Probe: 61.93 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 11:50:02 Max: 72 Min: 55  Probe: 61.93 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 11:55:02 Max: 72 Min: 55  Probe: 61.93 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 12:00:02 Max: 72 Min: 55  Probe: 61.93 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 12:05:01 Max: 72 Min: 55  Probe: 61.93 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 12:10:01 Max: 72 Min: 55  Probe: 61.81 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 12:15:02 Max: 72 Min: 55  Probe: 61.81 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 12:20:02 Max: 72 Min: 55  Probe: 61.81 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 12:25:01 Max: 72 Min: 55  Probe: 61.81 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 12:30:02 Max: 72 Min: 55  Probe: 61.81 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 12:35:01 Max: 72 Min: 55  Probe: 61.81 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 12:40:02 Max: 72 Min: 55  Probe: 61.81 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 12:45:02 Max: 72 Min: 55  Probe: 61.7 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 12:50:02 Max: 72 Min: 55  Probe: 61.7 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 12:55:01 Max: 72 Min: 55  Probe: 61.7 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 13:00:01 Max: 72 Min: 55  Probe: 61.7 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 13:05:02 Max: 72 Min: 55  Probe: 61.59 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 13:10:02 Max: 72 Min: 55  Probe: 61.59 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 13:15:02 Max: 72 Min: 55  Probe: 61.59 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 13:20:01 Max: 72 Min: 55  Probe: 61.59 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 13:25:02 Max: 72 Min: 55  Probe: 61.48 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 13:30:01 Max: 72 Min: 55  Probe: 61.48 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 13:35:02 Max: 72 Min: 55  Probe: 61.48 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 13:40:01 Max: 72 Min: 55  Probe: 61.48 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 13:45:02 Max: 72 Min: 55  Probe: 61.36 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 13:50:02 Max: 72 Min: 55  Probe: 61.36 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 13:55:01 Max: 72 Min: 55  Probe: 61.36 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 14:00:02 Max: 72 Min: 55  Probe: 61.36 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 14:05:01 Max: 72 Min: 55  Probe: 61.36 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 14:10:02 Max: 72 Min: 55  Probe: 61.36 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 14:15:02 Max: 72 Min: 55  Probe: 61.36 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-24 14:20:02 Max: 72 Min: 55  Probe: 61.25 F Ambient: 64.4 F Action: Temperature is perfect
+2018-02-24 14:25:02 Max: 72 Min: 55  Probe: 61.25 F Ambient: 64.4 F Action: Temperature is perfect
+2018-02-24 14:30:02 Max: 72 Min: 55  Probe: 61.25 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-24 14:35:02 Max: 72 Min: 55  Probe: 61.25 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-24 14:40:02 Max: 72 Min: 55  Probe: 61.25 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 14:45:02 Max: 72 Min: 55  Probe: 61.25 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 14:50:02 Max: 72 Min: 55  Probe: 61.25 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 14:55:02 Max: 72 Min: 55  Probe: 61.25 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 15:00:02 Max: 72 Min: 55  Probe: 61.25 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 15:05:02 Max: 72 Min: 55  Probe: 61.14 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-24 15:10:01 Max: 72 Min: 55  Probe: 61.25 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-24 15:15:02 Max: 72 Min: 55  Probe: 61.25 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-24 15:20:02 Max: 72 Min: 55  Probe: 61.25 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-24 15:25:02 Max: 72 Min: 55  Probe: 61.14 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-24 15:30:02 Max: 72 Min: 55  Probe: 61.14 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-24 15:35:02 Max: 72 Min: 55  Probe: 61.14 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 15:40:02 Max: 72 Min: 55  Probe: 61.14 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 15:45:01 Max: 72 Min: 55  Probe: 61.14 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 15:50:01 Max: 72 Min: 55  Probe: 61.14 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 15:55:02 Max: 72 Min: 55  Probe: 61.14 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 16:00:02 Max: 72 Min: 55  Probe: 61.03 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 16:05:01 Max: 72 Min: 55  Probe: 61.03 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 16:10:02 Max: 72 Min: 55  Probe: 61.03 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 16:15:02 Max: 72 Min: 55  Probe: 61.03 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 16:20:02 Max: 72 Min: 55  Probe: 61.03 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 16:25:02 Max: 72 Min: 55  Probe: 61.03 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 16:30:02 Max: 72 Min: 55  Probe: 61.03 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 16:35:02 Max: 72 Min: 55  Probe: 60.91 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 16:40:02 Max: 72 Min: 55  Probe: 60.91 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 16:45:01 Max: 72 Min: 55  Probe: 60.91 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 16:50:02 Max: 72 Min: 55  Probe: 60.91 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 16:55:02 Max: 72 Min: 55  Probe: 60.91 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 17:00:02 Max: 72 Min: 55  Probe: 60.91 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 17:05:02 Max: 72 Min: 55  Probe: 60.91 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-24 17:10:02 Max: 72 Min: 55  Probe: 60.8 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 17:15:02 Max: 72 Min: 55  Probe: 60.8 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 17:20:02 Max: 72 Min: 55  Probe: 60.8 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 17:25:01 Max: 72 Min: 55  Probe: 60.8 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 17:30:02 Max: 72 Min: 55  Probe: 60.8 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 17:35:02 Max: 72 Min: 55  Probe: 60.8 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 17:40:02 Max: 72 Min: 55  Probe: 60.8 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 17:45:01 Max: 72 Min: 55  Probe: 60.8 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 17:50:02 Max: 72 Min: 55  Probe: 60.69 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 17:55:02 Max: 72 Min: 55  Probe: 60.69 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 18:00:02 Max: 72 Min: 55  Probe: 60.69 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 18:05:02 Max: 72 Min: 55  Probe: 60.69 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 18:10:01 Max: 72 Min: 55  Probe: 60.69 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 18:15:02 Max: 72 Min: 55  Probe: 60.69 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 18:20:02 Max: 72 Min: 55  Probe: 60.69 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 18:25:02 Max: 72 Min: 55  Probe: 60.58 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 18:30:01 Max: 72 Min: 55  Probe: 60.58 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 18:35:02 Max: 72 Min: 55  Probe: 60.58 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 18:40:01 Max: 72 Min: 55  Probe: 60.58 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 18:45:02 Max: 72 Min: 55  Probe: 60.58 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 18:50:02 Max: 72 Min: 55  Probe: 60.46 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-24 18:55:01 Max: 72 Min: 55  Probe: 60.46 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-24 19:00:02 Max: 72 Min: 55  Probe: 60.46 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-24 19:05:02 Max: 72 Min: 55  Probe: 60.46 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 19:10:02 Max: 72 Min: 55  Probe: 60.46 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-24 19:15:02 Max: 72 Min: 55  Probe: 60.46 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 19:20:02 Max: 72 Min: 55  Probe: 60.46 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 19:25:02 Max: 72 Min: 55  Probe: 60.46 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 19:30:02 Max: 72 Min: 55  Probe: 60.46 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 19:35:02 Max: 72 Min: 55  Probe: 60.46 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 19:40:01 Max: 72 Min: 55  Probe: 60.35 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 19:45:01 Max: 72 Min: 55  Probe: 60.35 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 19:50:02 Max: 72 Min: 55  Probe: 60.35 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 19:55:01 Max: 72 Min: 55  Probe: 60.35 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 20:00:01 Max: 72 Min: 55  Probe: 60.35 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 20:05:01 Max: 72 Min: 55  Probe: 60.35 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 20:10:02 Max: 72 Min: 55  Probe: 60.35 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 20:15:01 Max: 72 Min: 55  Probe: 60.35 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 20:20:01 Max: 72 Min: 55  Probe: 60.35 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 20:25:02 Max: 72 Min: 55  Probe: 60.35 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 20:30:02 Max: 72 Min: 55  Probe: 60.24 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 20:35:01 Max: 72 Min: 55  Probe: 60.24 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 20:40:01 Max: 72 Min: 55  Probe: 60.24 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 20:45:01 Max: 72 Min: 55  Probe: 60.24 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 20:50:02 Max: 72 Min: 55  Probe: 60.24 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 20:55:02 Max: 72 Min: 55  Probe: 60.24 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 21:00:02 Max: 72 Min: 55  Probe: 60.24 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 21:05:02 Max: 72 Min: 55  Probe: 60.24 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 21:10:02 Max: 72 Min: 55  Probe: 60.24 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 21:15:01 Max: 72 Min: 55  Probe: 60.13 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 21:20:03 Max: 72 Min: 55  Probe: 60.13 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 21:25:01 Max: 72 Min: 55  Probe: 60.13 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 21:30:01 Max: 72 Min: 55  Probe: 60.13 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 21:35:01 Max: 72 Min: 55  Probe: 60.13 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-24 21:40:01 Max: 72 Min: 55  Probe: 60.13 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 21:45:02 Max: 72 Min: 55  Probe: 60.13 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 21:50:01 Max: 72 Min: 55  Probe: 60.13 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 21:55:02 Max: 72 Min: 55  Probe: 60.13 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 22:00:02 Max: 72 Min: 55  Probe: 60.13 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 22:05:01 Max: 72 Min: 55  Probe: 60.13 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 22:10:02 Max: 72 Min: 55  Probe: 60.13 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 22:15:02 Max: 72 Min: 55  Probe: 60.01 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 22:20:02 Max: 72 Min: 55  Probe: 60.01 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 22:25:01 Max: 72 Min: 55  Probe: 60.01 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 22:30:02 Max: 72 Min: 55  Probe: 60.01 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 22:35:01 Max: 72 Min: 55  Probe: 60.01 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 22:40:01 Max: 72 Min: 55  Probe: 60.01 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 22:45:02 Max: 72 Min: 55  Probe: 60.01 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 22:50:02 Max: 72 Min: 55  Probe: 60.01 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 22:55:01 Max: 72 Min: 55  Probe: 60.01 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 23:00:02 Max: 72 Min: 55  Probe: 60.01 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-24 23:05:02 Max: 72 Min: 55  Probe: 60.01 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 23:10:01 Max: 72 Min: 55  Probe: 59.9 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 23:15:02 Max: 72 Min: 55  Probe: 59.9 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 23:20:02 Max: 72 Min: 55  Probe: 59.9 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 23:25:01 Max: 72 Min: 55  Probe: 59.9 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 23:30:01 Max: 72 Min: 55  Probe: 59.9 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 23:35:02 Max: 72 Min: 55  Probe: 59.9 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 23:40:02 Max: 72 Min: 55  Probe: 59.9 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 23:45:02 Max: 72 Min: 55  Probe: 59.9 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 23:50:02 Max: 72 Min: 55  Probe: 59.9 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-24 23:55:02 Max: 72 Min: 55  Probe: 59.9 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-25 00:00:02 Max: 72 Min: 55  Probe: 59.79 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-25 00:05:02 Max: 72 Min: 55  Probe: 59.79 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-25 00:10:02 Max: 72 Min: 55  Probe: 59.79 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-25 00:15:02 Max: 72 Min: 55  Probe: 59.79 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-25 00:20:02 Max: 72 Min: 55  Probe: 59.79 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-25 00:25:02 Max: 72 Min: 55  Probe: 59.79 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-25 00:30:01 Max: 72 Min: 55  Probe: 59.79 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-25 00:35:02 Max: 72 Min: 55  Probe: 59.79 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-25 00:40:02 Max: 72 Min: 55  Probe: 59.79 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-25 00:45:02 Max: 72 Min: 55  Probe: 59.79 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-25 00:50:02 Max: 72 Min: 55  Probe: 59.79 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-25 00:55:01 Max: 72 Min: 55  Probe: 59.79 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-25 01:00:02 Max: 72 Min: 55  Probe: 59.79 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-25 01:05:02 Max: 72 Min: 55  Probe: 59.79 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-25 01:10:01 Max: 72 Min: 55  Probe: 59.79 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-25 01:15:02 Max: 72 Min: 55  Probe: 59.79 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-25 01:20:01 Max: 72 Min: 55  Probe: 59.68 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-25 01:25:02 Max: 72 Min: 55  Probe: 59.68 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-25 01:30:01 Max: 72 Min: 55  Probe: 59.68 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-25 01:35:01 Max: 72 Min: 55  Probe: 59.68 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-25 01:40:01 Max: 72 Min: 55  Probe: 59.68 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-25 01:45:02 Max: 72 Min: 55  Probe: 59.68 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-25 01:50:02 Max: 72 Min: 55  Probe: 59.68 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-25 01:55:01 Max: 72 Min: 55  Probe: 59.68 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-25 02:00:02 Max: 72 Min: 55  Probe: 59.68 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-25 02:05:01 Max: 72 Min: 55  Probe: 59.68 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-25 02:10:01 Max: 72 Min: 55  Probe: 59.68 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-25 02:15:02 Max: 72 Min: 55  Probe: 59.68 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-25 02:20:02 Max: 72 Min: 55  Probe: 59.68 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-25 02:25:02 Max: 72 Min: 55  Probe: 59.68 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-25 02:30:01 Max: 72 Min: 55  Probe: 59.56 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-25 02:35:02 Max: 72 Min: 55  Probe: 59.56 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-25 02:40:01 Max: 72 Min: 55  Probe: 59.56 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-25 02:45:01 Max: 72 Min: 55  Probe: 59.56 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-25 02:50:02 Max: 72 Min: 55  Probe: 59.56 F Ambient: 62.6 F Action: Temperature is perfect
+2018-02-25 02:55:02 Max: 72 Min: 55  Probe: 59.56 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-25 03:00:02 Max: 72 Min: 55  Probe: 59.56 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-25 03:05:01 Max: 72 Min: 55  Probe: 59.56 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-25 03:10:02 Max: 72 Min: 55  Probe: 59.56 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-25 03:15:02 Max: 72 Min: 55  Probe: 59.56 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-25 03:20:02 Max: 72 Min: 55  Probe: 59.56 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-25 03:25:02 Max: 72 Min: 55  Probe: 59.56 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-25 03:30:01 Max: 72 Min: 55  Probe: 59.45 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-25 03:35:01 Max: 72 Min: 55  Probe: 59.45 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-25 03:40:02 Max: 72 Min: 55  Probe: 59.45 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-25 03:45:02 Max: 72 Min: 55  Probe: 59.45 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-25 03:50:02 Max: 72 Min: 55  Probe: 59.45 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-25 03:55:01 Max: 72 Min: 55  Probe: 59.45 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-25 04:00:02 Max: 72 Min: 55  Probe: 59.45 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-25 04:05:02 Max: 72 Min: 55  Probe: 59.45 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-25 04:10:01 Max: 72 Min: 55  Probe: 59.45 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-25 04:15:02 Max: 72 Min: 55  Probe: 59.45 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-25 04:20:02 Max: 72 Min: 55  Probe: 59.45 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-25 04:25:02 Max: 72 Min: 55  Probe: 59.45 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-25 04:30:02 Max: 72 Min: 55  Probe: 59.45 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-25 04:35:02 Max: 72 Min: 55  Probe: 59.34 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-25 04:40:01 Max: 72 Min: 55  Probe: 59.34 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-25 04:45:01 Max: 72 Min: 55  Probe: 59.34 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-25 04:50:01 Max: 72 Min: 55  Probe: 59.45 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-25 04:55:02 Max: 72 Min: 55  Probe: 59.34 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-25 05:00:01 Max: 72 Min: 55  Probe: 59.34 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-25 05:05:01 Max: 72 Min: 55  Probe: 59.34 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-25 05:10:02 Max: 72 Min: 55  Probe: 59.34 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-25 05:15:02 Max: 72 Min: 55  Probe: 59.34 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-25 05:20:02 Max: 72 Min: 55  Probe: 59.34 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-25 05:25:02 Max: 72 Min: 55  Probe: 59.34 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-25 05:30:02 Max: 72 Min: 55  Probe: 59.34 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-25 05:35:01 Max: 72 Min: 55  Probe: 59.34 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-25 05:40:02 Max: 72 Min: 55  Probe: 59.34 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-25 05:45:01 Max: 72 Min: 55  Probe: 59.34 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-25 05:50:02 Max: 72 Min: 55  Probe: 59.34 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-25 05:55:02 Max: 72 Min: 55  Probe: 59.23 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-25 06:00:01 Max: 72 Min: 55  Probe: 59.34 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-25 06:05:01 Max: 72 Min: 55  Probe: 59.23 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-25 06:10:02 Max: 72 Min: 55  Probe: 59.23 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-25 06:15:02 Max: 72 Min: 55  Probe: 59.23 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-25 06:20:01 Max: 72 Min: 55  Probe: 59.23 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-25 06:25:03 Max: 72 Min: 55  Probe: 59.23 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-25 06:30:01 Max: 72 Min: 55  Probe: 59.23 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-25 06:35:02 Max: 72 Min: 55  Probe: 59.23 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-25 06:40:02 Max: 72 Min: 55  Probe: 59.23 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-25 06:45:02 Max: 72 Min: 55  Probe: 59.23 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-25 06:50:01 Max: 72 Min: 55  Probe: 59.23 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-25 06:55:01 Max: 72 Min: 55  Probe: 59.23 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-25 07:00:01 Max: 72 Min: 55  Probe: 59.23 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-25 07:05:02 Max: 72 Min: 55  Probe: 59.11 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-25 07:10:01 Max: 72 Min: 55  Probe: 59.11 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-25 07:15:01 Max: 72 Min: 55  Probe: 59.11 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-25 07:20:01 Max: 72 Min: 55  Probe: 59.11 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-25 07:25:02 Max: 72 Min: 55  Probe: 59.11 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-25 07:30:02 Max: 72 Min: 55  Probe: 59.11 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-25 07:35:02 Max: 72 Min: 55  Probe: 59.11 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-25 07:40:01 Max: 72 Min: 55  Probe: 59.11 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-25 07:45:02 Max: 72 Min: 55  Probe: 59.11 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-25 07:50:01 Max: 72 Min: 55  Probe: 59.11 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-25 07:55:02 Max: 72 Min: 55  Probe: 59.11 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-25 08:00:01 Max: 72 Min: 55  Probe: 59.0 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-25 08:05:02 Max: 72 Min: 55  Probe: 59.11 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-25 08:10:01 Max: 72 Min: 55  Probe: 59.0 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-25 08:15:02 Max: 72 Min: 55  Probe: 59.0 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-25 08:20:02 Max: 72 Min: 55  Probe: 59.0 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-25 08:25:02 Max: 72 Min: 55  Probe: 59.0 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-25 08:30:02 Max: 72 Min: 55  Probe: 59.0 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-25 08:35:02 Max: 72 Min: 55  Probe: 59.0 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-25 08:40:02 Max: 72 Min: 55  Probe: 59.0 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-25 08:45:02 Max: 72 Min: 55  Probe: 59.0 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-25 08:50:02 Max: 72 Min: 55  Probe: 59.0 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-25 08:55:02 Max: 72 Min: 55  Probe: 59.0 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-25 09:00:02 Max: 72 Min: 55  Probe: 59.0 F Ambient: 60.8 F Action: Temperature is perfect
+2018-02-25 09:05:01 Max: 72 Min: 55  Probe: 59.0 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-25 09:10:01 Max: 72 Min: 55  Probe: 59.0 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-25 09:15:01 Max: 72 Min: 55  Probe: 59.0 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-25 09:20:02 Max: 72 Min: 55  Probe: 58.89 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-25 09:25:02 Max: 72 Min: 55  Probe: 58.89 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-25 09:30:02 Max: 72 Min: 55  Probe: 58.89 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-25 09:35:02 Max: 72 Min: 55  Probe: 58.89 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-25 09:40:02 Max: 72 Min: 55  Probe: 58.89 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-25 09:45:02 Max: 72 Min: 55  Probe: 58.89 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-25 09:50:02 Max: 72 Min: 55  Probe: 58.89 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-25 09:55:01 Max: 72 Min: 55  Probe: 58.89 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-25 10:00:02 Max: 72 Min: 55  Probe: 58.89 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-25 10:05:01 Max: 72 Min: 55  Probe: 58.78 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-25 10:10:02 Max: 72 Min: 55  Probe: 58.78 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-25 10:15:01 Max: 72 Min: 55  Probe: 58.78 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-25 10:20:02 Max: 72 Min: 55  Probe: 58.78 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-25 10:25:01 Max: 72 Min: 55  Probe: 58.78 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-25 10:30:02 Max: 72 Min: 55  Probe: 58.78 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-25 10:35:02 Max: 72 Min: 55  Probe: 58.78 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-25 10:40:01 Max: 72 Min: 55  Probe: 58.78 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-25 10:45:01 Max: 72 Min: 55  Probe: 58.66 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-25 10:50:02 Max: 72 Min: 55  Probe: 58.66 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-25 10:55:02 Max: 72 Min: 55  Probe: 58.66 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-25 11:00:02 Max: 72 Min: 55  Probe: 58.66 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-25 11:05:02 Max: 72 Min: 55  Probe: 58.66 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-25 11:10:02 Max: 72 Min: 55  Probe: 58.66 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-25 11:15:02 Max: 72 Min: 55  Probe: 58.55 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-25 11:20:02 Max: 72 Min: 55  Probe: 58.55 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-25 11:25:01 Max: 72 Min: 55  Probe: 58.55 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-25 11:30:02 Max: 72 Min: 55  Probe: 58.55 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-25 11:35:02 Max: 72 Min: 55  Probe: 58.55 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-25 11:40:02 Max: 72 Min: 55  Probe: 58.55 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-25 11:45:01 Max: 72 Min: 55  Probe: 58.55 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-25 11:50:02 Max: 72 Min: 55  Probe: 58.44 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-25 11:55:02 Max: 72 Min: 55  Probe: 58.44 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-25 12:00:02 Max: 72 Min: 55  Probe: 58.44 F Ambient: 57.2 F Action: Temperature is perfect
+2018-02-25 12:05:02 Max: 72 Min: 55  Probe: 58.44 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-25 12:10:02 Max: 72 Min: 55  Probe: 58.44 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-25 12:15:02 Max: 72 Min: 55  Probe: 58.44 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-25 12:20:02 Max: 72 Min: 55  Probe: 58.44 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-25 12:25:02 Max: 72 Min: 55  Probe: 58.44 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-25 12:30:02 Max: 72 Min: 55  Probe: 58.44 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-25 12:35:01 Max: 72 Min: 55  Probe: 58.33 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-25 12:40:02 Max: 72 Min: 55  Probe: 58.44 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-25 12:45:01 Max: 72 Min: 55  Probe: 58.33 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-25 12:50:02 Max: 72 Min: 55  Probe: 58.33 F Ambient: 59.0 F Action: Temperature is perfect
+2018-02-25 12:55:01 Max: 72 Min: 55  Probe: 58.33 F Ambient: 59.0 F Action: Temperature is perfect

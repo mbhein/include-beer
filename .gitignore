@@ -1,16 +1,14 @@
-# Include-beer specific
+#Include-beer specific
 Heaton
 
-# Exclude build/dev log files but keep brewlog/example.log
-*.log
-!example.log
+#Exclude build/dev log files
+brewlog/
 
-
-# Exclude symlinked stubs
+#Scripts and folders used to mimic PI probes
 Adafruit_DHT.py
-
-# Include SDK stubs
-!SDK/*
+282018/
+28-2018/
+w1_slave
 
 #Legacy folders
 

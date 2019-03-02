@@ -28,7 +28,10 @@ class getProps(object):
         self.brewLogDir = "{}{}/".format(self.baseDir,cp.get('main','brewLogDir'))
 
         #brewing Properties
-        self.action = cp.get('main','action')
+        if os.getenv('include_beer_fermentation_stage',0):
+            self.action = os.environ['include_beer_fermentation_stage']
+        else:
+            self.action = cp.get('main','action')
         self.brewlog = "{}{}_{}.log".format(self.brewLogDir,self.action,cp.get('main','beerName'))
         self.fermHigh = cp.get('main','fermHigh')
         self.fermLow = cp.get('main','fermLow')
@@ -38,7 +41,10 @@ class getProps(object):
         self.ambientPin = cp.get('ambient','pin')
 
         #set vessel propbe properites
-        self.probeBaseDir = cp.get('vesselProbe','probeBaseDir')
+        if os.getenv('include_beer_probe_device_base',0):
+            self.probeBaseDir = os.environ['include_beer_probe_device_base']
+        else:
+            self.probeBaseDir = cp.get('vesselProbe','probeBaseDir')
         self.probeDeviceFile = cp.get('vesselProbe','probeDeviceFile')
 
         #set RF Outlet Properties
@@ -202,7 +208,7 @@ def main():
                     turnHeatOff()
 
         elif action == 'sec':
-            pass
+            actionMsg = 'Secondary - no action performed'
 
         logBuffer.append(actionMsg)
         logger.debug(actionMsg)

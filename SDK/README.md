@@ -12,3 +12,11 @@ Use the contents of this directory to develop include-beer.
 
     # setup DS18B20 stub
     export include_beer_probe_device_base=./SDK/
+
+
+## Brewer's Friend modules
+    # set api_key
+    export include_beer_brewersfriend_api_key={{ your API key }}
+
+    # set brew_session_id
+    export include_beer_brewersfriend_brew_session_id={{ brew_session_id }}

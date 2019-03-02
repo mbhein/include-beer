@@ -65,9 +65,12 @@ def readProbe(probeBaseDir,probeDeviceFile):
 
 def main():
     #default values to run probeTemp.py solo
-    probeBaseDir = '.'
+    if os.getenv('include_beer_probe_device_base',0):
+        probeBaseDir = os.environ['include_beer_probe_device_base']
+    else:
+        probeBaseDir = '/sys/bus/w1/devices'
     probeDeviceFile = '/w1_slave'
-    
+
     probeTemp = readProbe(probeBaseDir,probeDeviceFile)
     print('Probe temperature: ' + str(probeTemp))
 

@@ -2,6 +2,11 @@
 
 Include-beer is a hobby project to automate portions of home-brewing using a combination of a Raspberry PI, sensors, heating elements, and Python3.
 
+# Project Status
+
+Master: [![Build Status](https://travis-ci.com/mbhein/include-beer.svg?branch=master)](https://travis-ci.com/mbhein/include-beer)
+Dev: [![Build Status](https://travis-ci.com/mbhein/include-beer.svg?branch=devel)](https://travis-ci.com/mbhein/include-beer)
+
 # Overview
 
 Include-beer maintains the desired internal temperature of fermentation vessel by using a probe in a Thermowell in the vessel and a outlet controlled heating element to raise the temperature as needed.
@@ -21,7 +26,7 @@ Include-beer should work with any size fermentation vessel and heating element. 
 
 # Required Software Packages
 1. Python3
-2. <a href="http://wiringpi.com/">WiringPI</a>
+2. <a href="http://wiringpi.com/">WiringPi</a>
 3. <a href="https://github.com/timleland/rfoutlet">RFOutlent and RFSniffer</a>
 4. <a href="https://github.com/adafruit/Adafruit_Python_DHT">Adafruit DHT11 python library</a>
 5. Docker
@@ -31,7 +36,7 @@ Include-beer should work with any size fermentation vessel and heating element. 
 
       cd ~
       git clone git://git.drogon.net/wiringPi
-      cd wiringPI
+      cd wiringPi
       ./build
       # verify wiringPi is installed
       gpio -v
@@ -56,7 +61,7 @@ Include-beer should work with any size fermentation vessel and heating element. 
       git clone https://github.com/adafruit/Adafruit_Python_DHT.git
       cd Adafruit_Python_DHT
       # python3 install
-      sudo apt-get install python3-dev
+      sudo apt-get install python3-dev python3-pip
       sudo python3 setup.py install
 
 # Configure Project
@@ -71,9 +76,9 @@ Run project manually
 
 Schedule project via cron to run every 5 minutes
 
-    */5 * * * * cd {{ project directory }} &&  python3 brew.py
+    */5 * * * * cd {{ project directory }} && python3 brew.py
 
-# View Brew long
+# View Brew log
 See [include-beer-app README](include-beer-app.MD) on running web app to monitor fermentation process.
 
 # Why the name include-beer?

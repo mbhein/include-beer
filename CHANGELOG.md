@@ -1,6 +1,27 @@
 # Changelog
 
-## v3.0 (TBD)
+## v3.1 (2019-03-01)
+**Merged pull requests:**
+
+**Implemented enhancements:**
+- Introduce build tests with Travis-CI [\#26]
+
+**Closed issues:**
+
+**Fixed bugs:**
+- actionMsg is not defined during Secondary fermentation [\#12]
+- probeBaseDir should not have ' ' surrounding it [\#14]
+- default probeTemp to PI not Mac [\#16]
+- default main.properties to PI not Mac [\#15]
+- Remove extra space in CRON declaration for python3 [\#13]
+- Typo in WiringPi install instructions [\#10]
+- Missing apt-get install for Adafruit [\#11]
+- Should be View Brew Log [\#25]
+
+**Paid down technical debt:**
+
+
+## v3.0 (2018-11-25)
 
 **Merged pull requests:**
 

@@ -13,6 +13,10 @@ Use the contents of this directory to develop include-beer.
     # setup DS18B20 stub
     export include_beer_probe_device_base=./SDK/
 
+## Force Fermentation Stage
+    # set fermentation Stage
+    export include_beer_fermentation_stage=[pri|sec]
+
 
 ## Brewer's Friend modules
     # set api_key

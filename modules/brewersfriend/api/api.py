@@ -17,6 +17,7 @@ import requests
 import os
 import csv
 import datetime
+import time
 import pytz
 
 
@@ -29,6 +30,7 @@ class API(object):
         #set Main Properties
         self.log_file = log_file
         self.api_fermentation_url = cp.get('main','api_fermentation_url')
+        self.api_stream_url = cp.get('main','api_stream_url')
 
         # Allow override
         if os.getenv('include_beer_brewersfriend_brew_session_id',0):
@@ -82,7 +84,7 @@ class API(object):
                              "gravity_unit": "P",
                              "ph": "",
                              "comment": comment,
-                             "beer": self.brew_session_id,
+                             "beer": "",
                              "battery": "",
                              "RSSI": "",
                              "angle": "",
@@ -114,7 +116,41 @@ class API(object):
         if response.status_code == 200:
             return (0, response_content)
         else:
-            error_content = "status code: " + str(response.status_code) + ' ' + response_content
+            error_content = "status code: " + str(response.status_code) + ' ' + str(response_content)
+            return (1, error_content)
+
+    def stream_build_JSON(self, temp, comment, temp_target=None, heat_state=None, ambient=None ):
+        stream_JSON = { "name": "include-beer",
+                 "temp": temp,
+                 "temp_unit": "F",
+                 "comment": comment,
+                 "temp_target": temp_target,
+                 "heat_state": heat_state,
+                 "ambient": ambient,
+                 #"beer": self.brew_session_id,
+                }
+        return stream_JSON
+
+    def stream_post(self,json_load):
+
+        api_url = self.api_stream_url
+
+        headers = {'Content-Type': 'application/json', 'X-API-KEY': self.api_key}
+
+        load = json_load
+
+        try:
+            response = requests.post(api_url, headers=headers, json=load)
+        except Exception as e:
+            return (1, str(e))
+        try:
+            response_content = json.loads(response.content.decode('utf-8'))
+        except:
+            response_content = response.content.decode('utf-8')
+        if response.status_code == 200:
+            return (0, response_content)
+        else:
+            error_content = "status code: " + str(response.status_code) + ' ' + str(response_content)
             return (1, error_content)
 
 def main():

@@ -1,5 +1,17 @@
 # Changelog
 
+## v19.1 (2019-04-14)
+**Merged pull requests:**
+
+**Implemented enhancements:**
+- Send fermentation telemetry to Brewer’s Friend Brew Session [\#18](https://github.com/mbhein/include-beer/issues/18)
+
+**Closed issues:**
+
+**Fixed bugs:**
+
+**Paid down technical debt:**
+
 ## v3.1 (2019-03-01)
 **Merged pull requests:**
 

@@ -16,3 +16,10 @@ Use the contents of this directory to develop include-beer.
 ## Force Fermentation Stage
     # set fermentation Stage
     export include_beer_fermentation_stage=[pri|sec]
+
+## Brewer's Friend modules
+    # set api_key
+    export include_beer_brewersfriend_api_key={{ your API key }}
+
+    # set brew_session_id
+    export include_beer_brewersfriend_brew_session_id={{ brew_session_id }}

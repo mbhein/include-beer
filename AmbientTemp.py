@@ -18,8 +18,9 @@ def readAmbient(data_pin_connection):
         humidity = dht_device.humidity
         return temperature_f, humidity
     except RuntimeError as error:
-        # Errors happen fairly often, DHT's are hard to read, just keep going
-        return (error.args[0])
+        print('Errors happen fairly often, DHT''s are hard to read, just keep going after you read the following error msg:')
+        print(error.args[0])
+        exit
 
 
 

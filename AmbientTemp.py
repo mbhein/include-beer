@@ -18,6 +18,7 @@ def readAmbient(data_pin_connection):
         humidity = dht_device.humidity
         return temperature_f, humidity
     except RuntimeError as error:
+        # TODO: figure out better error handling and message return
         print('Errors happen fairly often, DHT''s are hard to read, just keep going after you read the following error msg:')
         print(error.args[0])
         exit
@@ -26,9 +27,13 @@ def readAmbient(data_pin_connection):
 
 def main():
     data_pin_connection = board.D26
-    ambientTemp, ambientHumidity = readAmbient(data_pin_connection)
-    print('Ambient Temperature: ' + str(ambientTemp))
-    print('Ambient Humidity: ' + str(ambientHumidity))
+    try:
+        ambientTemp, ambientHumidity = readAmbient(data_pin_connection)
+        print('Ambient Temperature: ' + str(ambientTemp))
+        print('Ambient Humidity: ' + str(ambientHumidity))
+    except Exception as e:
+        # TODO: figure out better error handling and message return
+        pass
 
 
 if __name__ == '__main__':

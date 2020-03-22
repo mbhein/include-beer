@@ -15,7 +15,8 @@ Adafruit_DHT.py
 
 #Legacy folders
 
-
+#VSCode
+.vscode/**
 
 
 # Byte-compiled / optimized / DLL files

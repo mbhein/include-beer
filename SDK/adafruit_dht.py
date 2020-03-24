@@ -5,8 +5,6 @@
     Usage:
         python3 adafruit_dht.py
 
-    
-
 """
 
 class DHT11(object):

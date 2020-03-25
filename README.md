@@ -28,18 +28,13 @@ Include-beer should work with any size fermentation vessel and heating element. 
 1. Python3
 2. <a href="http://wiringpi.com/">WiringPi</a>
 3. <a href="https://github.com/timleland/rfoutlet">RFOutlent and RFSniffer</a>
-4. <a href="https://github.com/adafruit/Adafruit_Python_DHT">Adafruit DHT11 python library</a>
+4. <a href="https://pypi.org/project/adafruit-circuitpython-dht">Adafruit DHT11 python library</a>
 5. Docker
 
 # Install software packages
 * WiringPI
-
-      cd ~
-      git clone git://git.drogon.net/wiringPi
-      cd wiringPi
-      ./build
-      # verify wiringPi is installed
-      gpio -v
+      
+      sudo apt-get install wiringpi 
 
 * RFOutlet and RFSniffer
 
@@ -57,12 +52,12 @@ Include-beer should work with any size fermentation vessel and heating element. 
 
 * Adafruit DHT11 python library
 
-      cd ~
-      git clone https://github.com/adafruit/Adafruit_Python_DHT.git
-      cd Adafruit_Python_DHT
-      # python3 install
       sudo apt-get install python3-dev python3-pip
-      sudo python3 setup.py install
+      sudo pip3 install --upgrade setuptools
+      sudo pip3 install RPI.GPIO
+      sudo pip3 install adafruit-blinka
+      sudo pip3 install adafruit-circuitpython-dht
+      sudo apt-get install libgpiod2
 
 # Configure Project
 1. Git clone repository into local directory

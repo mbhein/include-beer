@@ -38,7 +38,7 @@ class getProps(object):
         self.heaterControlFile = "{}{}".format(self.baseDir,cp.get('main','controlFile'))
 
         #set Ambient properites
-        self.ambientPin = cp.get('ambient','pin')
+        self.ambientPin = cp.get('ambient','pin', raw=True)
 
         #set vessel propbe properites
         if os.getenv('include_beer_probe_device_base',0):

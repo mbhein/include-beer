@@ -15,7 +15,8 @@ Adafruit_DHT.py
 
 #Legacy folders
 
-
+#VSCode
+.vscode/**
 
 
 # Byte-compiled / optimized / DLL files
@@ -119,3 +120,4 @@ ENV/
 
 # mypy
 .mypy_cache/
+.pytest_cache/v/cache/**

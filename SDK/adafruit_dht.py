@@ -8,6 +8,6 @@
 """
 
 class DHT11(object):
-    def __init__(self, data_pin_connection=None):
+    def __init__(self, data_pin=None):
         self.temperature = 20
         self.humidity = 58

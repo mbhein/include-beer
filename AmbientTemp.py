@@ -33,7 +33,7 @@ def readAmbient(data_pin):
 
 
 def main():
-    data_pin = 6
+    data_pin = 26
     try:
         ambientTemp, ambientHumidity = readAmbient(data_pin)
         print('Ambient Temperature: ' + str(ambientTemp))

@@ -1,5 +1,19 @@
 # Changelog
 
+## v20.1 (2020-03-25)
+**Merged pull requests:**
+Pip Install libraries https://github.com/mbhein/include-beer/pull/32
+
+**Implemented enhancements:**
+- Moved to using Python modules via pip for adafruit DHT sensors and RPI.GPIO
+- Moved to using apt-get for WiringPI
+
+**Closed issues:**
+
+**Fixed bugs:**
+
+**Paid down technical debt:**
+
 ## v19.1 (2019-04-14)
 **Merged pull requests:**
 

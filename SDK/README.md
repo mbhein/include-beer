@@ -7,8 +7,8 @@ Use the contents of this directory to develop include-beer.
 
 ## Setup stubs
     cd ~/include-beer
-    # setup Adafruit_DHT stub
-    ln -s SDK/Adafruit_DHT.py Adafruit_DHT.py
+    # setup adafruit_dht stub
+    ln -s SDK/adafruit_dht.py adafruit_dht.py
 
     # setup DS18B20 stub
     export include_beer_probe_device_base=./SDK/

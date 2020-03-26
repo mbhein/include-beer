@@ -16,6 +16,8 @@ def readAmbient(data_pin):
         data_pin = eval('board.Empty')
     elif isinstance(data_pin, int):
         data_pin = eval('board.D' + str(data_pin))
+    elif isinstance(data_pin, str):
+        data_pin = eval('board.D' + data_pin)
     else:
         print('Data pin supplied is not a valid value')
         sys.exit(1)

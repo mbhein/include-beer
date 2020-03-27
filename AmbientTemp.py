@@ -29,8 +29,8 @@ def readAmbient(data_pin):
         return temperature_f, humidity
     except RuntimeError as error:
         # TODO: figure out better error handling and message return
-        print('Errors happen fairly often, DHT''s are hard to read, just keep going after you read the following error msg:')
-        print(error.args[0])
+        # print('Errors happen fairly often, DHT''s are hard to read, just keep going after you read the following error msg:')
+        # print(error.args[0])
         return "DHT read error", error.args[0]
 
 

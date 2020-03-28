@@ -1,5 +1,17 @@
 # Changelog
 
+## v20.1.01 (2020-03-28)
+**Merged pull requests:**
+
+**Implemented enhancements:**
+
+**Closed issues:**
+
+**Fixed bugs:**
+- Fixed issue where ambient function was printing errors and exiting
+
+**Paid down technical debt:**
+
 ## v20.1 (2020-03-25)
 **Merged pull requests:**
 Pip Install libraries https://github.com/mbhein/include-beer/pull/32

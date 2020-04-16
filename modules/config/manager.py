@@ -3,12 +3,12 @@
 """ Configuration Manager Class
 
     Reads all configuration files
-    - default.yml
+    - default_defs.yml
     - ~/include-beer.cfg
     - ENV INCLUDE_BEER_CONFIG
 
     Set configuration values based on order of precedents (lowest to highest)
-    - default.yml
+    - default_defs.yml
     - specified config file (~/beer/include-beer.cfg or ENV INCLUDE_BEER_CONFIG)
     - Environmental overrides
 
@@ -63,6 +63,10 @@ class ConfigManager(object):
             self._config_file_def = self._ini_to_dict(self._config_file)
             # cast our config file definitions
             self._config_file_def = self._cast_dict_values(self._config_file_def)
+
+        # TODO: loop through default_def checking for set ENV vars _env_config_defs
+        # TODO: cast any ENV vars set
+        # TODO: generate operating configuration by merging config_file_def onto default_defs, then _env_config_def onto those
 
 
     def _yaml_load(self, yaml_file):
@@ -169,3 +173,22 @@ class ConfigManager(object):
                 else:
                     _temp[_section] = _option_dict
         return _temp
+
+    def _env_config_defs(self):
+        """Return dictionary of set ENV variables
+
+        No keyword arguments, but does use the _default_def dictionary to find ENV variables set
+        """
+        _defs = {}
+        _d = self._default_def
+        for _s in list(_d):
+            _env_vars = _d[_s]['env']
+            _key = _d[_s]['ini'][0]['key']
+            for _env_var in _env_vars:
+                print(_env_var['name'])
+                if os.getenv(_env_var['name'], 0):
+                    _value = os.environ[_env_var['name']]
+                    _defs.update({_key: _value})
+
+        print(_defs)
+        return

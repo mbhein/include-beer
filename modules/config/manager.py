@@ -65,7 +65,7 @@ class ConfigManager(object):
             # cast our config file definitions
             self._config_file_def = self._cast_dict_values(self._config_file_def)
 
-        self._env_config_def = self._build_env_config()
+        self._env_config_def = self._build_env_config(self._default_def)
         # TODO: generate operating configuration by merging config_file_def onto default_defs, then _env_config_def onto those
 
 
@@ -174,21 +174,24 @@ class ConfigManager(object):
                     _temp[_section] = _option_dict
         return _temp
 
-    def _build_env_config(self):
+    def _build_env_config(self, d):
         """Return dictionary of set ENV variables
 
-        No keyword arguments, but does use the _default_def dictionary to find ENV variables set
+        Keyword arguments:
+        - d(dict): dictionary of default defintions
         """
-        _defs = {}
-        _d = self._default_def
-        for _s in list(_d):
-            _env_vars = _d[_s]['env']
-            _key = _d[_s]['ini'][0]['key']
-            _type = _d[_s]['type']
+        _env_dicts = {}
+        for _s in list(d):
+            _env_vars = d[_s]['env']
+            _key = d[_s]['ini'][0]['key']
+            _section = d[_s]['ini'][0]['section']
+            _type = d[_s]['type']
             for _env_var in _env_vars:
-                print(_env_var['name'])
                 if os.getenv(_env_var['name'], 0):
                     _value = os.environ[_env_var['name']]
-                    _defs.update({_key: self._cast_value(_value, _type)})
-
-        return _defs
+                    _entry = ({_key: self._cast_value(_value, _type)})
+                    if _section in _env_dicts:
+                        _env_dicts[_section].update(_entry)
+                    else:
+                        _env_dicts[_section] = _entry
+        return _env_dicts

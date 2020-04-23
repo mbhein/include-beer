@@ -1,19 +1,5 @@
 #!/usr/bin/env python3
 
-""" Configuration Manager Class
-
-    Reads all configuration files
-    - default_defs.yml
-    - ~/include-beer.cfg
-    - ENV INCLUDE_BEER_CONFIG
-
-    Set configuration values based on order of precedents (lowest to highest)
-    - default_defs.yml
-    - specified config file (~/beer/include-beer.cfg or ENV INCLUDE_BEER_CONFIG)
-    - Environmental overrides
-
-"""
-
 import os
 import io
 import sys
@@ -26,7 +12,27 @@ try:
 except ImportError:
     from yaml import SafeLoader
 
+
+class DotNotation(dict):
+    """dot.notation access to dictionary attributes"""
+    __getattr__ = dict.get
+    __setattr__ = dict.__setitem__
+    __delattr__ = dict.__delitem__
+
 class ConfigManager(object):
+    """ Configuration Manager Class
+
+    Reads all configuration files
+    - default_defs.yml
+    - ~/include-beer.cfg
+    - ENV INCLUDE_BEER_CONFIG
+
+    Set configuration values based on order of precedents (lowest to highest)
+    - default_defs.yml
+    - specified config file (~/beer/include-beer.cfg or ENV INCLUDE_BEER_CONFIG)
+    - Environmental overrides
+
+    """
 
     def __init__(self, cfg_file=None, defaults_file=None):
         self._default_def = {}
@@ -35,6 +41,8 @@ class ConfigManager(object):
         self._config_file = ''
         self._config_file_def = {}
         self._env_config_def = {}
+        self._ops_config = {}
+        self.config = {}
 
         self._use_config_file = False
 
@@ -65,9 +73,20 @@ class ConfigManager(object):
             # cast our config file definitions
             self._config_file_def = self._cast_dict_values(self._config_file_def)
 
+        # Build dicts containing env vars set
         self._env_config_def = self._build_env_config(self._default_def)
-        # TODO: generate operating configuration by merging config_file_def onto default_defs, then _env_config_def onto those
 
+        # add base config
+        self._ops_config = self._base_config_def.copy()
+        for _section in self._config_file_def:
+            self._ops_config[_section].update(self._config_file_def[_section])
+        for _section in self._env_config_def:
+            self._ops_config[_section].update(self._env_config_def[_section])
+       
+        # set operating config sections as attributes of object
+        # use dotdict to access dict items using dot notation
+        for _k, _v in self._ops_config.items():
+            setattr(self, _k, DotNotation(_v))
 
     def _yaml_load(self, yaml_file):
         """Return dictionary of yaml file provided
@@ -195,3 +214,4 @@ class ConfigManager(object):
                     else:
                         _env_dicts[_section] = _entry
         return _env_dicts
+

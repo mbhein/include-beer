@@ -42,7 +42,6 @@ class ConfigManager(object):
         self._config_file_def = {}
         self._env_config_def = {}
         self._ops_config = {}
-        self.config = {}
 
         self._use_config_file = False
 

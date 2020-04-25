@@ -12,12 +12,7 @@ try:
 except ImportError:
     from yaml import SafeLoader
 
-
-class DotNotation(dict):
-    """dot.notation access to dictionary attributes"""
-    __getattr__ = dict.get
-    __setattr__ = dict.__setitem__
-    __delattr__ = dict.__delitem__
+from modules.utils.dicts import DotNotation as DotNotation
 
 class ConfigManager(object):
     """ Configuration Manager Class

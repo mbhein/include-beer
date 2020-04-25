@@ -24,3 +24,6 @@ def test_config_mgr_class():
     # print(cfg._ops_config)
     print('config attributes')
     print(cfg.defaults)
+    print(cfg.fermentation)
+    print(cfg.DS18B20)
+    print(cfg.rfoutlet)

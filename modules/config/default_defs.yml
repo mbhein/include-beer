@@ -13,6 +13,28 @@ INCLUDE_BEER_AMBIENT_PIN:
     ini: 
         - { key: ambient_pin, section: defaults}
 
+INCLUDE_BEER_AMBIENT_SENSOR:
+    name: Ambient Sensor Type
+    type: string
+    default: DHT11
+    description:
+        - Name of sensor used to gather ambient temperature and humidity
+    env: 
+        - {name: INCLUDE_BEER_AMBIENT_SENSOR}
+    ini: 
+        - { key: ambient_sensor, section: defaults}
+
+INCLUDE_BEER_VESSEL_SENSOR:
+    name: Vessel Sensor Type
+    type: string
+    default: DS18B20
+    description:
+        - Name of sensor used to gather temperature of fermentation vessel
+    env: 
+        - {name: INCLUDE_BEER_VESSEL_SENSOR}
+    ini: 
+        - { key: vessel_sensor, section: defaults}
+
 INCLUDE_BEER_BASE_DIR:
     name: Base directory include-beer is installed in
     type: string
@@ -35,6 +57,17 @@ INCLUDE_BEER_LOG_DIR:
     ini: 
         - { key: log_dir, section: defaults}
 
+INCLUDE_BEER_STATS_DIR:
+    name: Location stats are written to
+    type: string
+    default: ~/include-beer/stats
+    description:
+        - Where include-beer stats are written to
+    env: 
+        - {name: INCLUDE_BEER_STATS_DIR}
+    ini: 
+        - { key: stats_dir, section: defaults}
+
 INCLUDE_BEER_DEBUG:
     name: If debug is enable or not
     type: boolean
@@ -46,3 +79,90 @@ INCLUDE_BEER_DEBUG:
     ini: 
         - { key: debug, section: defaults}
     
+INCLUDE_BEER_TARGET_TEMP:
+    name: Target temperature of fermentation
+    type: int
+    default: 68
+    description:
+        - Set target temperature to keep fermentation vessel at
+    env: 
+        - {name: INCLUDE_BEER_TARGET_TEMP}
+    ini: 
+        - { key: target_temp, section: fermentation}
+
+INCLUDE_BEER_STAGE:
+    name: Stage of fermentation
+    type: string
+    default: primary
+    description:
+        - Set fermenation stage
+    env: 
+        - {name: INCLUDE_BEER_STAGE}
+    ini: 
+        - { key: stage, section: fermentation}
+
+INCLUDE_BEER_HEAT_CONTROL_FILE:
+    name: File used to indicate heating element is on
+    type: string
+    default: ~/include-beer/status/ferm_heat_element_on
+    description:
+        - File used to indicate heating element is on
+    env: 
+        - {name: INCLUDE_BEER_HEAT_CONTROL_FILE}
+    ini: 
+        - { key: heat_control_file, section: fermentation}
+
+INCLUDE_BEER_DS18B20_BASE_DIR:
+    name: Base directory DS18B20 devices are listed in
+    type: string
+    default: /sys/bus/w1/devices
+    description:
+        - Base directory DS18B20 devices are listed in
+    env: 
+        - {name: INCLUDE_BEER_DS18B20_BASE_DIR}
+    ini: 
+        - { key: base_dir, section: DS18B20}
+
+INCLUDE_BEER_DS18B20_STAT_FILE:
+    name: DS18B20 file with temperatue stats
+    type: string
+    default: w1_slave
+    description:
+        - DS18B20 file with temperatue stats
+    env: 
+        - {name: INCLUDE_BEER_DS18B20_STAT_FILE}
+    ini: 
+        - { key: stat_file, section: DS18B20}
+
+INCLUDE_BEER_DS18B20_PROBE_ID_01:
+    name: DS18B20 probe 01 ID
+    type: string
+    default: None
+    description:
+        - DS18B20 ID of probe 01
+    env: 
+        - {name: INCLUDE_BEER_DS18B20_PROBE_ID_01}
+    ini: 
+        - { key: probe_id_01, section: DS18B20}
+
+INCLUDE_BEER_RFOUTLET_BASE_DIR:
+    name: Directory RFOutlet is installed in
+    type: string
+    default: ~/rfoutlet
+    description:
+        - Directory RFOutlet is installed in
+    env: 
+        - {name: INCLUDE_BEER_RFOUTLET_DIR}
+    ini: 
+        - { key: base_dir, section: rfoutlet}
+
+INCLUDE_BEER_RFOUTLET_OUTLET_01:
+    name: RFOutlet outlet 01 dictionary
+    type: dict
+    default: { pulse: 168, on_code: 5256451, off_code: 5256460}
+    description:
+        - RFOutlet outlet 01 dictionary: pulse, on_code, off_code
+    env: 
+        - {name: INCLUDE_BEER_RFOUTLET_OUTLET_01}
+    ini: 
+        - { key: outlet_01, section: rfoutlet}

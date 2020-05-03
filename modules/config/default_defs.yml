@@ -101,6 +101,17 @@ INCLUDE_BEER_STAGE:
     ini: 
         - { key: stage, section: fermentation}
 
+INCLUDE_BEER_CELLAR_NAME:
+    name: Name of Cellar to watch
+    type: string
+    default: None
+    description:
+        - Set name of cellar to watch
+    env: 
+        - {name: INCLUDE_BEER_CELLAR_NAME}
+    ini: 
+        - { key: name, section: cellar}
+
 INCLUDE_BEER_HEAT_CONTROL_FILE:
     name: File used to indicate heating element is on
     type: string

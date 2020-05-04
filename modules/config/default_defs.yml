@@ -104,7 +104,7 @@ INCLUDE_BEER_STAGE:
 INCLUDE_BEER_CELLAR_NAME:
     name: Name of Cellar to watch
     type: string
-    default: None
+    default: My Cellar
     description:
         - Set name of cellar to watch
     env: 

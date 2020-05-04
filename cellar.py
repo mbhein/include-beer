@@ -95,13 +95,11 @@ def main():
     # clear log_buffer
     log_this.info(' | '.join(map(str, log_buffer)))
     
-    # Write stats_buffer only if temp and humidity are integers
-    if isinstance(ambient_temp, float) and isinstance(ambient_humidity, float):
+    # Write stats_buffer only if temp and humidity are numeric
+    if isinstance(ambient_temp, (float, int)) and isinstance(ambient_humidity, (float, int)):
         stats_buffer['ambient_humidity'] = ambient_humidity
         stats_buffer['ambient_temperature'] = ambient_temp
         csv_dict_writer(stats_file, stats_field_names, stats_buffer)
-    print(stats_buffer)
-
 
 if __name__ == '__main__':
     main()

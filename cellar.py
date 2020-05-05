@@ -70,6 +70,8 @@ def main():
     # Set logging objects
     log_buffer = []
     log_dir = os.path.expanduser(config.defaults.log_dir)
+    if not os.path.exists(log_dir):
+        os.mkdir(log_dir)
     log_file = os.path.join(log_dir, 'cellar.log')
     log_this = logger.load_logger('include-beer.cellar', log_file, config.defaults.debug)
     log_this.debug('Opening cellar')

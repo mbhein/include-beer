@@ -38,8 +38,6 @@ class ConfigManager(object):
         self._env_config_def = {}
         self._ops_config = {}
 
-        self._use_config_file = False
-
         # Load in our default definition yaml file
         self._default_def = self._yaml_load(defaults_file or ('%s/default_defs.yml' % os.path.dirname(__file__)))
 
@@ -53,14 +51,17 @@ class ConfigManager(object):
         # if env INCLUDE_BEER_CONFIG is set, always use that
         # elif try ~/include-beer.cfg
         # else use base config defaults
+        _expanded_user_config = os.path.expanduser('~/include-beer.cfg')
         if os.getenv('INCLUDE_BEER_CONFIG', 0):
             _env_config_file = os.environ['INCLUDE_BEER_CONFIG']
             if os.path.exists(_env_config_file):
                 self._config_file = _env_config_file
                 self._use_config_file = True
-        elif os.path.exists('~/include-beer.cfg'):
-            self._config_file = '~/include-beer.cfg'
+        elif os.path.exists(_expanded_user_config):
+            self._config_file = _expanded_user_config
             self._use_config_file = True
+        else:
+            self._use_config_file = False
 
         if self._use_config_file:
             self._config_file_def = self._ini_to_dict(self._config_file)

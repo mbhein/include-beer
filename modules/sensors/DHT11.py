@@ -16,13 +16,17 @@ def read(data_pin, temp_format='f'):
         temp_format (str, default=f): c or f 
     """
     if isinstance(data_pin, str) and data_pin == 'Empty':
-        data_pin = eval('board.Empty')
+        _eval_str = 'board.Empty'
     elif isinstance(data_pin, int):
-        data_pin = eval('board.D' + str(data_pin))
+        _eval_str = 'board.D' + str(data_pin)
     elif isinstance(data_pin, str):
-        data_pin = eval('board.D' + data_pin)
+        _eval_str = 'board.D' + data_pin
     else:
         return "Data pin supplied is not a valid value", str(data_pin)
+    try:
+        data_pin = eval(_eval_str)
+    except AttributeError as error:
+        return "Data pin not found", str(data_pin)
     dht_device = adafruit_dht.DHT11(data_pin)
     try:
         # by default the device returns c

@@ -12,6 +12,7 @@ def test_probe_base():
 
 
 def test_main(capsys):
+    os.environ['include_beer_probe_device_base'] = './SDK'
     probeTemp.main()
     captured = capsys.readouterr()
     print(captured.out)

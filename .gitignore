@@ -6,6 +6,9 @@ Heaton
 *.log
 !example.log
 
+# Exclude build/dev stat files
+*.csv
+
 
 # Exclude symlinked stubs
 Adafruit_DHT.py

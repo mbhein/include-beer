@@ -1,3 +1,6 @@
+# Requirements installed on RPi
 requests
 pytz
-board
+adafruit-blinka
+adafruit-circuitpython-dht
+pyyaml

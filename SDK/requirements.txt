@@ -1,0 +1,6 @@
+# Requirements used in SDK
+# We use the generic board package until I can figure out how best to emulate GPIO on OSX
+requests
+pytz
+board
+pyyaml

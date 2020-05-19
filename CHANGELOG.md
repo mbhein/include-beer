@@ -1,5 +1,21 @@
 # Changelog
 
+## v20.2 (2020-05-19)
+**Merged pull requests:**
+Feature Beer Cellar https://github.com/mbhein/include-beer/pull/36 [\34] (https://github.com/mbhein/include-beer/issues/34)
+
+**Implemented enhancements:**
+- Moved to tiered configuration overrides (default yaml, local configuration file, environment variables)
+- Dynamically load sensors based on configuration
+- New design pattern of only programs being in root folder
+
+**Closed issues:**
+
+**Fixed bugs:**
+
+**Paid down technical debt:**
+- Moved to program tests to own directory and out of root
+
 ## v20.1.01 (2020-03-28)
 **Merged pull requests:**
 

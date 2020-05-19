@@ -76,6 +76,11 @@ Schedule project via cron to run every 5 minutes
 # View Brew log
 See [include-beer-app README](include-beer-app.MD) on running web app to monitor fermentation process.
 
+## Beer Cellar
+Beer Cellar is a new feature that records the ambient temperature and humidity of a location (i.e. beer cellar, conditioning room) to a csv file.
+
+# TODO: Write up on using cellar.py
+
 # Why the name include-beer?
 Once upon a time, <a href="https://www.thinkgeek.com/product/27f9/">thinkgeek.com</a> sold pint glasses etched with
   #include <beer.h>

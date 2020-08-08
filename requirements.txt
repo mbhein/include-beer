@@ -4,3 +4,7 @@ pytz
 adafruit-blinka
 adafruit-circuitpython-dht
 pyyaml
+
+# Graphing packages
+dash==1.14.0
+pandas

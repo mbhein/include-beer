@@ -13,7 +13,7 @@ def test_found(capsys):
 
 
 def test_not_found(capsys):
-    probe_id = '28-2019'
+    probe_id = '28-2020'
     base_dir = './SDK'
     data_file = 'w1_slave'
     temp = sensor.read(probe_id, base_dir, data_file)

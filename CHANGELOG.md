@@ -1,5 +1,21 @@
 # Changelog
 
+## v20.3 (2020-08-08)
+**Merged pull requests:**
+Feat: Monitor multiple fermentation vessels https://github.com/mbhein/include-beer/pull/38 [\38]
+
+**Implemented enhancements:**
+- DS18B20 Sensor module
+- Fermentation primary script
+
+**Closed issues:**
+- Control multiple fermentation vessels? [\#23] (https://github.com/mbhein/include-beer/issues/23)
+
+**Fixed bugs:**
+
+**Paid down technical debt:**
+
+
 ## v20.2 (2020-05-19)
 **Merged pull requests:**
 Feature Beer Cellar https://github.com/mbhein/include-beer/pull/36 [\34] (https://github.com/mbhein/include-beer/issues/34)

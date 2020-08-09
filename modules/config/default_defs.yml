@@ -190,3 +190,25 @@ INCLUDE_BEER_RFOUTLET_OUTLET_01:
         - {name: INCLUDE_BEER_RFOUTLET_OUTLET_01}
     ini: 
         - { key: outlet_01, section: rfoutlet}
+
+INCLUDE_BEER_WEB_DEBUG:
+    name: Run flask web app(s) in debug mode
+    type: bool
+    default: False
+    description:
+        - Run flash web app(s) in debug mode
+    env: 
+        - {name: INCLUDE_BEER_WEB_DEBUG}
+    ini: 
+        - { key: debug, section: web}
+
+INCLUDE_BEER_WEB_DATA_REFRESH_RATE:
+    name: How often data is refreshed on web site (seconds)
+    type: int
+    default: 300
+    description:
+        - Refresh rate of data on web site (seconds)
+    env: 
+        - {name: INCLUDE_BEER_WEB_DATA_REFRESH_RATE}
+    ini: 
+        - { key: data_refresh_rate, section: web}

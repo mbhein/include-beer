@@ -7,37 +7,54 @@
 import dash
 import dash_core_components as dcc
 import dash_html_components as html
+from dash.dependencies import Input, Output
 import plotly.express as px
 import pandas as pd
+
+import datetime
+
+
 
 external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
 
 app = dash.Dash(__name__, external_stylesheets=external_stylesheets)
 
-# assume you have a "long-form" data frame
-# see https://plotly.com/python/px-arguments/ for more options
-df = pd.DataFrame({
-    "Fruit": ["Apples", "Oranges", "Bananas", "Apples", "Oranges", "Bananas"],
-    "Amount": [4, 1, 2, 2, 4, 5],
-    "City": ["SF", "SF", "SF", "Montreal", "Montreal", "Montreal"]
-})
-
-df = pd.read_csv('/Users/matt/Documents/git-repos/include-beer/stats/fermentation.csv')
-
-fig = px.bar(df, x="time", y="vessel_temperature", color="vessel", barmode="group")
+data_refresh_rate = 60 # in seconds
 
 app.layout = html.Div(children=[
-    html.H1(children='Hello Dash'),
-
-    html.Div(children='''
-        Dash: A web application framework for Python.
-    '''),
+    html.H1(children='Fermentation Monitoring'),
+    html.Div(id='live-text'),
 
     dcc.Graph(
-        id='example-graph',
-        figure=fig
-    )
+        id='graph-vessel-temperatures'
+    ),
+    dcc.Interval(
+        id='interval-component',
+        interval=data_refresh_rate*1000,  # in milliseconds
+        n_intervals=0
+    ),
+    html.Div(children='Data refresh rate (in seconds): ' +
+             str(data_refresh_rate),),
 ])
+
+@app.callback(Output('live-text', 'children'),
+              [Input('interval-component', 'n_intervals')])
+def update_live_text(n):
+
+    live_text = 'Current vessel temperatures as of ' + \
+        str(datetime.datetime.now())
+
+    return live_text
+
+@app.callback(Output('graph-vessel-temperatures', 'figure'),
+            [Input('interval-component', 'n_intervals')])
+def update_graph(n):
+
+    df = pd.read_csv('/Users/matt/Documents/git-repos/include-beer/stats/fermentation.csv')
+
+    fig = px.line(df, x="timestamp", y="vessel_temperature", color="vessel")
+
+    return fig
 
 if __name__ == '__main__':
     app.run_server(debug=True)

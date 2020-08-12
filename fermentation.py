@@ -6,6 +6,7 @@
 
 """
 import time
+from datetime import datetime
 import os, sys
 import logging
 import importlib
@@ -60,14 +61,15 @@ def main():
     
     # Set stats objects
     stats_buffer = {}
-    stats_field_names = ['date','time','fermentation_stage','vessel','vessel_temperature']
+    stats_field_names = ['timestamp','fermentation_stage','vessel','vessel_temperature']
     stats_dir = os.path.expanduser(config.defaults.stats_dir)
     if not os.path.exists(stats_dir):
         os.mkdir(stats_dir)
     stats_file = os.path.join(stats_dir, 'fermentation.csv')
     stats_buffer['fermentation_stage'] = config.fermentation.stage
-    stats_buffer['date'] = time.strftime("%Y-%m-%d", time.localtime())
-    stats_buffer['time'] = time.strftime("%H:%M:%S", time.localtime())
+    stats_date = datetime.now()
+    stats_buffer['timestamp'] = stats_date.isoformat() # ("%Y-%m-%d", time.localtime())
+
 
     # Set logging objects
     log_buffer = []

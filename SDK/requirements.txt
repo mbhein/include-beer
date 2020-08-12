@@ -4,3 +4,7 @@ requests
 pytz
 board
 pyyaml
+
+# graphing
+dash==1.14.0
+pandas

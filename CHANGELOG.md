@@ -1,5 +1,20 @@
 # Changelog
 
+## v20.4 (2020-08-12)
+**Merged pull requests:**
+
+**Implemented enhancements:**
+- Update Flask server structure
+- Webapp uses common modules and configuration
+- Dash/Plotly graphs of fermentation stats
+
+**Closed issues:**
+- Display fermentation stats graph in web page [\#39] (https://github.com/mbhein/include-beer/issues/39)
+
+**Fixed bugs:**
+
+**Paid down technical debt:**
+
 ## v20.3 (2020-08-08)
 **Merged pull requests:**
 Feat: Monitor multiple fermentation vessels https://github.com/mbhein/include-beer/pull/38 [\38]

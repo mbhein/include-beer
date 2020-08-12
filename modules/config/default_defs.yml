@@ -190,3 +190,47 @@ INCLUDE_BEER_RFOUTLET_OUTLET_01:
         - {name: INCLUDE_BEER_RFOUTLET_OUTLET_01}
     ini: 
         - { key: outlet_01, section: rfoutlet}
+
+INCLUDE_BEER_WEB_DEBUG:
+    name: Run flask web app(s) in debug mode
+    type: bool
+    default: False
+    description:
+        - Run flash web app(s) in debug mode
+    env: 
+        - {name: INCLUDE_BEER_WEB_DEBUG}
+    ini: 
+        - { key: debug, section: web}
+
+INCLUDE_BEER_WEB_HOST:
+    name: Host IP of Flask server
+    type: string
+    default: 0.0.0.0
+    description:
+        - Host IP of Flask server
+    env: 
+        - {name: INCLUDE_BEER_WEB_HOST}
+    ini: 
+        - { key: host, section: web}
+
+INCLUDE_BEER_WEB_PORT:
+    name: Host PORT of Flask server
+    type: int
+    default: 8080
+    description:
+        - Host PORT of Flask server
+    env: 
+        - {name: INCLUDE_BEER_WEB_PORT}
+    ini: 
+        - { key: port, section: web}
+
+INCLUDE_BEER_WEB_DATA_REFRESH_RATE:
+    name: How often data is refreshed on web site (seconds)
+    type: int
+    default: 300
+    description:
+        - Refresh rate of data on web site (seconds)
+    env: 
+        - {name: INCLUDE_BEER_WEB_DATA_REFRESH_RATE}
+    ini: 
+        - { key: data_refresh_rate, section: web}

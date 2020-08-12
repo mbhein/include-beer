@@ -74,7 +74,13 @@ Schedule project via cron to run every 5 minutes
     */5 * * * * cd {{ project directory }} && python3 brew.py
 
 # View Brew log
-See [include-beer-app README](include-beer-app.MD) on running web app to monitor fermentation process.
+
+Run Flask webapp located in webapp/app.py:
+
+      cd {{ project directory }}
+      python3 webapp/app.py > logs/webapp.log &
+
+Then goto http://{{ RPi Host }}:8080
 
 ## Beer Cellar
 Beer Cellar is a new feature that records the ambient temperature and humidity of a location (i.e. beer cellar, conditioning room) to a csv file.

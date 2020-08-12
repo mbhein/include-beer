@@ -111,5 +111,5 @@ def update_graph(n):
 
 if __name__ == '__main__':
 
-
-    server.run(debug=True, host='0.0.0.0', port=8080)
+    server.run(debug=config.web.debug,
+               host=config.web.host, port=config.web.port)

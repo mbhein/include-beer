@@ -202,6 +202,28 @@ INCLUDE_BEER_WEB_DEBUG:
     ini: 
         - { key: debug, section: web}
 
+INCLUDE_BEER_WEB_HOST:
+    name: Host IP of Flask server
+    type: string
+    default: 0.0.0.0
+    description:
+        - Host IP of Flask server
+    env: 
+        - {name: INCLUDE_BEER_WEB_HOST}
+    ini: 
+        - { key: host, section: web}
+
+INCLUDE_BEER_WEB_PORT:
+    name: Host PORT of Flask server
+    type: int
+    default: 8080
+    description:
+        - Host PORT of Flask server
+    env: 
+        - {name: INCLUDE_BEER_WEB_PORT}
+    ini: 
+        - { key: port, section: web}
+
 INCLUDE_BEER_WEB_DATA_REFRESH_RATE:
     name: How often data is refreshed on web site (seconds)
     type: int

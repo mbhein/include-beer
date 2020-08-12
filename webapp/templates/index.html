@@ -1,7 +1,7 @@
 <html>
  <body>
   <h1>Include-Beer!</h1>
-  <p>
+  <!--<p>
   <table>
    <tr align=left valign=top>
     <td width=200>
@@ -25,7 +25,12 @@
    </tr>
   </table>
   </p>
-  <p>{{ content|safe }}</p>
-  <p><a href="/brewlog">Read Brew Log</a></p>
+  <p>{{ content|safe }}</p>-->
+  <p><a href="/stats/">See Stats</a></p>
+  <p>Default Values
+    {% for key, value in defaults.items() %}
+    <ul>{{ key }} : {{ value }}</ul>
+    {% endfor %}
+    </p>
  </body>
 </html>

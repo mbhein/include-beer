@@ -1,4 +1,7 @@
-# include-beer-app
+# include-beer-app - Depracated as of v20.4
+
+### TODO: Update docker image to fit into updated structure
+
 Docker container that shows current brewlog via Flask web app.
 
 The Docker container is built from the mbhein/include-beer-app image listed below.

@@ -2,6 +2,7 @@ language: python
 python:
   - "3.5"
   - "3.6"
+  - "3.7"
 install:
   - ln -s SDK/adafruit_dht.py adafruit_dht.py
   - export include_beer_probe_device_base=./SDK/

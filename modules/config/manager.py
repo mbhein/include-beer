@@ -5,14 +5,8 @@ import io
 import sys
 import configparser
 
-from yaml import load as yaml_load
-try:
-    # use C version if possible for speedup
-    from yaml import CSafeLoader as SafeLoader
-except ImportError:
-    from yaml import SafeLoader
-
 from modules.utils.dicts import DotNotation as DotNotation
+import modules.utils.yaml as yaml
 
 class ConfigManager(object):
     """ Configuration Manager Class
@@ -39,7 +33,7 @@ class ConfigManager(object):
         self._ops_config = {}
 
         # Load in our default definition yaml file
-        self._default_def = self._yaml_load(defaults_file or ('%s/default_defs.yml' % os.path.dirname(__file__)))
+        self._default_def = yaml.yaml_loader(defaults_file or ('%s/default_defs.yml' % os.path.dirname(__file__)))
 
         # Set our base configuration definition based on
         self._base_config_def = self._build_base_config(self._default_def)
@@ -82,20 +76,6 @@ class ConfigManager(object):
         # use dotdict to access dict items using dot notation
         for _k, _v in self._ops_config.items():
             setattr(self, _k, DotNotation(_v))
-
-    def _yaml_load(self, yaml_file):
-        """Return dictionary of yaml file provided
-
-        Keyword Arguments:
-        - yaml_file(str): relative or full path to yaml file
-        """
-        if os.path.exists(yaml_file):
-            with open(yaml_file, 'rb') as defaults_def:
-                return yaml_load(defaults_def, Loader=SafeLoader) or {}
-
-        else:
-            # need to figure out a common error raising strategy
-            pass
 
     def _build_base_config(self, d):
         """Returns dictionaries of sections based on ini value

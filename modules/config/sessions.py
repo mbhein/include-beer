@@ -4,14 +4,8 @@ import os
 import io
 import sys
 
-from yaml import load as yaml_load
-try:
-    # use C version if possible for speedup
-    from yaml import CSafeLoader as SafeLoader
-except ImportError:
-    from yaml import SafeLoader
-
 from modules.utils.dicts import DotNotation as DotNotation
+import modules.utils.yaml as yaml
 
 class SessionManager(object):
     """ Fermentation Session Manager Class
@@ -46,21 +40,7 @@ class SessionManager(object):
         if self._use_session_file:
 
             # Load in our session yaml file
-            self.sessions = self._yaml_load(self._session_file)
-
-    def _yaml_load(self, yaml_file):
-        """Return dictionary of yaml file provided
-
-        Keyword Arguments:
-        - yaml_file(str): relative or full path to yaml file
-        """
-        if os.path.exists(yaml_file):
-            with open(yaml_file, 'rb') as defaults_def:
-                return yaml_load(defaults_def, Loader=SafeLoader) or {}
-
-        else:
-            # need to figure out a common error raising strategy
-            pass
+            self.sessions = yaml.yaml_loader(self._session_file)
 
     def _build_base_config(self, d):
         """Returns dictionaries of sections based on ini value

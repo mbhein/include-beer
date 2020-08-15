@@ -1,0 +1,22 @@
+- id: 123456
+  name: "Looking Pale Wheat Session"
+  vessels:
+    - name: Anvil_4gal
+      probe:
+        type: DS18B20
+        id: 28-0416a16419ff
+    - name: Demon_01
+      probe:
+        type: DS18B20
+        id: 28-01131f649414
+- id: 7890123
+  name: "Porter The Porter"
+  vessels:
+    - name: Anvil_7gal
+      probe:
+        type: DS18B20
+        id: 28-0416a16419f1
+    - name: Demon_02
+      probe:
+        type: DS18B20
+        id: 28-01131f649415

@@ -1,0 +1,12 @@
+ sessions:
+  - id: 123456
+    name: "Looking Pale Wheat Session"
+    vessels:
+      - name: Anvil_4gal
+        probe:
+          type: DS18B20
+          id: 28-0416a16419ff
+      - name: Demon
+        probe:
+          type: DS18B20
+          id: 28-01131f649414

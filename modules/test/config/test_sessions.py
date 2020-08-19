@@ -9,17 +9,17 @@ from types import SimpleNamespace
 
 def test_config_sessions_class():
     os.environ["INCLUDE_BEER_CONFIG_SESSION_FILE"] = ('%s/test_sessions.yml' % os.path.dirname(__file__))
-    brew = sessions_mgr.SessionManager()
+    brew = sessions_mgr.SessionsManager()
 
     print('Brew Session Values')
     print(brew.sessions)
     for session in brew.sessions:
-        s = SimpleNamespace(**session)
+        s = brew.session(session)
         print('---Session Name---')
-        print(s.name)
+        print(s)
         for vessel in s.vessels:
-            v = SimpleNamespace(**vessel)
+            # v = SimpleNamespace(**vessel)
             print('---Vessel Name---')
-            print(v.name)
-            print(v.probe['id'])
+            print(vessel.name)
+            print(vessel.probe.id)
 

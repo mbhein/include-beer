@@ -1,25 +1,20 @@
 import pytest
 import os
 import sys
-import json
+import types
 import modules.config.sessions as sessions_mgr
-
-from types import SimpleNamespace
-
 
 def test_config_sessions_class():
     os.environ["INCLUDE_BEER_CONFIG_SESSION_FILE"] = ('%s/test_sessions.yml' % os.path.dirname(__file__))
     brew = sessions_mgr.SessionsManager()
-
     print('Brew Session Values')
     print(brew.sessions)
     for session in brew.sessions:
+        assert type(session) is dict
         s = brew.session(session)
-        print('---Session Name---')
+        assert isinstance(s, types.SimpleNamespace) == True
         print(s)
         for vessel in s.vessels:
-            # v = SimpleNamespace(**vessel)
-            print('---Vessel Name---')
             print(vessel.name)
-            print(vessel.probe.id)
+            print(vessel.probe.type)
 

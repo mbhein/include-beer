@@ -1,5 +1,6 @@
-- id: 123456
+- id: ALE123456
   name: "Looking Pale Wheat Session"
+  stage: primary
   vessels:
     - name: Anvil_4gal
       probe:
@@ -8,9 +9,10 @@
     - name: Demon_01
       probe:
         type: DS18B20
-        id: 28-01131f649414
-- id: 7890123
+        serial_number: 28-01131f649414
+- id: ALE7890123
   name: "Porter The Porter"
+  stage: secondary
   vessels:
     - name: Anvil_7gal
       probe:
@@ -19,4 +21,4 @@
     - name: Demon_02
       probe:
         type: DS18B20
-        id: 28-01131f649415
+        serial_number: 28-01131f649415

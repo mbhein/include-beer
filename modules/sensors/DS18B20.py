@@ -19,19 +19,25 @@ def read_probe_data_file(file):
     f.close()
     return lines
 
-def read(probe_id, base_dir, data_file, temp_format='f'):
+
+def read(**kwargs):
     """read DS18B20 sensor
 
     Required:
-        probe_id (str): ID of probe to read
+        serial_number (str): ID of probe to read
         base_dir (str): base dir of probes
         data_file (str): file containing probe data
-        temp_format (str, default=f): c or f 
+        temperature_scale (str): c or f 
 
     Returns float if probe is found else string 'Probe not found'
     """
+    #probe, config = args
+    serial_number = kwargs['serial_number']
+    base_dir = kwargs['base_dir']
+    data_file = kwargs['data_file']
+    temperature_scale = kwargs['temperature_scale']
 
-    probe_data_file = base_dir + '/' + probe_id + '/' + data_file
+    probe_data_file = base_dir + '/' + serial_number + '/' + data_file
     if os.path.exists(probe_data_file):
         lines = read_probe_data_file(probe_data_file)
         while lines[0].strip()[-3:] != 'YES':
@@ -41,9 +47,9 @@ def read(probe_id, base_dir, data_file, temp_format='f'):
         if equals_pos != -1:
             raw_temperature = lines[1][equals_pos+2:]
             temperature_c = round(float(raw_temperature) / 1000.0, 2)
-            if temp_format == 'f':
+            if temperature_scale == 'f':
                 temperature = round(temperature_c * 9.0 / 5.0 + 32.0, 2)
-            elif temp_format == 'c':
+            elif temperature_scale == 'c':
                 temperature = temperature_c
         return temperature
     else:

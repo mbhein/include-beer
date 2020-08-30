@@ -67,7 +67,18 @@ INCLUDE_BEER_DEBUG:
         - {name: INCLUDE_BEER_DEBUG}
     ini: 
         - { key: debug, section: defaults}
-    
+
+INCLUDE_BEER_TEMPERATURE_SCALE:
+    name: Which temperature scale to use
+    type: string
+    default: f
+    description:
+        - Which temperature scale to use (f or c, default f)
+    env: 
+        - {name: INCLUDE_BEER_TEMPERATURE_SCALE}
+    ini: 
+        - { key: temperature_scale, section: defaults}
+
 INCLUDE_BEER_TARGET_TEMP:
     name: Target temperature of fermentation
     type: int

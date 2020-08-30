@@ -15,6 +15,7 @@ import plotly.express as px
 import pandas as pd
 sys.path.append('./')
 import modules.config.manager as cfg_mgr
+import modules.config.sessions as sessions_mgr
 import modules.config.logging as logger
 from modules.utils.dicts import DotNotation as DotNotation
 
@@ -36,44 +37,38 @@ def returnLines(file,numLines):
             content += contentDict[i] + '<br/>'
     return content
 
-
 # Set config object
 config = cfg_mgr.ConfigManager()
 
+# Set Brew sessions
+brew = sessions_mgr.SessionsManager()
+
 # Set stats dir
 stats_dir = os.path.expanduser(config.defaults.stats_dir)
-if not os.path.exists(stats_dir):
-    os.mkdir(stats_dir)
-stats_file = os.path.join(stats_dir, 'fermentation.csv')
-
-external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
 data_refresh_rate = config.web.data_refresh_rate
+external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
+
 
 server = flask.Flask(__name__)
 
 @server.route('/')
 def index():
-    # ambTemp, ambHumidity = AmbientTemp.readAmbient(props.ambientPin)
-    # probeTemperature = probeTemp.readProbe(props.probeBaseDir, props.probeDeviceFile)
-    # ambTemp, ambHumidity, probeTemperature = "N/A","N/A","N/A"
-    # beerName = props.beerName
-    # action = props.action
-    # now = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime())
-    # file = props.brewlog
-    # lines = 20
-    # content = returnLines(file,lines)
-    # return render_template('index.html', timeStamp=now, beerName=beerName, action=action, ambTemp=ambTemp,
-    #     ambHumidity=ambHumidity, pTemp=probeTemperature, minFermTemp=props.fermLow, maxFermTemp=props.fermHigh, content=content)
-    return flask.render_template('index.html', defaults=config.defaults)
+      return flask.render_template('index.html', defaults=config.defaults, sessions=brew.sessions)
+    
+
+app_dash = dash.Dash(__name__, server=server, external_stylesheets=external_stylesheets)
 
 
-app_dash = dash.Dash(__name__, server=server, routes_pathname_prefix='/stats/',
-                     external_stylesheets=external_stylesheets)
 
 app_dash.layout = html.Div(children=[
-    html.H1(children='Fermentation Monitoring'),
-    html.Div(id='live-text'),
 
+    # represents the URL bar, doesn't render anything
+    dcc.Location(id='url', refresh=False),
+
+    html.Div(id='session-text'),
+   
+    html.Div(id='live-text'),
+    
     dcc.Graph(
         id='graph-vessel-temperatures'
     ),
@@ -83,14 +78,24 @@ app_dash.layout = html.Div(children=[
         n_intervals=0
     ),
     html.Div(children='Data refresh rate (in seconds): ' +
-             str(data_refresh_rate),),
+            str(data_refresh_rate),),
     html.Div([
         html.A(href='/', children='Home')]),
 ])
 
+@app_dash.callback(Output('session-text', 'children'),
+                   [Input('url', 'pathname')])
+def update_session_text(pathname):
+    _session = pathname.split('/')[2]
+    brew_session = next(filter(
+        lambda session: session.get('id') == _session, brew.sessions), None)
+
+    text = 'Brew session: ' + brew_session['name']
+
+    return html.H1(children=text)
 
 @app_dash.callback(Output('live-text', 'children'),
-                   [Input('interval-component', 'n_intervals')])
+                [Input('interval-component', 'n_intervals')])
 def update_live_text(n):
 
     live_text = 'Current vessel temperatures as of ' + \
@@ -99,10 +104,14 @@ def update_live_text(n):
     return live_text
 
 @app_dash.callback(Output('graph-vessel-temperatures', 'figure'),
-                   [Input('interval-component', 'n_intervals')])
-def update_graph(n):
+                   [Input('interval-component', 'n_intervals'), Input('url', 'pathname')])
+def update_graph(n, pathname):
+    _session = pathname.split('/')[2]
+    brew_session = next(filter(
+        lambda session: session.get('id') == _session, brew.sessions), None)
 
-    #df = pd.read_csv(os.path.abspath('./stats/fermentation.csv'))
+    stats_file = os.path.abspath(os.path.join(
+        stats_dir, brew_session['id'] + '_' + brew_session['stage'] + '.csv'))
     df = pd.read_csv(stats_file)
 
     fig = px.line(df, x="timestamp", y="vessel_temperature", color="vessel")

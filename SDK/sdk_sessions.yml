@@ -11,6 +11,14 @@
       probe:
         type: DS18B20
         serial_number: 28-2019
+    - name: Carboy_6_5gal
+      probe:
+        type: DS18B20
+        serial_number: 28-20201
+    - name: Demon_01
+      probe:
+        type: DS18B20
+        serial_number: 28-2019
 - id: ALE7890123
   name: "Porter The Porter"
   stage: secondary

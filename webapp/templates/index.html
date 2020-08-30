@@ -30,10 +30,9 @@
     
     {% for session in sessions %}
     
-    <ol>{{ session.name }} - stats: <a href="/stats/{{ session.id }}">See Stats</a><</ol>
+    <ol>{{ session.name }} - stats: <a href="/stats/{{ session.id }}">See Stats</a></ol>
     {% endfor %}
   </p>
-  <p><a href="/stats/">See Stats</a></p>
   <p>Default Values
     {% for key, value in defaults.items() %}
     <ul>{{ key }} : {{ value }}</ul>

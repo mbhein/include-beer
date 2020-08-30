@@ -1,5 +1,21 @@
 # Changelog
 
+## v20.5 (2020-08-30)
+**Merged pull requests:**
+
+**Implemented enhancements:**
+- Separate Brew session configuration from application configuration
+- Framework to handle multiple Brew sessions with each session having multiple vessels 
+- Show stats graph for each Brew session
+- Temperature scale available across program (defaulted to F)
+
+**Closed issues:**
+- Separate current beer properties from main properties [\#21] (https://github.com/mbhein/include-beer/issues/21)
+
+**Fixed bugs:**
+
+**Paid down technical debt:**
+
 ## v20.4 (2020-08-12)
 **Merged pull requests:**
 

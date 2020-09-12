@@ -48,12 +48,13 @@ stats_dir = os.path.expanduser(config.defaults.stats_dir)
 data_refresh_rate = config.web.data_refresh_rate
 external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
 
+current_dir = os. getcwd()
 
 server = flask.Flask(__name__)
 
 @server.route('/')
 def index():
-      return flask.render_template('index.html', defaults=config.defaults, sessions=brew.sessions)
+      return flask.render_template('index.html', defaults=config.defaults, sessions=brew.sessions, current_dir=current_dir)
     
 
 app_dash = dash.Dash(__name__, server=server, external_stylesheets=external_stylesheets)

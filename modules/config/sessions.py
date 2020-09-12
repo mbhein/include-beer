@@ -25,12 +25,12 @@ class SessionsManager(object):
         self.sessions = {}
         
 
-        # If env INCLUDE_BEER_CONFIG_SESSION_FILE is set, always use that
+        # If env INCLUDE_BEER_SESSION_FILE is set, always use that
         # elif try ~/include-beer.cfg
         # else return empty dict
         _expanded_user_file = os.path.expanduser('~/include-beer-sessions.yml')
-        if os.getenv('INCLUDE_BEER_CONFIG_SESSION_FILE', 0):
-            _env_file = os.environ['INCLUDE_BEER_CONFIG_SESSION_FILE']
+        if os.getenv('INCLUDE_BEER_SESSION_FILE', 0):
+            _env_file = os.environ['INCLUDE_BEER_SESSION_FILE']
             if os.path.exists(_env_file):
                 self._session_file = _env_file
                 self._use_session_file = True

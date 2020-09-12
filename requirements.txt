@@ -1,8 +1,8 @@
 # Requirements installed on RPi
-requests
-pytz
-adafruit-blinka
-adafruit-circuitpython-dht
+# requests
+# pytz
+# adafruit-blinka
+# adafruit-circuitpython-dht
 pyyaml
 
 # Graphing packages

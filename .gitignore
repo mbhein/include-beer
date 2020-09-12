@@ -7,8 +7,7 @@ Heaton
 !example.log
 
 # Exclude build/dev stat files
-!azure_app/**
-*.csv
+stats/*.csv
 
 
 # Exclude symlinked stubs

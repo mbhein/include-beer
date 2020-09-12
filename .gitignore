@@ -7,7 +7,7 @@ Heaton
 !example.log
 
 # Exclude build/dev stat files
-!azure_app/*
+!azure_app/stats/*.csv
 *.csv
 
 

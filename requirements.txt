@@ -7,4 +7,5 @@ pyyaml
 
 # Graphing packages
 dash==1.14.0
+pandas
 # pandas is needed but will install via python3-pandas on raspbian

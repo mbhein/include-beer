@@ -32,10 +32,10 @@ class SessionsManager(object):
         if os.getenv('INCLUDE_BEER_SESSION_FILE', 0):
             _env_file = os.environ['INCLUDE_BEER_SESSION_FILE']
             if os.path.exists(_env_file):
-                self._session_file = _env_file
+                self.session_file = _env_file
                 self._use_session_file = True
         elif os.path.exists(_expanded_user_file):
-            self._session_file = _expanded_user_file
+            self.session_file = _expanded_user_file
             self._use_session_file = True
         else:
             self._use_session_file = False
@@ -43,7 +43,7 @@ class SessionsManager(object):
         if self._use_session_file:
 
             # Load in our session yaml file
-            self.sessions = yaml.yaml_loader(self._session_file)
+            self.sessions = yaml.yaml_loader(self.session_file)
 
     def session(self, dict):
         """ Return supplied session (as dict) as json object dot notated

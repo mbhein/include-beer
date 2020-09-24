@@ -16,7 +16,9 @@ import json
 import modules.config.manager as cfg_mgr
 import modules.config.sessions as sessions_mgr
 import modules.config.logging as logger
+import modules.utils.ftp as ftp
 from modules.utils.dicts import DotNotation as DotNotation
+
 
 
 def csv_has_header(file):
@@ -70,8 +72,6 @@ def main():
     stats_dir = os.path.expanduser(config.defaults.stats_dir)
     if not os.path.exists(stats_dir):
         os.mkdir(stats_dir)
-    
-
 
     # Set logging objects
     log_buffer = []
@@ -82,7 +82,19 @@ def main():
     log_this = logger.load_logger('include-beer.fermentation', log_file, config.defaults.debug)
     log_this.debug('Explore fermentation')
     log_buffer.append('Explore fermentation')
+
+    # build ftp connection
+    ftps = ftp.connect_tls(config.azure_app.ftp_host, config.azure_app.ftp_user, config.azure_app.ftp_passwd)
+    try:
+        ftps.cwd(config.azure_app.ftp_data_dir)
+        print(config.azure_app)
+    except Exception:
+        ftps.mkd(config.azure_app.ftp_data_dir)
     
+    # Send session file to FTP site
+    if os.path.exists(brew.session_file):
+            ftps.storbinary("STOR include-beer-sessions.yml", open(brew.session_file, 'rb'))
+
     # Loop on each Brew session
     for brew_session in brew.sessions:
         session = brew.session(brew_session)
@@ -139,6 +151,13 @@ def main():
             if session.control_temperature:
                 #TODO add code to control vessel temperature
                 pass
+        
+        # send stats file to ftp site if it exists
+        if os.path.exists(stats_file):
+            ftps.storbinary("STOR " + stats_file.split('/')[-1], open(stats_file, 'rb'))
+
+    
+    ftps.close()
 
 if __name__ == '__main__':
     main()

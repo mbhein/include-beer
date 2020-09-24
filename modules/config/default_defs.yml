@@ -245,3 +245,47 @@ INCLUDE_BEER_WEB_DATA_REFRESH_RATE:
         - {name: INCLUDE_BEER_WEB_DATA_REFRESH_RATE}
     ini: 
         - { key: data_refresh_rate, section: web}
+
+INCLUDE_BEER_AZURE_APP_FTP_HOST:
+    name: FTP Host for Azure App
+    type: string
+    default: ''
+    description:
+        - FTP host for Azure App
+    env: 
+        - {name: INCLUDE_BEER_AZURE_APP_FTP_HOST}
+    ini: 
+        - { key: ftp_host, section: azure_app}
+
+INCLUDE_BEER_AZURE_APP_FTP_USER:
+    name: FTP user
+    type: string
+    default: ''
+    description:
+        - FTP user
+    env: 
+        - {name: INCLUDE_BEER_AZURE_APP_FTP_USER}
+    ini: 
+        - { key: ftp_user, section: azure_app}
+
+INCLUDE_BEER_AZURE_APP_FTP_PASSWD:
+    name: FTP user password
+    type: string
+    default: ''
+    description:
+        - FTP user password
+    env: 
+        - {name: INCLUDE_BEER_AZURE_APP_FTP_PASSWD}
+    ini: 
+        - { key: ftp_passwd, section: azure_app}
+
+INCLUDE_BEER_AZURE_APP_FTP_DATA_DIR:
+    name: Data directory on FTP host
+    type: string
+    default: ''
+    description:
+        - FTP data directory
+    env: 
+        - {name: INCLUDE_BEER_AZURE_APP_FTP_DATA_DIR}
+    ini: 
+        - { key: ftp_data_dir, section: azure_app}

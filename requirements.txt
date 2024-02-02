@@ -6,5 +6,5 @@ adafruit-circuitpython-dht
 pyyaml
 
 # Graphing packages
-dash==1.14.0
+dash==2.15.0
 # pandas is needed but will install via python3-pandas on raspbian
